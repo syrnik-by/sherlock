@@ -1,0 +1,81 @@
+def testit_version = "1.2.8"
+
+java {
+    sourceCompatibility = JavaVersion.VERSION_11
+    targetCompatibility = JavaVersion.VERSION_11
+}
+
+configurations {
+    aspectConfig
+}
+
+dependencies {
+
+    implementation 'org.aspectj:aspectjrt:1.9.7'
+    implementation "ru.autotestframework.components:web-junit:${coreversion}"
+    implementation "ru.autotestframework.components:sql-steps:${coreversion}"
+    implementation "ru.autotestframework.components:http-steps:${coreversion}"
+    implementation "ru.autotestframework.components:web-elements:${coreversion}"
+
+    implementation "ru.psb.testit:testit-java-commons:$testit_version"
+    implementation "ru.psb.testit:testit-adapter-junit5:$testit_version"
+
+    implementation "org.projectlombok:lombok:${lombokVersion}"
+    annotationProcessor "org.projectlombok:lombok:${lombokVersion}"
+    aspectConfig "org.aspectj:aspectjweaver:1.9.7"
+    testImplementation "org.junit.jupiter:junit-jupiter-params:5.8.2"
+    testImplementation 'org.postgresql:postgresql:42.3.3'
+}
+
+configurations {
+    configureEach {
+        exclude group: 'ch.qos.logback', module: 'logback-classic'
+    }
+}
+
+//обеспечивает пердачу параметров в шагах отчета TestIt
+tasks.withType(JavaCompile) {
+    options.compilerArgs << '-parameters'
+}
+
+task junit5e2e(type: Test) {
+        def frameworkPropertiesPath = 'src/test/resources/framework.properties'
+        def testitPropertiesPath = 'src/test/resources/testit.properties'
+        def ipAddress = InetAddress.getLocalHost().getHostAddress()
+        def ipVM = ["172.19.136.3", "172.19.136.2", "172.19.136.5"]
+
+        ant.propertyfile(file: frameworkPropertiesPath) {
+            if (!ipVM.contains(ipAddress)) {
+                entry(key: "framework.ui.driver.web.path", value: "/usr/local/share/at-tools/yandexdriver")
+                entry(key: "chromeOptions", value: "--headless=new;--window-size=1920,1080;--incognito;--disable-gpu;--no-sandbox;--remote-allow-origins=*;--disable-extensions;--disable-dev-shm-usage")
+                entry(key: "browser.path", value: "/usr/bin/yandex-browser")
+            } else {
+                entry(key: "framework.ui.driver.web.path", value: "/opt/yandexdriver")
+                entry(key: "chromeOptions", value: "--headless=new;--window-size=1920,1080;--incognito;--whitelisted-ips=;--remote-allow-origins=*;--no-sandbox;--disable-dev-shm-usage;--remote-debugging-pipe")
+                entry(key: "browser.path", value: "/opt/yandex/browser/yandex-browser")
+            }
+        }
+
+        if (ipVM.contains(ipAddress)) {
+            ant.propertyfile(file: testitPropertiesPath) {
+                entry(key: "testRunName", value: project.hasProperty('runname') ? project.runname : '')
+            }
+        }
+
+        def weaver = configurations.aspectConfig.find { it.name.contains("aspectjweaver") }
+        jvmArgs += "-javaagent:$weaver"
+        def tags = project.hasProperty('tags') ? project.tags : 'regress'
+        def tagList = tags.split(',').collect { it.trim() }
+        useJUnitPlatform() {
+            includeTags(*tagList)
+        }
+        systemProperty 'spring.profiles.active', 'local'
+        systemProperty("framework.junit", true)
+        systemProperty 'junit.jupiter.extensions.autodetection.enabled', true
+
+//        systemProperty 'junit.jupiter.execution.parallel.enabled', false
+//        systemProperty 'junit.jupiter.execution.parallel.config.fixed.parallelism', 10
+//        systemProperties["junit.jupiter.execution.parallel.mode.default"] = "concurrent"
+//        systemProperties["junit.jupiter.execution.parallel.config.strategy"] = "custom"
+//        systemProperties["junit.jupiter.execution.parallel.config.custom.class"] = "ru.autotestframework.web_elements.services.ParallelExecutionConfig"
+}

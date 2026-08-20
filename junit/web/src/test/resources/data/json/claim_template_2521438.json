@@ -1,0 +1,4260 @@
+{
+  "claimId": "RKKL.${{claim_id}}_vrf_tstAT",
+  "claimWithVersions": [
+
+    {
+      "forms": [
+        {
+          "formPrimary": {
+            "appPath": "Ekl",
+            "applicantOther": "Заемщик",
+            "applicantType": "Borrower",
+            "birthDate": 182131200000,
+            "birthPlace": "Москва",
+            "borrowerAddress": [
+              {
+                "addressKind": "registration",
+                "addressKindOther": null,
+                "block": "1",
+                "building": "11",
+                "city": "Москва",
+                "cityType": "г.",
+                "country": "Россия",
+                "district": null,
+                "districtType": null,
+                "federalDistrict": "Москва",
+                "federalDistrictCode": 77,
+                "flat": "11",
+                "office": null,
+                "postalCode": "101000",
+                "region": null,
+                "regionType": null,
+                "sinceDate": 973900800000,
+                "street": "Маросейка",
+                "streetType": "ул.",
+                "structure": "1"
+              },
+              {
+                "addressKind": "living",
+                "addressKindOther": null,
+                "block": "1",
+                "building": "11",
+                "city": "Москва",
+                "cityType": "г.",
+                "country": "Россия",
+                "district": null,
+                "districtType": null,
+                "federalDistrict": "Москва",
+                "federalDistrictCode": 77,
+                "flat": "11",
+                "office": null,
+                "postalCode": "101000",
+                "region": null,
+                "regionType": null,
+                "sinceDate": null,
+                "street": "Маросейка",
+                "streetType": "ул.",
+                "structure": "1"
+              }
+            ],
+            "borrowerPhones": [
+              {
+                "phoneType": "mobile",
+                "phoneOther": null,
+                "number": "+72341231412"
+              },
+              {
+                "phoneType": "work",
+                "phoneOther": null,
+                "number": "+70189263779"
+              },
+              {
+                "phoneType": "service",
+                "phoneOther": null,
+                "number": "+72341231412"
+              }
+            ],
+            "cardLimitSum": 100000.0,
+            "certNumberRVI": null,
+            "clientGroupId": 2,
+            "clientId": ${{regex:([1-9][0-9]{7})}},
+        "codeFilial": 0,
+        "codeOffice": 24,
+        "consumerLoanProductSelected": true,
+        "contactPersonFullName": "Аывацук Ывацукывацу Выацукцйвфыв",
+        "contactPersonOther": null,
+        "contactPersonType": "HUSBAND",
+        "contactPhones": [
+          {
+            "phoneType": "mobile",
+            "phoneOther": null,
+            "number": "+75125123143"
+          }
+        ],
+        "creator": "TstKoltsovaKGTester",
+        "creatorComment": null,
+        "creditCardProductSelected": true,
+        "currencyId": 1,
+        "dateReturnToNIS": null,
+        "educationOther": null,
+        "educationType": "HIGH",
+        "email": "123123@mail.ru",
+        "employeeRank": null,
+        "exceptionReasonFromNIS": null,
+        "exceptReasonDocDate": null,
+        "firstName": "Ольга",
+        "formId": "L.${{claim_id}}_vrf_tstAT",
+        "formVersion": 2,
+        "formVersionDate": 1742283410000,
+        "hasPartTimeEmployment": false,
+        "identityDocuments": [
+          {
+            "documentKind": "inn",
+            "expiredDate": null,
+            "issuerCode": null,
+            "number": "489656789901",
+            "series": null,
+            "whenGivenDate": null,
+            "whereGiven": null
+          },
+          {
+            "documentKind": "passport",
+            "expiredDate": null,
+            "issuerCode": "100-101",
+            "number": "900101",
+            "series": "1109",
+            "whenGivenDate": 1728518400000,
+            "whereGiven": "ГУ МВД РОССИИ ПО ГУ"
+          },
+          {
+            "documentKind": "snils",
+            "expiredDate": null,
+            "issuerCode": null,
+            "number": "74969596197",
+            "series": null,
+            "whenGivenDate": null,
+            "whereGiven": null
+          }
+        ],
+        "isClientInOffice": false,
+        "isNotTypical": false,
+        "isOrangePriority": false,
+        "isPsbPriority": false,
+        "lastName": "Гроза",
+        "loanMonthPeriod": 60,
+        "loanProgramOther": null,
+        "loanProgramType": "S",
+        "loanPurpose": "01",
+        "loanPurposeOther": null,
+        "loanSum": 600000.0,
+        "maritalStatusOther": null,
+        "maritalStatusType": "M",
+        "middleName": "Ивановна",
+        "monthlyIncomes": [
+          {
+            "incomeKind": 2,
+            "formOther": null,
+            "formType": null,
+            "confirmedFormType": null,
+            "amount": 0.0,
+            "amountCorrect": null
+          },
+          {
+            "incomeKind": 3,
+            "formOther": null,
+            "formType": null,
+            "confirmedFormType": null,
+            "amount": 0.0,
+            "amountCorrect": null
+          },
+          {
+            "incomeKind": 1,
+            "formOther": null,
+            "formType": "ConfirmedIncomeForm4",
+            "confirmedFormType": "ConfirmedIncomeForm4",
+            "amount": 230000.0,
+            "amountCorrect": null
+          }
+        ],
+        "nationalityCountryId": true,
+        "nativeClientIds": [],
+        "nisDate": null,
+        "noSnilsCategoryType": null,
+        "noSnilsCategoryOther": null,
+        "previousFirstName": null,
+        "previousLastName": null,
+        "previousMiddleName": null,
+        "residence": "Resident",
+        "retailAppId": 916125843,
+        "submitterChannelType": "Manager",
+        "sexOther": null,
+        "sexType": "Women",
+        "sourceOther": null,
+        "sourceType": "InfoSource4",
+        "spouseBirthDate": 182131200000,
+        "spouseFirstName": "Данил",
+        "spouseLastName": "Холодов",
+        "spouseMiddleName": "Ашотович",
+        "spousePhones": [
+          {
+            "phoneType": "mobile",
+            "phoneOther": null,
+            "number": "+75125123143"
+          }
+        ],
+        "spousePreviousLastName": null,
+        "trlContractNumber": null,
+        "trlContractDate": null,
+        "vip": false,
+        "fioMrk": null,
+        "fioDoc": null,
+        "commentMrk": null,
+        "commentDoc": null,
+        "matchesAddressRegistration": true,
+        "regionalOfficeId": 1,
+        "isLprClient": false,
+        "zpCardsCount": null,
+        "avgIncomeZp": null,
+        "haveAShare": null
+        },
+        "formEtc": {
+          "borrowerConsents": [
+            {
+              "consentType": "PassToBki",
+              "consentOther": null,
+              "isConsent": true
+            },
+            {
+              "consentType": "AutoRepaymentMainAcc",
+              "consentOther": null,
+              "isConsent": true
+            },
+            {
+              "consentType": "AutoRepaymentAnyAcc",
+              "consentOther": null,
+              "isConsent": true
+            },
+            {
+              "consentType": "DebtServiceFromNotary",
+              "consentOther": null,
+              "isConsent": true
+            },
+            {
+              "consentType": "ConsentAdCarMoney",
+              "consentOther": null,
+              "isConsent": true
+            },
+            {
+              "consentType": "PersonalDataCarMoney",
+              "consentOther": null,
+              "isConsent": true
+            },
+            {
+              "consentType": "IssueChangeEp",
+              "consentOther": null,
+              "isConsent": true
+            },
+            {
+              "consentType": "PersonalDataProcessing",
+              "consentOther": null,
+              "isConsent": true
+            },
+            {
+              "consentType": "PersonalDataPartners",
+              "consentOther": null,
+              "isConsent": true
+            },
+            {
+              "consentType": "ToPhoto",
+              "consentOther": null,
+              "isConsent": true
+            },
+            {
+              "consentType": "ToCession",
+              "consentOther": null,
+              "isConsent": true
+            },
+            {
+              "consentType": "RequestFromBki",
+              "consentOther": null,
+              "isConsent": true
+            },
+            {
+              "consentType": "Promotion",
+              "consentOther": null,
+              "isConsent": true
+            }
+          ],
+          "carQuantity": 2,
+          "clientRatingOther": null,
+          "clientRatingType": "SOLVENT",
+          "employers": [
+            {
+              "employedSinceDate": 970358400000,
+              "employeePosition": "инженер",
+              "employeesQuantityOther": null,
+              "employeesQuantityType": "С500",
+              "employeeStatusOther": null,
+              "employeeStatusType": "GENERAL",
+              "employerAddress": [
+                {
+                  "addressKind": "corresponding",
+                  "addressKindOther": null,
+                  "block": null,
+                  "building": "107",
+                  "city": "Воронеж",
+                  "cityType": "г.",
+                  "country": "Россия",
+                  "district": null,
+                  "districtType": null,
+                  "federalDistrict": "Воронежская область",
+                  "federalDistrictCode": 36,
+                  "flat": null,
+                  "office": null,
+                  "postalCode": "394052",
+                  "region": null,
+                  "regionType": null,
+                  "sinceDate": null,
+                  "street": "Острогожская",
+                  "streetType": "ул.",
+                  "structure": null
+                },
+                {
+                  "addressKind": "physical",
+                  "addressKindOther": null,
+                  "block": null,
+                  "building": "107",
+                  "city": "Воронеж",
+                  "cityType": "г.",
+                  "country": "Россия",
+                  "district": null,
+                  "districtType": null,
+                  "federalDistrict": "Воронежская область",
+                  "federalDistrictCode": 36,
+                  "flat": null,
+                  "office": null,
+                  "postalCode": "394052",
+                  "region": null,
+                  "regionType": null,
+                  "sinceDate": null,
+                  "street": "Острогожская",
+                  "streetType": "ул.",
+                  "structure": null
+                }
+              ],
+              "employerChiefFullName": null,
+              "employerFieldOther": null,
+              "employerFieldType": null,
+              "employerFormOther": null,
+              "employerFormType": "ZAO_OAO",
+              "employerIdForRkk": "7e3b31ed-7259-4f52-a579-748f02e9c379",
+              "employerName": "АО \"Турбонасос\" - ТОП ОПК",
+              "employerOther": null,
+              "employerType": "COM",
+              "employerPhones": [],
+              "employerTaxPayerNumber": "3665086483",
+              "employmentKind": "MainJob",
+              "employmentOther": null,
+              "employmentType": "PERMANENT",
+              "kpp": "366501001"
+            }
+          ],
+          "employmentMonths": null,
+          "employmentYears": null,
+          "hasCar": true,
+          "hasFlat": true,
+          "isRetiree": false,
+          "retireeType": 0,
+          "otherPropertyAvailability": true,
+          "outwardAppearanceOther": null,
+          "outwardAppearanceType": "Outward_1",
+          "publicServant": null
+        },
+        "formBorrower": {
+          "claimId": "RKKL.${{claim_id}}_vrf_tstAT",
+          "claimVer": 2,
+          "claimVerDate": 1742283410000,
+          "issueDate": 1742293751000,
+          "militaryStatus": "1",
+          "nisExcludeDate": null
+        },
+        "formMortgage": null,
+        "preUnder": null,
+        "idealKICorrect": null,
+        "incomeCorrect": null,
+        "documents": [
+          {
+            "documentTypeName": "122",
+            "name": null,
+            "originalFileName": "test1.pdf",
+            "storageFileTime": 1742283403000,
+            "linkDoc": "09036019ad929ced"
+          },
+          {
+            "documentTypeName": "122",
+            "name": null,
+            "originalFileName": "test1.pdf",
+            "storageFileTime": 1742283403000,
+            "linkDoc": "09036019ad929cee"
+          }
+        ]
+        }
+      ],
+      "claimStatusAndScans": {
+        "claimStatus": null,
+        "history": {
+          "eventList": [
+            {
+              "eventId": "48ee4d04-70c3-43fe-b5f8-ac21b778f20c",
+              "eventTime": 1742283039000,
+              "eventUser": "rkk-system",
+              "eventUserLogin": null,
+              "eventName": null,
+              "eventCode": "rkk_change_state",
+              "eventComment": "Заявка создана",
+              "statusOld": null,
+              "statusNew": null,
+              "addressIP": null,
+              "sessionId": null,
+              "claimId": "RKKL.${{claim_id}}_vrf_tstAT",
+              "eventObject": null,
+              "objectType": null
+            },
+            {
+              "eventId": "59c89782-fe74-43f6-bd5a-8ea810706708",
+              "eventTime": 1742283039000,
+              "eventUser": "rkk-system",
+              "eventUserLogin": null,
+              "eventName": null,
+              "eventCode": "rkk_change_state",
+              "eventComment": "Получена вторая часть анкеты",
+              "statusOld": null,
+              "statusNew": null,
+              "addressIP": null,
+              "sessionId": null,
+              "claimId": "RKKL.${{claim_id}}_vrf_tstAT",
+              "eventObject": null,
+              "objectType": null
+            },
+            {
+              "eventId": "7eb5dcc6-1a04-489d-97d1-464c37842602",
+              "eventTime": 1742283042000,
+              "eventUser": "rkk-system",
+              "eventUserLogin": null,
+              "eventName": null,
+              "eventCode": "rkk_change_state",
+              "eventComment": "Ожидание решения от СПР",
+              "statusOld": null,
+              "statusNew": null,
+              "addressIP": null,
+              "sessionId": null,
+              "claimId": "RKKL.${{claim_id}}_vrf_tstAT",
+              "eventObject": null,
+              "objectType": null
+            },
+            {
+              "eventId": "73606dd5-da03-4a15-9be1-5b140fffb4e8",
+              "eventTime": 1742283043000,
+              "eventUser": "rkk-system",
+              "eventUserLogin": null,
+              "eventName": null,
+              "eventCode": "rkk_change_state",
+              "eventComment": "Сбор данных для СПР",
+              "statusOld": null,
+              "statusNew": null,
+              "addressIP": null,
+              "sessionId": null,
+              "claimId": "RKKL.${{claim_id}}_vrf_tstAT",
+              "eventObject": null,
+              "objectType": null
+            },
+            {
+              "eventId": "5f6a7594-3a5c-4363-8112-94578846de5e",
+              "eventTime": 1742283073000,
+              "eventUser": "rkk-system",
+              "eventUserLogin": null,
+              "eventName": null,
+              "eventCode": "rkk_change_state",
+              "eventComment": "Ожидание предварительного решения",
+              "statusOld": null,
+              "statusNew": null,
+              "addressIP": null,
+              "sessionId": null,
+              "claimId": "RKKL.${{claim_id}}_vrf_tstAT",
+              "eventObject": null,
+              "objectType": null
+            },
+            {
+              "eventId": "1f506381-9eb4-4b4f-9cf6-982cca26d67e",
+              "eventTime": 1742283074000,
+              "eventUser": "rkk-system",
+              "eventUserLogin": null,
+              "eventName": null,
+              "eventCode": "rkk_change_state",
+              "eventComment": "Ожидание решения от СПР",
+              "statusOld": null,
+              "statusNew": null,
+              "addressIP": null,
+              "sessionId": null,
+              "claimId": "RKKL.${{claim_id}}_vrf_tstAT",
+              "eventObject": null,
+              "objectType": null
+            },
+            {
+              "eventId": "5bcc647e-17ec-4b4c-8a57-8fef40f00ff0",
+              "eventTime": 1742283086000,
+              "eventUser": "rkk-system",
+              "eventUserLogin": null,
+              "eventName": null,
+              "eventCode": "rkk_change_state",
+              "eventComment": "Выбор предварительного решения клиентом",
+              "statusOld": null,
+              "statusNew": null,
+              "addressIP": null,
+              "sessionId": null,
+              "claimId": "RKKL.${{claim_id}}_vrf_tstAT",
+              "eventObject": null,
+              "objectType": null
+            },
+            {
+              "eventId": "79caa85b-cfe0-4b7d-81ab-a1a5ba95b736",
+              "eventTime": 1742283410000,
+              "eventUser": "rkk-system",
+              "eventUserLogin": null,
+              "eventName": null,
+              "eventCode": "rkk_change_state",
+              "eventComment": "Получено предварительное  решение",
+              "statusOld": null,
+              "statusNew": null,
+              "addressIP": null,
+              "sessionId": null,
+              "claimId": "RKKL.${{claim_id}}_vrf_tstAT",
+              "eventObject": null,
+              "objectType": null
+            },
+            {
+              "eventId": "d0ff6a64-bb8a-4055-9514-9554544b095d",
+              "eventTime": 1742283412000,
+              "eventUser": "rkk-system",
+              "eventUserLogin": null,
+              "eventName": null,
+              "eventCode": "rkk_change_state",
+              "eventComment": "Ожидание решения от СПР",
+              "statusOld": null,
+              "statusNew": null,
+              "addressIP": null,
+              "sessionId": null,
+              "claimId": "RKKL.${{claim_id}}_vrf_tstAT",
+              "eventObject": null,
+              "objectType": null
+            },
+            {
+              "eventId": "c31508f7-e185-4b4c-a6bd-ef7c1dc3bca6",
+              "eventTime": 1742283427000,
+              "eventUser": "rkk-system",
+              "eventUserLogin": null,
+              "eventName": null,
+              "eventCode": "rkk_change_state",
+              "eventComment": "Ожидание проверки Шерлока",
+              "statusOld": null,
+              "statusNew": null,
+              "addressIP": null,
+              "sessionId": null,
+              "claimId": "RKKL.${{claim_id}}_vrf_tstAT",
+              "eventObject": null,
+              "objectType": null
+            }
+          ]
+        }
+      },
+      "undDecision": null,
+      "undDecisionCaseList": [],
+      "idealKI": [
+        {
+          "formId": "L.${{claim_id}}_vrf_tstAT",
+          "idealKIVersion": 1,
+          "idealKIVersionDate": 1742283047000,
+          "usoReportId": "5067581:23977226",
+          "credits": [
+            {
+              "arrearsCnt": null,
+              "bankName": null,
+              "clientOrSpouseOther": "Заявитель",
+              "clientOrSpouseType": "0",
+              "clientOther": null,
+              "clientType": "1",
+              "contractNumber": "5067581",
+              "creditId": null,
+              "creditIdRefinance": null,
+              "creditProgramOther": null,
+              "creditProgramType": "9",
+              "creditSum": 140000.0,
+              "creditTypeOther": null,
+              "creditTypeType": 9,
+              "currency": "RUB",
+              "debts": 40000.0,
+              "duration": null,
+              "factDate": -62135424000000,
+              "factFinalDate": -62135424000000,
+              "finalDate": 1759276800000,
+              "infoLastUpdateDate": 1742256000000,
+              "loanProgramOther": null,
+              "loanProgramType": "9",
+              "mark": true,
+              "monthlyPayment": 156250.0,
+              "overdueAmount": 0.0,
+              "psbCredit": false,
+              "rate": 15.0,
+              "recordNum": 1,
+              "refinanceResultSum": 40000.0,
+              "sourceOther": null,
+              "sourceType": "EI,NBCH,ECS",
+              "sourceCode": "ExternalClaims",
+              "startDate": 1651363200000,
+              "statusOther": null,
+              "statusType": "00",
+              "undMark": null,
+              "worstCategory12": null,
+              "worstCategory12Int": null,
+              "worstCategory3": null,
+              "worstCategory3Int": null,
+              "worstCategory6": null,
+              "worstCategory6Int": null,
+              "isRefMortgageUnd": null,
+              "paymentsDiscipline": "11A11",
+              "paymentsDisciplineStart": -62135424000000,
+              "payments": [
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": null,
+                  "paymentCat": "1",
+                  "paymentDate": 1664582400000,
+                  "paymentNum": 1,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": null,
+                  "paymentCat": "1",
+                  "paymentDate": 1667260800000,
+                  "paymentNum": 2,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": null,
+                  "paymentCat": "A",
+                  "paymentDate": 1669852800000,
+                  "paymentNum": 3,
+                  "paymentStatus": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "antiFraud": [],
+      "autoCheckForms": [
+        {
+          "formId": "L.${{claim_id}}_vrf_tstAT",
+          "spark": [
+            {
+              "active": "2",
+              "addressCount": 2,
+              "cacheUse": 1,
+              "charterCapital": "117392000",
+              "companySize": null,
+              "companyType": 1,
+              "created": 1742293537000,
+              "dateFirstReg": 1326326400000,
+              "egrulLicvidation": null,
+              "executed": "16",
+              "fullNameOPF": "Непубличные акционерные общества",
+              "fullNameRus": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТУРБОНАСОС\"",
+              "inn": "3665086483",
+              "isActing": "1",
+              "kpp": "366501001",
+              "managerCountInCountry": 1,
+              "managerCountInRegion": 1,
+              "okfs": "Собственность государственных корпораций",
+              "okoguCode": "4100307",
+              "okoguName": "Государственная корпорация по космической деятельности \"Роскосмос\"",
+              "okvedName": "Производство гидравлических насосов",
+              "periodName": "2018",
+              "profit": "36571000",
+              "resultType": "TRUE",
+              "revenue": "909721000",
+              "shortNameRus": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТУРБОНАСОС\"",
+              "status": "Действующее",
+              "statusDate": 1742256000000,
+              "telephoneCount": 3,
+              "workersRange": null,
+              "okvedCode": "28.12.2",
+              "employerIdForRkk": "7e3b31ed-7259-4f52-a579-748f02e9c379",
+              "employmentKind": "MainJob"
+            }
+          ],
+          "wsOpen": [
+            {
+              "egrip": null,
+              "egrul": {
+                "balanceYear": 2018,
+                "codeOkved": "28.12.2",
+                "created": 1742283050000,
+                "dateExcerpt": 1738022400000,
+                "dateOgrn": 1326326400000,
+                "fullName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТУРБОНАСОС\"",
+                "fullNameOpf": "НЕПУБЛИЧНЫЕ АКЦИОНЕРНЫЕ ОБЩЕСТВА",
+                "infoAddress": {
+                  "nameRegion": "Воронежская область",
+                  "typeRegion": null,
+                  "nameDistrict": null,
+                  "typeDistrict": null,
+                  "nameCity": "Воронеж",
+                  "typeCity": "Г.",
+                  "nameTown": null,
+                  "typeTown": null,
+                  "nameStreet": "ОСТРОГОЖСКАЯ",
+                  "typeStreet": "УЛ.",
+                  "house": "Д.107",
+                  "corpus": null,
+                  "index": "394052",
+                  "kvart": null,
+                  "codeAdrKladr": "360000010000649",
+                  "codeRegion": "36",
+                  "signUnAuth": null
+                },
+                "infoFounders": null,
+                "infoManageAct": {
+                  "infoFlManage": [
+                    {
+                      "fioRus": "СЕРИКОВ ВИТАЛИЙ ВЛАДИМИРОВИЧ",
+                      "innFl": "772807209054",
+                      "signUnAuth": null
+                    },
+                    {
+                      "fioRus": "СЕРИКОВ ВИТАЛИЙ ВЛАДИМИРОВИЧ",
+                      "innFl": "772807209054",
+                      "signUnAuth": null
+                    }
+                  ],
+                  "infoUlManage": []
+                },
+                "inn": "3665086483",
+                "kpp": "366501001",
+                "nameLicTypeAct": [
+                  "КОСМИЧЕСКАЯ ДЕЯТЕЛЬНОСТЬ",
+                  "Деятельность по сбору, транспортированию, обработке, утилизации, обезвреживанию, размещению отходов I - IV классов опасности",
+                  "Деятельность по перевозкам пассажиров и иных лиц автобусами",
+                  "КОНСТРУИРОВАНИЕ И ИЗГОТОВЛЕНИЕ ОБОРУДОВАНИЯ ДЛЯ ЯДЕРНЫХ УСТАНОВОК, РАДИАЦИОННЫХ ИСТОЧНИКОВ, ПУНКТОВ ХРАНЕНИЯ ЯДЕРНЫХ МАТЕРИАЛОВ И РАДИОАКТИВНЫХ ВЕЩЕСТВ, ХРАНИЛИЩ РАДИОАКТИВНЫХ ОТХОДОВ",
+                  "КОНСТРУИРОВАНИЕ И ИЗГОТОВЛЕНИЕ ОБОРУДОВАНИЯ ДЛЯ ЯДЕРНЫХ УСТАНОВОК, РАДИАЦИОННЫХ ИСТОЧНИКОВ, ПУНКТОВ ХРАНЕНИЯ ЯДЕРНЫХ МАТЕРИАЛОВ И РАДИОАКТИВНЫХ ВЕЩЕСТВ, ХРАНИЛИЩ РАДИОАКТИВНЫХ ОТХОДОВ"
+                ],
+                "nameNo": "Межрайонная инспекция Федеральной налоговой службы № 16 по Воронежской области",
+                "ogrn": "1123668001214",
+                "okogu": "4100307",
+                "profit": 36571.0,
+                "resResultType": 1,
+                "revenue": 909721.0,
+                "spravOpf": "ОКОПФ",
+                "statusCodeUl": "001",
+                "statusNameUl": "Действующее",
+                "sumCapital": 117392000.0,
+                "versionOkved": "2014",
+                "employerIdForRkk": "7e3b31ed-7259-4f52-a579-748f02e9c379",
+                "employmentKind": "MainJob"
+              }
+            }
+          ],
+          "salaryCalc": {
+            "aggSalaries": [
+              {
+                "amountSalaryTotal": null,
+                "cntZpMth": null,
+                "dtSalPayInn": 1741910400000,
+                "dtSalPayFtInn": 1697414400000,
+                "payInn": "7744000912",
+                "psbEmployee": null,
+                "salaryCalcType": [
+                  "CLASSIC_SALARY"
+                ],
+                "sumZp": 274362.585,
+                "countSalaryMonth": null
+              }
+            ],
+            "amtRetireeTotal": 0.0,
+            "amtRetireeSocial": null,
+            "amtRetireeWar": null,
+            "cntRetireSocialMth": null,
+            "cntWarRetireeMth": null,
+            "dateFirstSalaryWar": null,
+            "dateLastSalaryWar": null,
+            "dateFirstSalarySocial": null,
+            "dateLastSalarySocial": null
+          },
+          "clientSigns": {
+            "kp": [],
+            "primaryCs": [
+              {
+                "groups": [],
+                "type": "CLIENT",
+                "name": "CLIENT_23_64",
+                "value": 1,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": null
+              },
+
+              {
+                "groups": [
+                  "COMP_TYPE_OPK_MACRO"
+                ],
+                "type": "EMPLOYER",
+                "name": "Comp_Type_Big_Macro",
+                "value": 1,
+                "financialConditions": true,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                }
+              }
+
+            ],
+            "employeeWorkersCount": 290,
+            "employeeWorkersSource": "WAY4",
+            "sumMaxZp": 0.0,
+            "employeeRevenueAct": null,
+            "timeWithBankMonthsCount": 0,
+            "timeWithBankCreditMonthsCount": 0
+          },
+          "pureIncomeCalc": {
+            "avgConfIncomeCertificate": null,
+            "filledMonthsCnt": null,
+            "incomeConf": 274362.585,
+            "incomeNconfPos1": 274362.585,
+            "incomeNconfPos2": 274362.585,
+            "incomeNconfPos3": 274362.585,
+            "incomeNconfPos4": 274362.585,
+            "incomeNconfPos5": 0.0,
+            "incomeNconfPos6": 0.0,
+            "incomeNconfPos7": 0.0,
+            "incomeNconfPos8": 274362.585,
+            "incomeNconfPos9": 274362.585,
+            "incomeNconfPos10": 274362.585,
+            "incomeNconfPos11": 274362.585,
+            "incomeNconfPos12": 0.0,
+            "incomeCcdNconf": 0.0,
+            "mainIncome": 230000.0,
+            "sumZpTotal": 274362.585
+          },
+          "mortgagePureIncomeCalc": null,
+          "modelIncomeCalc": {
+            "avgIncome": null,
+            "avgIncomeReg": 102571.5,
+            "minIncome": 26765.7,
+            "outModelIncomeType": 2,
+            "outModelIncomeResult": 251152.9098,
+            "regionalIncomeConfDate": null,
+            "regionPopulation": null
+          },
+          "stopFactorCheckRules": {
+            "stopFactors": [
+              {
+                "stopFactorCode": "stopFactorCheckRulesResult",
+                "stopFactorDescription": null,
+                "stopFactorKind": null,
+                "stopFactorType": null,
+                "stopFactorValue": 0,
+                "sfEmployer": null,
+                "stopFactorClientSignsList": null
+              },
+              {
+                "stopFactorCode": "kp_after_SF",
+                "stopFactorDescription": null,
+                "stopFactorKind": null,
+                "stopFactorType": null,
+                "stopFactorValue": null,
+                "sfEmployer": null,
+                "stopFactorClientSignsList": "CLIENT_23_64,CLIENT_60_64,Client_old_66+,Client_old_65_66,Client_Young_22,Client_Young_21,CLIENT_AGE_LOW_AND_GROW,Client_Credit,Client_Credit_Early,NEW_REGION_PA,CLIENT_CREDIT_EARLY_NEW_REGION_PA,Client_Credit_Spec,CLIENT_CREDIT_NEW_REGION_PA,Client_Debit_Current,CLIENT_DEBIT_CURRENT_NEW_REGION_PA,Client_Deposit_Current,Client_Deposit_Current_High,CLIENT_DEPOSIT_NEW_REGION_PA,Client_JoinPSB_SvB,Client_New_To_Bank,Client_OPC,Client_Salary,Client_Salary_Early,Comp_Type_OPK_Military_Lex,Comp_Type_Top_Opk,Client_Salary_Early_Spec,Comp_Type_OPK_Siloviki_Lex,Comp_Type_OPK_Military_OKOGU,Comp_Type_OPK_Siloviki_OKOGU,Comp_Type_OPK_Other,Client_Salary_Early_Macro,CLIENT_SALARY_EARLY_NEW_REGION_PA,CLIENT_SALARY_EARLY_OPK,Comp_Rel_Spec,CLIENT_SALARY_EARLY_REL_SPEC,CLIENT_SALARY_EARLY_TOP_OPK,CLIENT_SALARY_EX,CLIENT_SALARY_EX_NEW_REGION_PA,CLIENT_SALARY_EX_OPK,Client_Salary_New,Comp_Rel_Salary,Client_Salary_IZP,CLIENT_SALARY_NEW_NEW_REGION_PA,CLIENT_SALARY_NEW_OPK_OTHER,CLIENT_SALARY_NEW_OPK_WAR,CLIENT_SALARY_NEW_REGION_PA,CLIENT_SALARY_NEW_TOP_OPK,CLIENT_SALARY_OPK,CLIENT_SALARY_REL_SPEC,CLIENT_SALARY_TOP_OPK,Client_VIP,Comp_Type_PSB_Head,Comp_Type_PSB_Expert,COMP_TYPE_PSB_SALES_STAFF,Comp_Rel_Corp,Comp_Rel_Green,Comp_Rel_Spec_Office,Comp_Type_Big_earn,Comp_Type_Big_empl,Comp_Type_equ_psb,Comp_Type_IP,COMP_TYPE_NULL,Comp_Type_OTHER,Comp_Type_Public_Servant_SPARK,Comp_Type_Public_Servant_WSOpen,NEW_REGION,Pos_Retiree_War,Pos_Retiree_Civil,Pos_Retiree_Civil_NPSB,Pos_Retiree_War_NPSB,Non_Workers_Retiree,OPEN_MARKET,Pos_CURATOR,Pos_Founder,Pos_IP,Pos_Other_Head,Pos_War_NIS,Special_Purpose,Special_Purpose_PA"
+              },
+              {
+                "stopFactorCode": "ACTIVE_LOAN_PSB",
+                "stopFactorDescription": "ДПОТРЕБ_КРЕДИТ_ПСБ",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "I",
+                "stopFactorValue": -1,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": ""
+              },
+              {
+                "stopFactorCode": "AGE_MAX",
+                "stopFactorDescription": "ВОЗРАСТ MAX",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "D",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": "Comp_Type_OPK_Other"
+              },
+              {
+                "stopFactorCode": "AGE_MAX",
+                "stopFactorDescription": "ВОЗРАСТ MAX",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "D",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": "OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "AGE_MIN",
+                "stopFactorDescription": "ВОЗРАСТ MIN",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "D",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": "Comp_Type_OPK_Other,OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "AGE_MIN_2",
+                "stopFactorDescription": "ВОЗРАСТ MIN",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "I",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": "OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "ARTIFICIAL_CREDIT",
+                "stopFactorDescription": "ИК",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "X",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": "Comp_Type_OPK_Other,OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "BKI_HISTORY",
+                "stopFactorDescription": "ИСТОРИЯ_БКИ",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "I",
+                "stopFactorValue": 1,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": "Client_New_To_Bank"
+              },
+              {
+                "stopFactorCode": "CESSION",
+                "stopFactorDescription": "СОГЛАСИЕ_ЦЕССИЯ",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "D",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": "Comp_Type_OPK_Other,OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "CHECK_BKI_REQUESTS",
+                "stopFactorDescription": "БКИ_ЗАПРОС",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "D",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": "Comp_Type_OPK_Other,OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "CHECK_BKI_REQUESTS",
+                "stopFactorDescription": "БКИ_ЗАПРОС",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "D",
+                "stopFactorValue": -1,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": ""
+              },
+              {
+                "stopFactorCode": "CHECK_BL_ADDRESS",
+                "stopFactorDescription": "ОТКАЗ_АДРЕС",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "D",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": "Comp_Type_OPK_Other,OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "CHECK_BL_INN",
+                "stopFactorDescription": "ОТКАЗ_ИНН",
+                "stopFactorKind": "EMPLOYER",
+                "stopFactorType": "D",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                },
+                "stopFactorClientSignsList": "Comp_Type_OPK_Other,OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "CHECK_BL_OKVED",
+                "stopFactorDescription": "ОТКАЗ_ОКВЭД",
+                "stopFactorKind": "EMPLOYER",
+                "stopFactorType": "I",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                },
+                "stopFactorClientSignsList": "Comp_Type_OPK_Other,OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "CHECK_CUTOFF",
+                "stopFactorDescription": "КАТОФФ",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "I",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": "Comp_Type_OPK_Other"
+              },
+              {
+                "stopFactorCode": "CHECK_KI_MFO_AND",
+                "stopFactorDescription": "МФО_ОБЛЕГЧЕННЫЙ",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "D",
+                "stopFactorValue": -1,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": ""
+              },
+              {
+                "stopFactorCode": "CHECK_KI_MFO_OR",
+                "stopFactorDescription": "МФО",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "D",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": "Comp_Type_OPK_Other,OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "CHECK_NKS_RULES",
+                "stopFactorDescription": "NKS_УСЛОВИЯ",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "D",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": "OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "CHECK_POTREB_LOAD",
+                "stopFactorDescription": "КОЛ-ВО_КРЕДИТОВ",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "I",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": "Comp_Type_OPK_Other,OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "CHECK_PVR",
+                "stopFactorDescription": "ПВР",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "D",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": "Comp_Type_OPK_Other,OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "CLIENT_BNKRT",
+                "stopFactorDescription": "БАНКРОТ_ФЛ",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "D",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": "Comp_Type_OPK_Other,OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "CLIENT_MOBILIZED",
+                "stopFactorDescription": "КЛИЕНТ_МОБИЛИЗОВАН",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "D",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": "Comp_Type_OPK_Other,OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "CURDELAY",
+                "stopFactorDescription": "ТП",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "D",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": "Comp_Type_OPK_Other,OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "DATAAGREE",
+                "stopFactorDescription": "СВИ",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "I",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": "Comp_Type_OPK_Other,OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "DEALPAYMENTMORECOUNT",
+                "stopFactorDescription": "КОЛВО_ПЛАТЕЖ",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "D",
+                "stopFactorValue": -1,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": ""
+              },
+              {
+                "stopFactorCode": "FPS_REJECT",
+                "stopFactorDescription": "ОТКАЗ_FPS",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "D",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": "Comp_Type_OPK_Other,OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "FPS_REJECT_2",
+                "stopFactorDescription": "ОТКАЗ_FPS_2",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "D",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": "Comp_Type_OPK_Other,OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "FPS_REJECT_3",
+                "stopFactorDescription": "ОТКАЗ_FPS_3",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "D",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": "Comp_Type_OPK_Other,OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "JOBCOUNTEMPLOYEES",
+                "stopFactorDescription": "КОЛИЧЕСТВО СОТРУДНИКОВ",
+                "stopFactorKind": "EMPLOYER",
+                "stopFactorType": "I",
+                "stopFactorValue": -1,
+                "sfEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                },
+                "stopFactorClientSignsList": ""
+              },
+              {
+                "stopFactorCode": "JOBEMPLOYMENTTYPE",
+                "stopFactorDescription": "ЗНВ",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "D",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": "Comp_Type_OPK_Other,OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "JOBSENIORITY_LAST",
+                "stopFactorDescription": "СТАЖ ПОСЛЕДНИЙ",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "I",
+                "stopFactorValue": -1,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": ""
+              },
+              {
+                "stopFactorCode": "JOBSENIORITY_LAST",
+                "stopFactorDescription": "СТАЖ ПОСЛЕДНИЙ",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "I",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": "Comp_Type_OPK_Other,OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "JOBSENIORITY_TOTAL",
+                "stopFactorDescription": "СТАЖ ОБЩИЙ",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "I",
+                "stopFactorValue": -1,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": ""
+              },
+              {
+                "stopFactorCode": "JOBSENIORITY_TOTAL",
+                "stopFactorDescription": "СТАЖ ОБЩИЙ",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "I",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": "Comp_Type_OPK_Other,OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "KP_12M",
+                "stopFactorDescription": "KP_12М",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "D",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": "Comp_Type_OPK_Other,OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "KP_12M",
+                "stopFactorDescription": "KP_12М",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "D",
+                "stopFactorValue": -1,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": ""
+              },
+              {
+                "stopFactorCode": "KP_1W_C",
+                "stopFactorDescription": "ВЫДАЧА_1НЕД_ДЛЯ_КК",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "I",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": "Comp_Type_OPK_Other,OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "KP_1W_L",
+                "stopFactorDescription": "ВЫДАЧА_1НЕД_ДЛЯ_ПК",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "I",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": "Comp_Type_OPK_Other,OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "LAST_RESTRUCT",
+                "stopFactorDescription": "РЕСТРУКТУРИЗАЦИЯ",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "D",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": "Comp_Type_OPK_Other,OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "MAXDELPERIODFORCHANGEPRODUCT",
+                "stopFactorDescription": "П120",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "D",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": "Comp_Type_OPK_Other,OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "MININCOME",
+                "stopFactorDescription": "ДОХОД",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "D",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": "Comp_Type_OPK_Other,OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "MORATORIUM",
+                "stopFactorDescription": "МОРАТОРИЙ",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "I",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": "Comp_Type_OPK_Other,OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "NATIONALITY",
+                "stopFactorDescription": "ГР",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "D",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": "Comp_Type_OPK_Other,OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "NEW_TER_REJECT",
+                "stopFactorDescription": "ОТКАЗ_НТ",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "D",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": "Comp_Type_OPK_Other,OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "NOCONFIRMED_CARD",
+                "stopFactorDescription": "КАРТА_БЕЗПОДТВ_ДОХОДА",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "I",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": "Comp_Type_OPK_Other,OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "NOCONFIRMED_CREDIT",
+                "stopFactorDescription": "ДКРЕДИТ_БЕЗПОДТВ_ДОХОДА",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "I",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": "Comp_Type_OPK_Other,OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "NOCONFIRMED_LOAN",
+                "stopFactorDescription": "ПОТРЕБ_БЕЗПОДТВ_ДОХОДА",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "I",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": "Comp_Type_OPK_Other,OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "OUTWARDCODE",
+                "stopFactorDescription": "ВИД",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "D",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": "Comp_Type_OPK_Other,OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "P0",
+                "stopFactorDescription": "П0",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "D",
+                "stopFactorValue": -1,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": ""
+              },
+              {
+                "stopFactorCode": "P180_R",
+                "stopFactorDescription": "П180_РЕАБ",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "D",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": "Comp_Type_OPK_Other,OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "P30",
+                "stopFactorDescription": "П30",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "D",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": "Comp_Type_OPK_Other,OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "P90_R",
+                "stopFactorDescription": "П90_РЕАБ",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "I",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": "Comp_Type_OPK_Other,OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "PHONES",
+                "stopFactorDescription": "ТЕЛ",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "D",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": "Comp_Type_OPK_Other,OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "PHOTO_REQUIRED",
+                "stopFactorDescription": "ФОТО",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "D",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": "Comp_Type_OPK_Other,OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "PUBLICAGREE",
+                "stopFactorDescription": "НСЗ",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "D",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": "Comp_Type_OPK_Other,OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "QCC_CLIENT_REJECT",
+                "stopFactorDescription": "AF_QCC2_CLIENT_REJECT",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "D",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": "Comp_Type_OPK_Other,OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "QCC_EMPLOYER_REJECT",
+                "stopFactorDescription": "AF_QCC2_EMPLOYER_REJECT",
+                "stopFactorKind": "EMPLOYER",
+                "stopFactorType": "D",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                },
+                "stopFactorClientSignsList": "Comp_Type_OPK_Other,OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "SF_CURATOR_CONDITIONS",
+                "stopFactorDescription": "КО_УСЛОВИЯ",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "D",
+                "stopFactorValue": -1,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": ""
+              },
+              {
+                "stopFactorCode": "SF_CURATOR_DUTY",
+                "stopFactorDescription": "КО_ОБЯЗАТЕЛЬСТВА",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "D",
+                "stopFactorValue": -1,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": ""
+              },
+              {
+                "stopFactorCode": "SF_CURATOR_OFFICE_BL",
+                "stopFactorDescription": "КО_ОФИС_БЛ",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "D",
+                "stopFactorValue": -1,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": ""
+              },
+              {
+                "stopFactorCode": "SF_EMPLOYER_HIGH_RISK",
+                "stopFactorDescription": "РИСК-работодатель",
+                "stopFactorKind": "EMPLOYER",
+                "stopFactorType": "I",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                },
+                "stopFactorClientSignsList": "OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "SF_FSSP_AS",
+                "stopFactorDescription": "ФССП",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "D",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": "Comp_Type_OPK_Other,OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "SF_STOP_CREDIT_SIGN",
+                "stopFactorDescription": "СТОП_КРЕДИТ",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "D",
+                "stopFactorValue": -1,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": ""
+              },
+              {
+                "stopFactorCode": "SPARK_BNKRT_LQDT",
+                "stopFactorDescription": "БАНКРОТ_СПАРК",
+                "stopFactorKind": "EMPLOYER",
+                "stopFactorType": "D",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                },
+                "stopFactorClientSignsList": "Comp_Type_OPK_Other,OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "VSPM_REJECT",
+                "stopFactorDescription": "ОТКАЗ_VSPM",
+                "stopFactorKind": "CLIENT",
+                "stopFactorType": "I",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "stopFactorClientSignsList": "Comp_Type_OPK_Other,OPEN_MARKET"
+              },
+              {
+                "stopFactorCode": "WS_OPEN_BNKRT_LQDT",
+                "stopFactorDescription": "БАНКРОТ_WS_OPEN",
+                "stopFactorKind": "EMPLOYER",
+                "stopFactorType": "D",
+                "stopFactorValue": 0,
+                "sfEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                },
+                "stopFactorClientSignsList": "Comp_Type_OPK_Other,OPEN_MARKET"
+              }
+            ]
+          },
+          "liabilitiesMark": {
+            "bkiRequestDate": null,
+            "fraudKi": null,
+            "hasLoansPpd": false,
+            "hasLoansPki": false,
+            "hasLoansCheckEnoughKi": true,
+            "loansEvkMod": 0.0,
+            "loansEpCardMod": 0.0,
+            "loansEvk": 1999.97,
+            "loansEpCard": 0.0,
+            "loansMsb": false,
+            "maxPaymentForLast6Month": 0.0,
+            "missedBkiCnt": 0,
+            "requestsMsb": false,
+            "liabilities": [
+              {
+                "contractNumber": "5067581",
+                "evk": 1999.97,
+                "product": "9",
+                "epCard": 0.0,
+                "evkMod": 0.0,
+                "epCardMod": 0.0,
+                "hasLoanInCalculation": null,
+                "isActiveFlg": true,
+                "isAvailableToRefin": true,
+                "interestRate": 15.0,
+                "irBki": null,
+                "isMilitaryMortgage": null,
+                "isOwn": false,
+                "isUse": true,
+                "loanPpdCond1": true,
+                "loanPpdCond2": false,
+                "loanPpdCond3": true,
+                "loanRestTerm": null,
+                "loanSum": 140000.0,
+                "loanTerm": 41,
+                "openDate": 1651363200000,
+                "outstanding": 40000.0,
+                "payment": 1999.97,
+                "pskBki": 0.0,
+                "totalSource": "УСО"
+              }
+            ]
+          },
+          "epEpMax": {
+            "checkEpMax": 0,
+            "incomeConf": 274362.585,
+            "incomeNconfPos1": 274362.585,
+            "incomeNconfPos2": 274362.585,
+            "incomeNconfPos3": 274362.585,
+            "incomeNconfPos4": 274362.585,
+            "incomeNconfPos5": 0.0,
+            "incomeNconfPos6": 0.0,
+            "incomeNconfPos7": 0.0,
+            "incomeNconfPos8": 274362.585,
+            "incomeNconfPos9": 274362.585,
+            "incomeNconfPos10": 274362.585,
+            "incomeNconfPos11": 274362.585,
+            "incomeNconfPos12": 0.0,
+            "incomeCcdNconf": 0.0,
+            "outModelIncomeResult": 251152.9098,
+            "minIncome": 26765.7,
+            "ptiIncomeConf": 0.7,
+            "mpConf": 192053.8095,
+            "mpNconfPos1": 192053.8095,
+            "mpNconfPos2": 192053.8095,
+            "mpNconfPos3": 192053.8095,
+            "mpNconfPos4": 192053.8095,
+            "mpNconfPos5": -26765.7,
+            "mpNconfPos6": -26765.7,
+            "mpNconfPos7": -26765.7,
+            "mpNconfPos8": 192053.8095,
+            "mpNconfPos9": 192053.8095,
+            "mpNconfPos10": 192053.8095,
+            "mpNconfPos11": 192053.8095,
+            "mpNconfPos12": -26765.7,
+            "mpCcdNconf": -26765.7,
+            "evk": 1999.97,
+            "epCard": 0.0,
+            "evkMod": 0.0,
+            "epCardMod": 0.0,
+            "epMaxConf": 192053.8095,
+            "epMaxNconfPos1": 192053.8095,
+            "epMaxNconfPos2": 192053.8095,
+            "epMaxNconfPos3": 192053.8095,
+            "epMaxNconfPos4": 192053.8095,
+            "epMaxNconfPos5": -26765.7,
+            "epMaxNconfPos6": -26765.7,
+            "epMaxNconfPos7": -26765.7,
+            "epMaxNconfPos8": 192053.8095,
+            "epMaxNconfPos9": 192053.8095,
+            "epMaxNconfPos10": 192053.8095,
+            "epMaxNconfPos11": 192053.8095,
+            "epMaxNconfPos12": -26765.7,
+            "epMaxCcdNconf": -26765.7,
+            "epMax": 192053.8095,
+            "chosenIncome": 274362.585,
+            "chosenMp": 192053.8095,
+            "chosenEpMax": 192053.8095
+          },
+          "calcScore": {
+            "kp": null,
+            "checkScore": 0,
+            "cutOff": 0.2911,
+            "currentCs": [
+              {
+                "groups": [],
+                "type": "CLIENT",
+                "name": "CLIENT_23_64",
+                "value": 1,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": null
+              },
+              {
+                "groups": [],
+                "type": "CLIENT",
+                "name": "CLIENT_60_64",
+                "value": 0,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": null
+              },
+              {
+                "groups": [
+                  "CLIENT_OLD_MACRO"
+                ],
+                "type": "CLIENT",
+                "name": "Client_old_66+",
+                "value": 0,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": null
+              },
+              {
+                "groups": [
+                  "CLIENT_OLD_MACRO"
+                ],
+                "type": "CLIENT",
+                "name": "Client_old_65_66",
+                "value": 0,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": null
+              },
+              {
+                "groups": [
+                  "CLIENT_YOUNG_MACRO"
+                ],
+                "type": "CLIENT",
+                "name": "Client_Young_22",
+                "value": 0,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": null
+              },
+              {
+                "groups": [
+                  "CLIENT_YOUNG_MACRO"
+                ],
+                "type": "CLIENT",
+                "name": "Client_Young_21",
+                "value": 0,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": null
+              },
+              {
+                "groups": [],
+                "type": "CLIENT",
+                "name": "CLIENT_AGE_LOW_AND_GROW",
+                "value": 1,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": null
+              },
+              {
+                "groups": [
+                  "CLIENT_CREDIT_MACRO"
+                ],
+                "type": "CLIENT",
+                "name": "Client_Credit",
+                "value": -1,
+                "financialConditions": true,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": null
+              },
+              {
+                "groups": [],
+                "type": "CLIENT",
+                "name": "Client_Credit_Early",
+                "value": -1,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": null
+              },
+              {
+                "groups": [],
+                "type": "CLIENT",
+                "name": "NEW_REGION_PA",
+                "value": 0,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": null
+              },
+              {
+                "groups": [],
+                "type": "CLIENT",
+                "name": "CLIENT_CREDIT_EARLY_NEW_REGION_PA",
+                "value": 0,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": null
+              },
+              {
+                "groups": [
+                  "CLIENT_CREDIT_MACRO"
+                ],
+                "type": "CLIENT",
+                "name": "Client_Credit_Spec",
+                "value": -1,
+                "financialConditions": true,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": null
+              },
+              {
+                "groups": [],
+                "type": "CLIENT",
+                "name": "CLIENT_CREDIT_NEW_REGION_PA",
+                "value": 0,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": null
+              },
+              {
+                "groups": [],
+                "type": "CLIENT",
+                "name": "Client_Debit_Current",
+                "value": -1,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": null
+              },
+              {
+                "groups": [],
+                "type": "CLIENT",
+                "name": "CLIENT_DEBIT_CURRENT_NEW_REGION_PA",
+                "value": 0,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": null
+              },
+              {
+                "groups": [
+                  "CLIENT_DEPOSIT_MACRO"
+                ],
+                "type": "CLIENT",
+                "name": "Client_Deposit_Current",
+                "value": -1,
+                "financialConditions": true,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": null
+              },
+              {
+                "groups": [
+                  "CLIENT_DEPOSIT_MACRO"
+                ],
+                "type": "CLIENT",
+                "name": "Client_Deposit_Current_High",
+                "value": -1,
+                "financialConditions": true,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": null
+              },
+              {
+                "groups": [],
+                "type": "CLIENT",
+                "name": "CLIENT_DEPOSIT_NEW_REGION_PA",
+                "value": 0,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": null
+              },
+              {
+                "groups": [],
+                "type": "CLIENT",
+                "name": "Client_JoinPSB_SvB",
+                "value": 0,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": null
+              },
+              {
+                "groups": [],
+                "type": "CLIENT",
+                "name": "Client_New_To_Bank",
+                "value": 1,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": null
+              },
+              {
+                "groups": [],
+                "type": "CLIENT",
+                "name": "Client_OPC",
+                "value": 0,
+                "financialConditions": true,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": null
+              },
+              {
+                "groups": [
+                  "CLIENT_SALARY_MACRO"
+                ],
+                "type": "EMPLOYER",
+                "name": "Client_Salary",
+                "value": 0,
+                "financialConditions": true,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [
+                  "CLIENT_SALARY_MACRO"
+                ],
+                "type": "EMPLOYER",
+                "name": "Client_Salary_Early",
+                "value": 0,
+                "financialConditions": true,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [
+                  "COMP_TYPE_OPK_MACRO_WAR",
+                  "COMP_TYPE_OPK_MACRO"
+                ],
+                "type": "EMPLOYER",
+                "name": "Comp_Type_OPK_Military_Lex",
+                "value": 0,
+                "financialConditions": true,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [
+                  "COMP_TYPE_OPK_MACRO"
+                ],
+                "type": "EMPLOYER",
+                "name": "Comp_Type_Top_Opk",
+                "value": 0,
+                "financialConditions": true,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [
+                  "CLIENT_SALARY_MACRO"
+                ],
+                "type": "EMPLOYER",
+                "name": "Client_Salary_Early_Spec",
+                "value": 0,
+                "financialConditions": true,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [
+                  "COMP_TYPE_OPK_MACRO_WAR",
+                  "COMP_TYPE_OPK_MACRO"
+                ],
+                "type": "EMPLOYER",
+                "name": "Comp_Type_OPK_Siloviki_Lex",
+                "value": 0,
+                "financialConditions": true,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [
+                  "COMP_TYPE_OPK_MACRO_WAR",
+                  "COMP_TYPE_OPK_MACRO"
+                ],
+                "type": "EMPLOYER",
+                "name": "Comp_Type_OPK_Military_OKOGU",
+                "value": 0,
+                "financialConditions": true,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [
+                  "COMP_TYPE_OPK_MACRO_WAR",
+                  "COMP_TYPE_OPK_MACRO"
+                ],
+                "type": "EMPLOYER",
+                "name": "Comp_Type_OPK_Siloviki_OKOGU",
+                "value": 0,
+                "financialConditions": true,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [
+                  "COMP_TYPE_OPK_MACRO"
+                ],
+                "type": "EMPLOYER",
+                "name": "Comp_Type_OPK_Other",
+                "value": 1,
+                "financialConditions": true,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [
+                  "CLIENT_SALARY_MACRO"
+                ],
+                "type": "EMPLOYER",
+                "name": "Client_Salary_Early_Macro",
+                "value": 0,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [],
+                "type": "EMPLOYER",
+                "name": "CLIENT_SALARY_EARLY_NEW_REGION_PA",
+                "value": 0,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [],
+                "type": "EMPLOYER",
+                "name": "CLIENT_SALARY_EARLY_OPK",
+                "value": 0,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [],
+                "type": "EMPLOYER",
+                "name": "Comp_Rel_Spec",
+                "value": 0,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [],
+                "type": "EMPLOYER",
+                "name": "CLIENT_SALARY_EARLY_REL_SPEC",
+                "value": 0,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [],
+                "type": "EMPLOYER",
+                "name": "CLIENT_SALARY_EARLY_TOP_OPK",
+                "value": 0,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [],
+                "type": "EMPLOYER",
+                "name": "CLIENT_SALARY_EX",
+                "value": 0,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [],
+                "type": "EMPLOYER",
+                "name": "CLIENT_SALARY_EX_NEW_REGION_PA",
+                "value": 0,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [],
+                "type": "EMPLOYER",
+                "name": "CLIENT_SALARY_EX_OPK",
+                "value": 0,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [
+                  "CLIENT_SALARY_MACRO"
+                ],
+                "type": "CLIENT",
+                "name": "Client_Salary_New",
+                "value": 0,
+                "financialConditions": true,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": null
+              },
+              {
+                "groups": [],
+                "type": "EMPLOYER",
+                "name": "Comp_Rel_Salary",
+                "value": 1,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [],
+                "type": "EMPLOYER",
+                "name": "Client_Salary_IZP",
+                "value": 0,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [],
+                "type": "EMPLOYER",
+                "name": "CLIENT_SALARY_NEW_NEW_REGION_PA",
+                "value": 0,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [],
+                "type": "EMPLOYER",
+                "name": "CLIENT_SALARY_NEW_OPK_OTHER",
+                "value": 0,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [],
+                "type": "EMPLOYER",
+                "name": "CLIENT_SALARY_NEW_OPK_WAR",
+                "value": 0,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [],
+                "type": "EMPLOYER",
+                "name": "CLIENT_SALARY_NEW_REGION_PA",
+                "value": 0,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [],
+                "type": "EMPLOYER",
+                "name": "CLIENT_SALARY_NEW_TOP_OPK",
+                "value": 0,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [],
+                "type": "EMPLOYER",
+                "name": "CLIENT_SALARY_OPK",
+                "value": 0,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [],
+                "type": "EMPLOYER",
+                "name": "CLIENT_SALARY_REL_SPEC",
+                "value": 0,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [],
+                "type": "EMPLOYER",
+                "name": "CLIENT_SALARY_TOP_OPK",
+                "value": 0,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [],
+                "type": "CLIENT",
+                "name": "Client_VIP",
+                "value": 0,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": null
+              },
+              {
+                "groups": [
+                  "COMP_PSB_MACRO"
+                ],
+                "type": "EMPLOYER",
+                "name": "Comp_Type_PSB_Head",
+                "value": 0,
+                "financialConditions": true,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [
+                  "COMP_PSB_MACRO"
+                ],
+                "type": "EMPLOYER",
+                "name": "Comp_Type_PSB_Expert",
+                "value": 0,
+                "financialConditions": true,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [
+                  "COMP_PSB_MACRO"
+                ],
+                "type": "EMPLOYER",
+                "name": "COMP_TYPE_PSB_SALES_STAFF",
+                "value": 0,
+                "financialConditions": true,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [],
+                "type": "EMPLOYER",
+                "name": "Comp_Rel_Corp",
+                "value": 0,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [],
+                "type": "EMPLOYER",
+                "name": "Comp_Rel_Green",
+                "value": 0,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [],
+                "type": "EMPLOYER",
+                "name": "Comp_Rel_Spec_Office",
+                "value": 0,
+                "financialConditions": true,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [
+                  "COMP_TYPE_BIG_MACRO"
+                ],
+                "type": "EMPLOYER",
+                "name": "Comp_Type_Big_earn",
+                "value": -1,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [
+                  "COMP_TYPE_BIG_MACRO"
+                ],
+                "type": "EMPLOYER",
+                "name": "Comp_Type_Big_empl",
+                "value": 0,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [
+                  "COMP_PSB_MACRO"
+                ],
+                "type": "EMPLOYER",
+                "name": "Comp_Type_equ_psb",
+                "value": 0,
+                "financialConditions": true,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [],
+                "type": "EMPLOYER",
+                "name": "Comp_Type_IP",
+                "value": 0,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [],
+                "type": "CLIENT",
+                "name": "COMP_TYPE_NULL",
+                "value": 0,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": null
+              },
+              {
+                "groups": [],
+                "type": "EMPLOYER",
+                "name": "Comp_Type_OTHER",
+                "value": -1,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [
+                  "COMP_TYPE_PUBLIC_SERVANT_MACRO"
+                ],
+                "type": "EMPLOYER",
+                "name": "Comp_Type_Public_Servant_SPARK",
+                "value": 0,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [
+                  "COMP_TYPE_PUBLIC_SERVANT_MACRO"
+                ],
+                "type": "EMPLOYER",
+                "name": "Comp_Type_Public_Servant_WSOpen",
+                "value": 0,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [],
+                "type": "CLIENT",
+                "name": "NEW_REGION",
+                "value": 0,
+                "financialConditions": true,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": null
+              },
+              {
+                "groups": [
+                  "POS_RETIREE_MACRO"
+                ],
+                "type": "CLIENT",
+                "name": "Pos_Retiree_War",
+                "value": -1,
+                "financialConditions": true,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": null
+              },
+              {
+                "groups": [
+                  "POS_RETIREE_MACRO"
+                ],
+                "type": "CLIENT",
+                "name": "Pos_Retiree_Civil",
+                "value": -1,
+                "financialConditions": true,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": null
+              },
+              {
+                "groups": [
+                  "POS_RETIREE_MACRO"
+                ],
+                "type": "CLIENT",
+                "name": "Pos_Retiree_Civil_NPSB",
+                "value": 0,
+                "financialConditions": true,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": null
+              },
+              {
+                "groups": [
+                  "POS_RETIREE_MACRO"
+                ],
+                "type": "CLIENT",
+                "name": "Pos_Retiree_War_NPSB",
+                "value": 0,
+                "financialConditions": true,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": null
+              },
+              {
+                "groups": [],
+                "type": "CLIENT",
+                "name": "Non_Workers_Retiree",
+                "value": 0,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": null
+              },
+              {
+                "groups": [],
+                "type": "CLIENT",
+                "name": "OPEN_MARKET",
+                "value": 1,
+                "financialConditions": true,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": null
+              },
+              {
+                "groups": [],
+                "type": "CLIENT",
+                "name": "Pos_CURATOR",
+                "value": -1,
+                "financialConditions": true,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": null
+              },
+              {
+                "groups": [],
+                "type": "EMPLOYER",
+                "name": "Pos_Founder",
+                "value": 0,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [],
+                "type": "EMPLOYER",
+                "name": "Pos_IP",
+                "value": 0,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [],
+                "type": "EMPLOYER",
+                "name": "Pos_Other_Head",
+                "value": 1,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [],
+                "type": "CLIENT",
+                "name": "Pos_War_NIS",
+                "value": 0,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": null
+              },
+              {
+                "groups": [],
+                "type": "EMPLOYER",
+                "name": "Special_Purpose",
+                "value": 0,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [],
+                "type": "EMPLOYER",
+                "name": "Special_Purpose_PA",
+                "value": 0,
+                "financialConditions": false,
+                "invalidationReasons": [],
+                "mainProgramFlag": null,
+                "csEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                }
+              }
+            ],
+            "scoreBki": 223,
+            "score": 255,
+            "clientSegment": "Comp_Type_OPK_Other",
+            "baseScoreFinal": 255,
+            "scoreCardParams": []
+          },
+          "riskLimits": {
+            "riskLimitsCheckResult": "0",
+            "maxRiskLimitEkl": null,
+            "maxRiskLimitEklCheckResult": null,
+            "maxRiskLimitPl": 5000000.0,
+            "maxRiskLimitPlCheckResult": null,
+            "maxRiskLimitCc": 300000.0,
+            "maxRiskLimitCcCheckResult": null,
+            "maxRiskLimitCcNc": 300000.0,
+            "maxRiskLimitCcNcCheckResult": null,
+            "maxRiskLimit": null,
+            "nisMaxTerm": null
+          },
+          "calcPdn": {
+            "checkPdn": 0,
+            "pdn": 66.6
+          },
+          "greyZoneForm": {
+            "greyZones": [
+              {
+                "gzReasonCode": "stub11",
+                "gzReasonValue": 1,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "CLIENT_AGE_LOW_AND_GROW,Client_New_To_Bank,Comp_Type_OPK_Other,Pos_Other_Head,OPEN_MARKET,CLIENT_23_64,Comp_Rel_Salary",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "stub12",
+                "gzReasonValue": 1,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "CLIENT_AGE_LOW_AND_GROW,Client_New_To_Bank,Comp_Type_OPK_Other,Pos_Other_Head,OPEN_MARKET,CLIENT_23_64,Comp_Rel_Salary",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "stub13",
+                "gzReasonValue": 1,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "CLIENT_AGE_LOW_AND_GROW,Client_New_To_Bank,Comp_Type_OPK_Other,Pos_Other_Head,OPEN_MARKET,CLIENT_23_64,Comp_Rel_Salary",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "AFS_A_4",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "CLIENT_AGE_LOW_AND_GROW,Client_New_To_Bank,Comp_Type_OPK_Other,Pos_Other_Head,OPEN_MARKET,CLIENT_23_64,Comp_Rel_Salary",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "AFS_A_5",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "CLIENT_AGE_LOW_AND_GROW,Client_New_To_Bank,Comp_Type_OPK_Other,Pos_Other_Head,OPEN_MARKET,CLIENT_23_64,Comp_Rel_Salary",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "AFS_A_6",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "CLIENT_AGE_LOW_AND_GROW,Client_New_To_Bank,Comp_Type_OPK_Other,Pos_Other_Head,OPEN_MARKET,CLIENT_23_64,Comp_Rel_Salary",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "AFS_A_7",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "CLIENT_AGE_LOW_AND_GROW,Client_New_To_Bank,Comp_Type_OPK_Other,Pos_Other_Head,OPEN_MARKET,CLIENT_23_64,Comp_Rel_Salary",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "AFS_A_8",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "CLIENT_AGE_LOW_AND_GROW,Client_New_To_Bank,Comp_Type_OPK_Other,Pos_Other_Head,OPEN_MARKET,CLIENT_23_64,Comp_Rel_Salary",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "AFS_I_1",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "CLIENT_AGE_LOW_AND_GROW,Client_New_To_Bank,Comp_Type_OPK_Other,Pos_Other_Head,OPEN_MARKET,CLIENT_23_64,Comp_Rel_Salary",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "AFS_I_2",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "CLIENT_AGE_LOW_AND_GROW,Client_New_To_Bank,Comp_Type_OPK_Other,Pos_Other_Head,OPEN_MARKET,CLIENT_23_64,Comp_Rel_Salary",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "AFS_W_1",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "CLIENT_AGE_LOW_AND_GROW,Client_New_To_Bank,Comp_Type_OPK_Other,Pos_Other_Head,OPEN_MARKET,CLIENT_23_64,Comp_Rel_Salary",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "AFS_W_2",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "CLIENT_AGE_LOW_AND_GROW,Client_New_To_Bank,Comp_Type_OPK_Other,Pos_Other_Head,OPEN_MARKET,CLIENT_23_64,Comp_Rel_Salary",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "AFS_W_3",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "CLIENT_AGE_LOW_AND_GROW,Client_New_To_Bank,Comp_Type_OPK_Other,Pos_Other_Head,OPEN_MARKET,CLIENT_23_64,Comp_Rel_Salary",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "AFS_W_4",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "CLIENT_AGE_LOW_AND_GROW,Client_New_To_Bank,Comp_Type_OPK_Other,Pos_Other_Head,OPEN_MARKET,CLIENT_23_64,Comp_Rel_Salary",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "AFS_W_5",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "CLIENT_AGE_LOW_AND_GROW,Client_New_To_Bank,Comp_Type_OPK_Other,Pos_Other_Head,OPEN_MARKET,CLIENT_23_64,Comp_Rel_Salary",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "BAD_KI",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "CLIENT_AGE_LOW_AND_GROW,Client_New_To_Bank,Comp_Type_OPK_Other,Pos_Other_Head,OPEN_MARKET,CLIENT_23_64,Comp_Rel_Salary",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "BL_EMPL_QCC2",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                },
+                "gzClientSignsList": "Client_New_To_Bank",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "COMP_TYPE_IP",
+                "gzReasonValue": -1,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                },
+                "gzClientSignsList": "",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "DELAY_180_PLUS",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "CLIENT_AGE_LOW_AND_GROW,Client_New_To_Bank,Comp_Type_OPK_Other,Pos_Other_Head,OPEN_MARKET,CLIENT_23_64,Comp_Rel_Salary",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "EMPLOYEE_REESTR",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                },
+                "gzClientSignsList": "CLIENT_AGE_LOW_AND_GROW,Client_New_To_Bank,Comp_Type_OPK_Other,Pos_Other_Head,OPEN_MARKET,CLIENT_23_64,Comp_Rel_Salary",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "EMPLOYEE_WORK_SENIORITY",
+                "gzReasonValue": -1,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                },
+                "gzClientSignsList": "",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "FAMILY_WORK",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                },
+                "gzClientSignsList": "CLIENT_AGE_LOW_AND_GROW,Client_New_To_Bank,Comp_Type_OPK_Other,Pos_Other_Head,OPEN_MARKET,CLIENT_23_64,Comp_Rel_Salary",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "FB_PUBLIC_SERVANT",
+                "gzReasonValue": -1,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "FPS_2",
+                "gzReasonValue": -1,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "FPS",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "CLIENT_AGE_LOW_AND_GROW,Client_New_To_Bank,Comp_Type_OPK_Other,Pos_Other_Head,OPEN_MARKET,CLIENT_23_64,Comp_Rel_Salary",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "FRAUD_KI",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "Client_New_To_Bank",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "FSSP_3_CAT",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "CLIENT_AGE_LOW_AND_GROW,Client_New_To_Bank,Comp_Type_OPK_Other,Pos_Other_Head,OPEN_MARKET,CLIENT_23_64,Comp_Rel_Salary",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "GEN_DIR",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                },
+                "gzClientSignsList": "CLIENT_AGE_LOW_AND_GROW,Client_New_To_Bank,Comp_Type_OPK_Other,Pos_Other_Head,OPEN_MARKET,CLIENT_23_64,Comp_Rel_Salary",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "NEW_PASSPORT_NO_KI",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "CLIENT_AGE_LOW_AND_GROW,Client_New_To_Bank,Comp_Type_OPK_Other,Pos_Other_Head,OPEN_MARKET,CLIENT_23_64,Comp_Rel_Salary",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "NET_LOSS",
+                "gzReasonValue": -1,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                },
+                "gzClientSignsList": "",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "RESTRUCTURE",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "CLIENT_AGE_LOW_AND_GROW,Client_New_To_Bank,Comp_Type_OPK_Other,Pos_Other_Head,OPEN_MARKET,CLIENT_23_64,Comp_Rel_Salary",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "INCOME_2013",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "CLIENT_AGE_LOW_AND_GROW,Client_New_To_Bank,Comp_Type_OPK_Other,Pos_Other_Head,OPEN_MARKET,CLIENT_23_64,Comp_Rel_Salary",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "INCOME_2014",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "CLIENT_AGE_LOW_AND_GROW,Client_New_To_Bank,Comp_Type_OPK_Other,Pos_Other_Head,OPEN_MARKET,CLIENT_23_64,Comp_Rel_Salary",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "SZ_KP",
+                "gzReasonValue": -1,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "OPK_RISK_REESTR",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                },
+                "gzClientSignsList": "Comp_Type_OPK_Other",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "REORGANIZATION",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                },
+                "gzClientSignsList": "CLIENT_AGE_LOW_AND_GROW,Client_New_To_Bank,Comp_Type_OPK_Other,Pos_Other_Head,OPEN_MARKET,CLIENT_23_64,Comp_Rel_Salary",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "L0_INCOME",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                },
+                "gzClientSignsList": "CLIENT_AGE_LOW_AND_GROW,Client_New_To_Bank,Comp_Type_OPK_Other,Pos_Other_Head,OPEN_MARKET,CLIENT_23_64,Comp_Rel_Salary",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "SZ_FILIAL_OFFICE",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "CLIENT_AGE_LOW_AND_GROW,Client_New_To_Bank,Comp_Type_OPK_Other,Pos_Other_Head,OPEN_MARKET,CLIENT_23_64,Comp_Rel_Salary",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "POS_FRAUD_APPL",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "CLIENT_AGE_LOW_AND_GROW,Client_New_To_Bank,Comp_Type_OPK_Other,Pos_Other_Head,OPEN_MARKET,CLIENT_23_64,Comp_Rel_Salary",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "VSPM",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "CLIENT_AGE_LOW_AND_GROW,Client_New_To_Bank,Comp_Type_OPK_Other,Pos_Other_Head,OPEN_MARKET,CLIENT_23_64,Comp_Rel_Salary",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "INCOME_MODEL_EARLY_ZP",
+                "gzReasonValue": -1,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "JOB_CUTS_REESTR",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                },
+                "gzClientSignsList": "CLIENT_AGE_LOW_AND_GROW,Client_New_To_Bank,Comp_Type_OPK_Other,Pos_Other_Head,OPEN_MARKET,CLIENT_23_64,Comp_Rel_Salary",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "INCOME_2611",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "CLIENT_AGE_LOW_AND_GROW,Client_New_To_Bank,Comp_Type_OPK_Other,Pos_Other_Head,OPEN_MARKET,CLIENT_23_64,Comp_Rel_Salary",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "INCOME_MODEL",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "CLIENT_AGE_LOW_AND_GROW,Client_New_To_Bank,Comp_Type_OPK_Other,Pos_Other_Head,OPEN_MARKET,CLIENT_23_64,Comp_Rel_Salary",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "LIMIT_SCORE_SALARY",
+                "gzReasonValue": -1,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "REPORT_NULL",
+                "gzReasonValue": -1,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                },
+                "gzClientSignsList": "",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "REVENUE_LOSS",
+                "gzReasonValue": -1,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                },
+                "gzClientSignsList": "",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "PAYMENT_HOLIDAY",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "CLIENT_AGE_LOW_AND_GROW,Client_New_To_Bank,Comp_Type_OPK_Other,Pos_Other_Head,OPEN_MARKET,CLIENT_23_64,Comp_Rel_Salary",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "L0_RULE",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "CLIENT_AGE_LOW_AND_GROW,Client_New_To_Bank,Comp_Type_OPK_Other,Pos_Other_Head,OPEN_MARKET,CLIENT_23_64,Comp_Rel_Salary",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "L0_RULE_MIDDLE_NAME",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "CLIENT_AGE_LOW_AND_GROW,Client_New_To_Bank,Comp_Type_OPK_Other,Pos_Other_Head,OPEN_MARKET,CLIENT_23_64,Comp_Rel_Salary",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "SZ_MRK",
+                "gzReasonValue": -1,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "CLIENT_AGE_LOW_AND_GROW,Client_New_To_Bank,Comp_Type_OPK_Other,Pos_Other_Head,OPEN_MARKET,CLIENT_23_64,Comp_Rel_Salary",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "INCOME_MODEL_CLASSIC_ZP",
+                "gzReasonValue": -1,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "MSB_CREDIT",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "CLIENT_AGE_LOW_AND_GROW,Client_New_To_Bank,Comp_Type_OPK_Other,Pos_Other_Head,OPEN_MARKET,CLIENT_23_64,Comp_Rel_Salary",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "VIRT_ATC",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                },
+                "gzClientSignsList": "Client_New_To_Bank",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "L0_RULE_KP",
+                "gzReasonValue": -1,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "NO_KI",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "Client_New_To_Bank",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "POSSIBLE_FRAUD_REESTR",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                },
+                "gzClientSignsList": "CLIENT_AGE_LOW_AND_GROW,Client_New_To_Bank,Comp_Type_OPK_Other,Pos_Other_Head,OPEN_MARKET,CLIENT_23_64,Comp_Rel_Salary",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "LIMIT_SCORE",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "CLIENT_AGE_LOW_AND_GROW,Client_New_To_Bank,Comp_Type_OPK_Other,Pos_Other_Head,OPEN_MARKET,CLIENT_23_64,Comp_Rel_Salary",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "JOB_WHOLE_SENIORITY",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "Comp_Type_OPK_Other",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "VISUAL",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "CLIENT_AGE_LOW_AND_GROW,Client_New_To_Bank,Comp_Type_OPK_Other,Pos_Other_Head,OPEN_MARKET,CLIENT_23_64,Comp_Rel_Salary",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "POS_FOUNDER",
+                "gzReasonValue": -1,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": "3665086483",
+                  "employerKPP": "366501001",
+                  "employerType": "MainJob"
+                },
+                "gzClientSignsList": "",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "JOB_SENIORITY",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "Comp_Type_OPK_Other",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "MISSING_BKI",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "CLIENT_AGE_LOW_AND_GROW,Client_New_To_Bank,Comp_Type_OPK_Other,Pos_Other_Head,OPEN_MARKET,CLIENT_23_64,Comp_Rel_Salary",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "MSB_REQ",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "CLIENT_AGE_LOW_AND_GROW,Client_New_To_Bank,Comp_Type_OPK_Other,Pos_Other_Head,OPEN_MARKET,CLIENT_23_64,Comp_Rel_Salary",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "REGION_SZ",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "CLIENT_AGE_LOW_AND_GROW,Client_New_To_Bank,Comp_Type_OPK_Other,Pos_Other_Head,OPEN_MARKET,CLIENT_23_64,Comp_Rel_Salary",
+                "gzRulesList": null
+              },
+              {
+                "gzReasonCode": "NOT_ENOUGH_KI",
+                "gzReasonValue": 0,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "Client_New_To_Bank",
+                "gzRulesList": null
+              }
+            ]
+          },
+          "decisionForm": null,
+          "mortgageDecisionForm": {
+            "clientDecisions": [
+              {
+                "strategyName": null,
+                "algorithmName": null,
+                "decision": "NEXT_MICROSERVICE",
+                "description": null,
+                "refReason": null,
+                "rejectDescription": null
+              },
+              {
+                "strategyName": null,
+                "algorithmName": null,
+                "decision": "NEXT_MICROSERVICE",
+                "description": null,
+                "refReason": null,
+                "rejectDescription": null
+              },
+              {
+                "strategyName": null,
+                "algorithmName": null,
+                "decision": "NEXT_MICROSERVICE",
+                "description": null,
+                "refReason": null,
+                "rejectDescription": null
+              },
+              {
+                "strategyName": null,
+                "algorithmName": null,
+                "decision": "NEXT_MICROSERVICE",
+                "description": null,
+                "refReason": null,
+                "rejectDescription": null
+              },
+              {
+                "strategyName": null,
+                "algorithmName": null,
+                "decision": "NEXT_MICROSERVICE",
+                "description": null,
+                "refReason": null,
+                "rejectDescription": null
+              },
+              {
+                "strategyName": null,
+                "algorithmName": null,
+                "decision": "NEXT_MICROSERVICE",
+                "description": null,
+                "refReason": null,
+                "rejectDescription": null
+              },
+              {
+                "strategyName": null,
+                "algorithmName": null,
+                "decision": "NEXT_MICROSERVICE",
+                "description": null,
+                "refReason": null,
+                "rejectDescription": null
+              },
+              {
+                "strategyName": null,
+                "algorithmName": null,
+                "decision": "NEXT_MICROSERVICE",
+                "description": null,
+                "refReason": null,
+                "rejectDescription": null
+              },
+              {
+                "strategyName": null,
+                "algorithmName": null,
+                "decision": "NEXT_MICROSERVICE",
+                "description": null,
+                "refReason": null,
+                "rejectDescription": null
+              },
+              {
+                "strategyName": null,
+                "algorithmName": null,
+                "decision": "NEXT_MICROSERVICE",
+                "description": null,
+                "refReason": null,
+                "rejectDescription": null
+              },
+              {
+                "strategyName": null,
+                "algorithmName": null,
+                "decision": "NEXT_MICROSERVICE",
+                "description": null,
+                "refReason": null,
+                "rejectDescription": null
+              },
+              {
+                "strategyName": null,
+                "algorithmName": null,
+                "decision": "NEXT_MICROSERVICE",
+                "description": null,
+                "refReason": null,
+                "rejectDescription": null
+              },
+              {
+                "strategyName": null,
+                "algorithmName": null,
+                "decision": "NEXT_MICROSERVICE",
+                "description": null,
+                "refReason": null,
+                "rejectDescription": null
+              },
+              {
+                "strategyName": null,
+                "algorithmName": null,
+                "decision": "NEXT_MICROSERVICE",
+                "description": null,
+                "refReason": null,
+                "rejectDescription": null
+              },
+              {
+                "strategyName": null,
+                "algorithmName": null,
+                "decision": "NEXT_MICROSERVICE",
+                "description": null,
+                "refReason": null,
+                "rejectDescription": null
+              },
+              {
+                "strategyName": null,
+                "algorithmName": null,
+                "decision": "NEXT_MICROSERVICE",
+                "description": null,
+                "refReason": null,
+                "rejectDescription": null
+              },
+              {
+                "strategyName": null,
+                "algorithmName": null,
+                "decision": "NEXT_MICROSERVICE",
+                "description": null,
+                "refReason": null,
+                "rejectDescription": null
+              },
+              {
+                "strategyName": null,
+                "algorithmName": null,
+                "decision": "NEXT_MICROSERVICE",
+                "description": null,
+                "refReason": null,
+                "rejectDescription": null
+              },
+              {
+                "strategyName": null,
+                "algorithmName": null,
+                "decision": "SZ",
+                "description": null,
+                "refReason": null,
+                "rejectDescription": null
+              }
+            ]
+          }
+        }
+      ],
+      "autoCheckRequests": {
+        "riskLimitsValidation": {
+          "checkLimit": 0,
+          "loanTermMaxRisk": null
+        },
+        "calcPdnRequest": null,
+        "greyZoneRequest": {
+          "greyZones": [
+            {
+              "gzReasonCode": "GZ_Criter_flg",
+              "gzReasonValue": 1,
+              "wzForced": null,
+              "gzReasonCriteriaType": null,
+              "gzReasonType": null,
+              "gzEmployer": null,
+              "gzClientSignsList": null,
+              "gzRulesList": null
+            },
+            {
+              "gzReasonCode": "WZ_RULE_1",
+              "gzReasonValue": 1,
+              "wzForced": null,
+              "gzReasonCriteriaType": null,
+              "gzReasonType": null,
+              "gzEmployer": null,
+              "gzClientSignsList": null,
+              "gzRulesList": null
+            }
+          ]
+        },
+        "decisionRequest": null,
+        "mortgageDecisionRequest": {
+          "requestDecisions": [
+            {
+              "strategyName": "CHECK_EP_MAX",
+              "algorithmName": null,
+              "decision": "NEXT_MICROSERVICE",
+              "description": null,
+              "refReason": null,
+              "rejectDescription": null
+            },
+            {
+              "strategyName": "CHECK_SF",
+              "algorithmName": null,
+              "decision": "NEXT_MICROSERVICE",
+              "description": null,
+              "refReason": null,
+              "rejectDescription": null
+            },
+            {
+              "strategyName": "CHECK_RECHECK",
+              "algorithmName": null,
+              "decision": "NEXT_MICROSERVICE",
+              "description": null,
+              "refReason": null,
+              "rejectDescription": null
+            },
+            {
+              "strategyName": "CHECK_EP_MAX",
+              "algorithmName": null,
+              "decision": "NEXT_MICROSERVICE",
+              "description": null,
+              "refReason": null,
+              "rejectDescription": null
+            },
+            {
+              "strategyName": "CHECK_SF",
+              "algorithmName": null,
+              "decision": "NEXT_MICROSERVICE",
+              "description": null,
+              "refReason": null,
+              "rejectDescription": null
+            },
+            {
+              "strategyName": "CHECK_RECHECK",
+              "algorithmName": null,
+              "decision": "NEXT_MICROSERVICE",
+              "description": null,
+              "refReason": null,
+              "rejectDescription": null
+            },
+            {
+              "strategyName": "CHECK_EP_MAX",
+              "algorithmName": null,
+              "decision": "NEXT_MICROSERVICE",
+              "description": null,
+              "refReason": null,
+              "rejectDescription": null
+            },
+            {
+              "strategyName": "CHECK_SF",
+              "algorithmName": null,
+              "decision": "NEXT_MICROSERVICE",
+              "description": null,
+              "refReason": null,
+              "rejectDescription": null
+            },
+            {
+              "strategyName": "CHECK_RECHECK",
+              "algorithmName": null,
+              "decision": "NEXT_MICROSERVICE",
+              "description": null,
+              "refReason": null,
+              "rejectDescription": null
+            },
+            {
+              "strategyName": "CHECK_EP_MAX",
+              "algorithmName": null,
+              "decision": "NEXT_MICROSERVICE",
+              "description": null,
+              "refReason": null,
+              "rejectDescription": null
+            },
+            {
+              "strategyName": "CHECK_SF",
+              "algorithmName": null,
+              "decision": "NEXT_MICROSERVICE",
+              "description": null,
+              "refReason": null,
+              "rejectDescription": null
+            },
+            {
+              "strategyName": "CHECK_LIMIT",
+              "algorithmName": null,
+              "decision": "NEXT_MICROSERVICE",
+              "description": null,
+              "refReason": null,
+              "rejectDescription": null
+            },
+            {
+              "strategyName": "CHECK_SCORE",
+              "algorithmName": null,
+              "decision": "NEXT_MICROSERVICE",
+              "description": null,
+              "refReason": null,
+              "rejectDescription": null
+            },
+            {
+              "strategyName": "CHECK_SF",
+              "algorithmName": null,
+              "decision": "NEXT_MICROSERVICE",
+              "description": null,
+              "refReason": null,
+              "rejectDescription": null
+            },
+            {
+              "strategyName": "CHECK_RECHECK",
+              "algorithmName": null,
+              "decision": "NEXT_MICROSERVICE",
+              "description": null,
+              "refReason": null,
+              "rejectDescription": null
+            },
+            {
+              "strategyName": "CHECK_SF",
+              "algorithmName": null,
+              "decision": "NEXT_MICROSERVICE",
+              "description": null,
+              "refReason": null,
+              "rejectDescription": null
+            },
+            {
+              "strategyName": "CHECK_RECHECK",
+              "algorithmName": null,
+              "decision": "NEXT_MICROSERVICE",
+              "description": null,
+              "refReason": null,
+              "rejectDescription": null
+            },
+            {
+              "strategyName": "CHECK_SZ_CRITERIA_L",
+              "algorithmName": null,
+              "decision": "NEXT_MICROSERVICE",
+              "description": null,
+              "refReason": null,
+              "rejectDescription": null
+            },
+            {
+              "strategyName": "CHECK_SZ_CRITERIA_S",
+              "algorithmName": null,
+              "decision": "SZ",
+              "description": null,
+              "refReason": null,
+              "rejectDescription": null
+            }
+          ]
+        }
+      },
+      "ekl": {
+        "initialOffer": {
+          "unifiedLimit": 5000000.0,
+          "loanInterestRate": 0.399,
+          "loanMaxAmount": 5000000.0,
+          "loanMaxTerm": 84,
+          "cardMaxLimit": null,
+          "cardMinPayment": null,
+          "loanMonthlyPayment": 192033.66,
+          "unallocatedAmount": null,
+          "cardSelectedLimit": null,
+          "loanSelectedTerm": null,
+          "isWithRefinancing": null,
+          "isWithInsurance": null,
+          "isCardDeclined": null,
+          "isLoanDeclined": null,
+          "loanSelectedAmount": null,
+          "outstandingAmount": null,
+          "monthlyPaymentBeforeRefinancing": null,
+          "monthlyPaymentAfterRefinancing": null,
+          "monthlyPaymentForConfirmedIncome": null,
+          "monthlyPaymentForUnconfirmedIncome": 192053.8095,
+          "monthlyPaymentCCForUnconfirmedIncome": null,
+          "skp": [
+            {
+              "productCode": 1,
+              "brandID": 1005947,
+              "brandName": "Открытый рынок",
+              "interestRate": 0.399,
+              "interestRateWithInsurance": 0.399,
+              "minPaymentRatio": 0.0,
+              "insuranceRate": 0.1188,
+              "minProgramLimit": 100000.0,
+              "maxProgramLimit": 5000000.0,
+              "minProgramTerm": 13,
+              "maxProgramTerm": 84,
+              "idMatCap": null,
+              "documents": []
+            }
+          ]
+        },
+        "chosenOffer": {
+          "unifiedLimit": 5000000.0,
+          "loanInterestRate": 0.399,
+          "loanMaxAmount": 5000000.0,
+          "loanMaxTerm": 84,
+          "cardMaxLimit": null,
+          "cardMinPayment": null,
+          "loanMonthlyPayment": 192033.66,
+          "unallocatedAmount": 36000.0,
+          "cardSelectedLimit": null,
+          "loanSelectedTerm": 60,
+          "isWithRefinancing": true,
+          "isWithInsurance": true,
+          "isCardDeclined": true,
+          "isLoanDeclined": false,
+          "loanSelectedAmount": 4964000.0,
+          "outstandingAmount": 0.0,
+          "monthlyPaymentBeforeRefinancing": 0.0,
+          "monthlyPaymentAfterRefinancing": 1624.78,
+          "monthlyPaymentForConfirmedIncome": null,
+          "monthlyPaymentForUnconfirmedIncome": null,
+          "monthlyPaymentCCForUnconfirmedIncome": null,
+          "skp": [
+            {
+              "productCode": 1,
+              "brandID": 1005947,
+              "brandName": "Открытый рынок",
+              "interestRate": 0.399,
+              "interestRateWithInsurance": 0.399,
+              "minPaymentRatio": 0.0,
+              "insuranceRate": 0.1188,
+              "minProgramLimit": 100000.0,
+              "maxProgramLimit": 5000000.0,
+              "minProgramTerm": 13,
+              "maxProgramTerm": 84,
+              "idMatCap": null,
+              "documents": []
+            }
+          ]
+        },
+        "finalOffer": null
+      },
+      "mortgage": null
+    }
+  ]
+}

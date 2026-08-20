@@ -1,0 +1,11 @@
+{
+  "distributionReasonEnum": "DISTANT_REGION",
+  "requestIds": [
+    11111
+  ],
+  "userLogins": [
+    "testat1"
+  ],
+  "departmentsAndGroups": [],
+  "strategy": "MORE_REQUESTS_TO_USER_WITH_FEWER_REQUESTS"
+}

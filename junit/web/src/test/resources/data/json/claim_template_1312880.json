@@ -1,0 +1,4946 @@
+{
+  "claimId": "RKKL.${{claim_id}}_vrf_vrfAT",
+  "claimWithVersions": [
+    {
+      "forms": [
+        {
+          "formPrimary": {
+            "appPath": "Ekl",
+            "applicantOther": "Заемщик",
+            "applicantType": "Borrower",
+            "birthDate": "1990-12-05T00:00:00.000+00:00",
+            "birthPlace": "С. ШЕХМАНЬ ПЕТРОВСКИЙ Р-Н КУРСКАЯ ОБЛ.",
+            "borrowerAddress": [
+              {
+                "addressKind": "registration",
+                "addressKindOther": null,
+                "block": null,
+                "building": "36",
+                "city": null,
+                "cityType": "",
+                "country": "Россия",
+                "district": "Шехмань",
+                "districtType": "с.",
+                "federalDistrict": "Курская область",
+                "federalDistrictCode": 68,
+                "flat": "2",
+                "office": null,
+                "postalCode": "393084",
+                "region": "Петровский",
+                "regionType": "р-н",
+                "sinceDate": "1990-11-08T00:00:00.000+00:00",
+                "street": "Советская",
+                "streetType": "ул.",
+                "structure": null
+              },
+              {
+                "addressKind": "living",
+                "addressKindOther": null,
+                "block": null,
+                "building": "36",
+                "city": null,
+                "cityType": "",
+                "country": "Россия",
+                "district": "Шехмань",
+                "districtType": "с.",
+                "federalDistrict": "Курская область",
+                "federalDistrictCode": 68,
+                "flat": "2",
+                "office": null,
+                "postalCode": "393084",
+                "region": "Петровский",
+                "regionType": "р-н",
+                "sinceDate": null,
+                "street": "Советская",
+                "streetType": "ул.",
+                "structure": null
+              }
+            ],
+            "borrowerPhones": [
+              {
+                "phoneType": "mobile",
+                "phoneOther": null,
+                "number": "+72227702037"
+              },
+              {
+                "phoneType": "work",
+                "phoneOther": null,
+                "number": "+74951216501"
+              }
+            ],
+            "cardLimitSum": 50000.0,
+            "certNumberRVI": 123456,
+            "clientGroupId": 2,
+            "clientId": ${{regex:([1-9][0-9]{7})}},
+        "codeFilial": 0,
+        "codeOffice": 121,
+        "consumerLoanProductSelected": true,
+        "contactPersonFullName": null,
+        "contactPersonOther": null,
+        "contactPersonType": null,
+        "contactPhones": [],
+        "creator": "Иванова Софья Вадимовна",
+        "creatorComment": null,
+        "creditCardProductSelected": true,
+        "currencyId": 1,
+        "dateReturnToNIS": null,
+        "educationOther": null,
+        "educationType": null,
+        "email": "yura.90@mail.ru",
+        "employeeRank": null,
+        "exceptionReasonFromNIS": "",
+        "exceptReasonDocDate": null,
+        "firstName": "Юрий",
+        "formId": "L.${{claim_id}}_vrf_vrfAT",
+        "formVersion": 1,
+        "formVersionDate": "2023-04-20T00:00:00.000+00:00",
+        "hasPartTimeEmployment": false,
+        "identityDocuments": [
+          {
+            "documentKind": "passport",
+            "expiredDate": "2036-02-03T00:00:00.000+00:00",
+            "issuerCode": "111-222",
+            "number": "121212",
+            "series": "5555",
+            "whenGivenDate": "2018-06-13T00:00:00.000+00:00",
+            "whereGiven": "УМВД РОССИИ ПО ТАМБОВСКОЙ ОБЛАСТИ"
+          },
+          {
+            "documentKind": "snils",
+            "expiredDate": null,
+            "issuerCode": null,
+            "number": "15040627555",
+            "series": null,
+            "whenGivenDate": "0001-01-07T00:00:00.000+00:00",
+            "whereGiven": null
+          },
+          {
+            "documentKind": "inn",
+            "expiredDate": null,
+            "issuerCode": null,
+            "number": "681302227999",
+            "series": null,
+            "whenGivenDate": "0001-01-07T00:00:00.000+00:00",
+            "whereGiven": null
+          }
+        ],
+        "isClientInOffice": false,
+        "isNotTypical": false,
+        "isOrangePriority": false,
+        "isPsbPriority": false,
+        "lastName": "Романов",
+        "loanMonthPeriod": 84,
+        "loanProgramOther": null,
+        "loanProgramType": "S",
+        "loanPurpose": "13",
+        "loanPurposeOther": null,
+        "loanSum": 2200000.0,
+        "maritalStatusOther": null,
+        "maritalStatusType": "S",
+        "middleName": "Иванович",
+        "monthlyIncomes": [
+          {
+            "incomeKind": 1,
+            "formOther": null,
+            "formType": null,
+            "confirmedFormType": "ConfirmedIncomeForm4",
+            "amount": 50000.0,
+            "amountCorrect": null
+          },
+          {
+            "incomeKind": 2,
+            "formOther": null,
+            "formType": null,
+            "confirmedFormType": "FormSpravType5",
+            "amount": 20000.0,
+            "amountCorrect": null
+          },
+          {
+            "incomeKind": 3,
+            "formOther": null,
+            "formType": null,
+            "confirmedFormType": "FormSpravType5",
+            "amount": 20000.0,
+            "amountCorrect": null
+          }
+        ],
+        "nationalityCountryId": true,
+        "nativeClientIds": [],
+        "nisDate": null,
+        "noSnilsCategoryType": null,
+        "noSnilsCategoryOther": null,
+        "previousFirstName": null,
+        "previousLastName": null,
+        "previousMiddleName": null,
+        "residence": "Resident",
+        "retailAppId": 9056048,
+        "submitterChannelType": "Manager",
+        "sexOther": null,
+        "sexType": "Men",
+        "sourceOther": null,
+        "sourceType": "InfoSource8",
+        "spouseBirthDate": "1990-03-05T00:00:00.000+00:00",
+        "spouseFirstName": "Лидия",
+        "spouseLastName": "Романова",
+        "spouseMiddleName": "Петровна",
+        "spousePhones": [],
+        "spousePreviousLastName": null,
+        "trlContractNumber": null,
+        "trlContractDate": null,
+        "vip": false,
+        "fioMrk": null,
+        "fioDoc": null,
+        "commentMrk": null,
+        "commentDoc": null,
+        "matchesAddressRegistration": true,
+        "regionalOfficeId": 1,
+        "isLprClient": true,
+        "zpCardsCount": 25,
+        "avgIncomeZp": 1000000,
+        "haveAShare": null
+        },
+        "formEtc": {
+          "borrowerConsents": [
+            {
+              "consentType": "RequestFromBki",
+              "consentOther": null,
+              "isConsent": true
+            },
+            {
+              "consentType": "ToCession",
+              "consentOther": null,
+              "isConsent": true
+            },
+            {
+              "consentType": "ToPhoto",
+              "consentOther": null,
+              "isConsent": true
+            },
+            {
+              "consentType": "PersonalDataPartners",
+              "consentOther": null,
+              "isConsent": true
+            },
+            {
+              "consentType": "PersonalDataProcessing",
+              "consentOther": null,
+              "isConsent": true
+            },
+            {
+              "consentType": "VoluntaryHealthInsurancePhase1",
+              "consentOther": null,
+              "isConsent": true
+            },
+            {
+              "consentType": "Promotion",
+              "consentOther": null,
+              "isConsent": true
+            }
+          ],
+          "carQuantity": null,
+          "clientRatingOther": null,
+          "clientRatingType": "Solvent",
+          "employers": [
+            {
+              "employedSinceDate": "2014-02-01T00:00:00.000+00:00",
+              "employeePosition": "полицейский (боец)",
+              "employeesQuantityOther": null,
+              "employeesQuantityType": "G500",
+              "employeeStatusOther": null,
+              "employeeStatusType": "SPECIAL",
+              "employerAddress": [
+                {
+                  "addressKind": "corresponding",
+                  "addressKindOther": null,
+                  "block": null,
+                  "building": "2Б",
+                  "city": "Москва",
+                  "cityType": "г.",
+                  "country": "Россия",
+                  "district": null,
+                  "districtType": null,
+                  "federalDistrict": "Москва",
+                  "federalDistrictCode": 77,
+                  "flat": null,
+                  "office": null,
+                  "postalCode": "105066",
+                  "region": null,
+                  "regionType": null,
+                  "sinceDate": null,
+                  "street": "Спартаковская",
+                  "streetType": "ул.",
+                  "structure": null
+                },
+                {
+                  "addressKind": "physical",
+                  "addressKindOther": null,
+                  "block": "2",
+                  "building": "2",
+                  "city": "Москва",
+                  "cityType": "г.",
+                  "country": "Россия",
+                  "district": null,
+                  "districtType": null,
+                  "federalDistrict": "Москва",
+                  "federalDistrictCode": 77,
+                  "flat": null,
+                  "office": null,
+                  "postalCode": "123458",
+                  "region": null,
+                  "regionType": null,
+                  "sinceDate": null,
+                  "street": "Твардовского",
+                  "streetType": "ул.",
+                  "structure": null
+                }
+              ],
+              "employerChiefFullName": "Иванов Виктор Петрович",
+              "employerFieldOther": null,
+              "employerFieldType": "ActivityStatus33",
+              "employerFormOther": null,
+              "employerFormType": "ELSE",
+              "employerIdForRkk": "121212",
+              "employerName": "ФКУ \"ЕРЦ МО РФ\" (В/Ч №09436)",
+              "employerOther": null,
+              "employerType": "GOV",
+              "employerPhones": [],
+              "employerTaxPayerNumber": "7714794048",
+              "employmentKind": "MainJob",
+              "employmentOther": null,
+              "employmentType": "PERMANENT",
+              "kpp": "770101001"
+            },
+            {
+              "employedSinceDate": "2014-02-01T00:00:00.000+00:00",
+              "employeePosition": "полицейский (совсем небоец)",
+              "employeesQuantityOther": null,
+              "employeesQuantityType": "С20",
+              "employeeStatusOther": null,
+              "employeeStatusType": "SPECIAL",
+              "employerAddress": [
+                {
+                  "addressKind": "corresponding",
+                  "addressKindOther": null,
+                  "block": null,
+                  "building": "2Б",
+                  "city": "Москва",
+                  "cityType": "г.",
+                  "country": "Россия",
+                  "district": null,
+                  "districtType": null,
+                  "federalDistrict": "Москва",
+                  "federalDistrictCode": 77,
+                  "flat": null,
+                  "office": null,
+                  "postalCode": "105066",
+                  "region": null,
+                  "regionType": null,
+                  "sinceDate": null,
+                  "street": "Спартаковская",
+                  "streetType": "ул.",
+                  "structure": null
+                },
+                {
+                  "addressKind": "physical",
+                  "addressKindOther": null,
+                  "block": "2",
+                  "building": "2",
+                  "city": "Москва",
+                  "cityType": "г.",
+                  "country": "Россия",
+                  "district": null,
+                  "districtType": null,
+                  "federalDistrict": "Москва",
+                  "federalDistrictCode": 77,
+                  "flat": null,
+                  "office": null,
+                  "postalCode": "123458",
+                  "region": null,
+                  "regionType": null,
+                  "sinceDate": null,
+                  "street": "Твардовского",
+                  "streetType": "ул.",
+                  "structure": null
+                }
+              ],
+              "employerChiefFullName": null,
+              "employerFieldOther": null,
+              "employerFieldType": "ActivityStatus13",
+              "employerFormOther": null,
+              "employerFormType": "",
+              "employerIdForRkk": "121211",
+              "employerName": "Какая-то работа",
+              "employerOther": null,
+              "employerType": "COM",
+              "employerPhones": [],
+              "employerTaxPayerNumber": "7714794050",
+              "employmentKind": "SecondJob",
+              "employmentOther": null,
+              "employmentType": "PERMANENT",
+              "kpp": "770101001"
+            }
+          ],
+          "employmentMonths": 0,
+          "employmentYears": 9,
+          "hasCar": null,
+          "hasFlat": null,
+          "isRetiree": false,
+          "retireeType": null,
+          "otherPropertyAvailability": null,
+          "outwardAppearanceOther": null,
+          "outwardAppearanceType": "Outward_1",
+          "publicServant": null
+        },
+        "formBorrower": {
+          "claimId": "RKKL.${{claim_id}}_vrf_vrfAT",
+          "claimVer": 1,
+          "claimVerDate": "2023-04-20T00:00:00.000+00:00",
+          "issueDate": "2023-04-20T00:00:00.000+00:00",
+          "militaryStatus": "2",
+          "nisExcludeDate": null
+        },
+        "formMortgage": null,
+        "preUnder": {
+          "monthlyIncomeTwoNdfls":
+          []
+        },
+        "idealKICorrect": null,
+        "incomeCorrect": null,
+        "documents": []
+        }
+      ],
+      "claimStatusAndScans": {
+        "claimStatus": null,
+        "history": null
+      },
+      "undDecision": null,
+      "undDecisionCaseList": [],
+      "idealKI": [
+        {
+          "formId": "L.${{claim_id}}_vrf_vrfAT",
+          "idealKIVersion": 1,
+          "idealKIVersionDate": "2022-12-22T10:11:51.000+00:00",
+          "usoReportId": "1037067:-832627113",
+          "credits": [
+            {
+              "arrearsCnt": null,
+              "bankName": "Промсвязьбанк",
+              "clientOrSpouseOther": "Заявитель",
+              "clientOrSpouseType": "0",
+              "clientOther": "Заемщик",
+              "clientType": "borrowers",
+              "contractNumber": "IBSO_45507810294314104700_031_4700",
+              "creditId": null,
+              "creditIdRefinance": null,
+              "creditProgramOther": "Пенсионеры\\Пенсионеры",
+              "creditProgramType": "L.08",
+              "creditSum": 809900.0,
+              "creditTypeOther": "Пенсионеры\\Пенсионеры",
+              "creditTypeType": null,
+              "currency": "RUR",
+              "debts": 652.19,
+              "duration": 60,
+              "factDate": "2021-04-17T00:00:00.000+00:00",
+              "factFinalDate": "2021-04-17T00:00:00.000+00:00",
+              "finalDate": "2024-07-12T00:00:00.000+00:00",
+              "infoLastUpdateDate": "2022-12-22T10:10:52.000+00:00",
+              "loanProgramOther": "Кредитный договор(розн. кред.)",
+              "loanProgramType": "3",
+              "mark": true,
+              "monthlyPayment": 19652.19,
+              "overdueAmount": null,
+              "psbCredit": true,
+              "rate": 15.9,
+              "recordNum": 1,
+              "refinanceResultSum": 109900.0,
+              "sourceOther": "SAP",
+              "sourceType": "SAP",
+              "startDate": "2019-07-12T00:00:00.000+00:00",
+              "statusOther": "Исполнен",
+              "statusType": "99",
+              "undMark": null,
+              "worstCategory12": null,
+              "worstCategory12Int": null,
+              "worstCategory3": null,
+              "worstCategory3Int": null,
+              "worstCategory6": null,
+              "worstCategory6Int": null,
+              "isRefMortgageUnd": false,
+              "payments": [
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 2,
+                  "paymentCat": null,
+                  "paymentDate": "2019-07-12T00:00:00.000+00:00",
+                  "paymentNum": 1,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-07-31T00:00:00.000+00:00",
+                  "paymentNum": 2,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-08-12T00:00:00.000+00:00",
+                  "paymentNum": 3,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-08-12T00:00:00.000+00:00",
+                  "paymentNum": 4,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-08-12T00:00:00.000+00:00",
+                  "paymentNum": 5,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-08-31T00:00:00.000+00:00",
+                  "paymentNum": 6,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-09-12T00:00:00.000+00:00",
+                  "paymentNum": 7,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-09-12T00:00:00.000+00:00",
+                  "paymentNum": 8,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-09-12T00:00:00.000+00:00",
+                  "paymentNum": 9,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-09-30T00:00:00.000+00:00",
+                  "paymentNum": 10,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-10-14T00:00:00.000+00:00",
+                  "paymentNum": 11,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-10-14T00:00:00.000+00:00",
+                  "paymentNum": 12,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-10-14T00:00:00.000+00:00",
+                  "paymentNum": 13,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-10-31T00:00:00.000+00:00",
+                  "paymentNum": 14,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-11-12T00:00:00.000+00:00",
+                  "paymentNum": 15,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-11-12T00:00:00.000+00:00",
+                  "paymentNum": 16,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-11-12T00:00:00.000+00:00",
+                  "paymentNum": 17,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-11-30T00:00:00.000+00:00",
+                  "paymentNum": 18,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-12-12T00:00:00.000+00:00",
+                  "paymentNum": 19,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-12-12T00:00:00.000+00:00",
+                  "paymentNum": 20,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-12-12T00:00:00.000+00:00",
+                  "paymentNum": 21,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-12-31T00:00:00.000+00:00",
+                  "paymentNum": 22,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2020-01-13T00:00:00.000+00:00",
+                  "paymentNum": 23,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2020-01-13T00:00:00.000+00:00",
+                  "paymentNum": 24,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2020-01-13T00:00:00.000+00:00",
+                  "paymentNum": 25,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2020-01-31T00:00:00.000+00:00",
+                  "paymentNum": 26,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2020-02-12T00:00:00.000+00:00",
+                  "paymentNum": 27,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2020-02-12T00:00:00.000+00:00",
+                  "paymentNum": 28,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2020-02-12T00:00:00.000+00:00",
+                  "paymentNum": 29,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2020-02-29T00:00:00.000+00:00",
+                  "paymentNum": 30,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2020-03-12T00:00:00.000+00:00",
+                  "paymentNum": 31,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2020-03-12T00:00:00.000+00:00",
+                  "paymentNum": 32,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2020-03-12T00:00:00.000+00:00",
+                  "paymentNum": 33,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2020-03-31T00:00:00.000+00:00",
+                  "paymentNum": 34,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2020-04-13T00:00:00.000+00:00",
+                  "paymentNum": 35,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2020-04-13T00:00:00.000+00:00",
+                  "paymentNum": 36,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2020-04-13T00:00:00.000+00:00",
+                  "paymentNum": 37,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2020-04-30T00:00:00.000+00:00",
+                  "paymentNum": 38,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2020-05-01T00:00:00.000+00:00",
+                  "paymentNum": 39,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2020-05-12T00:00:00.000+00:00",
+                  "paymentNum": 40,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2020-05-12T00:00:00.000+00:00",
+                  "paymentNum": 41,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2020-06-15T00:00:00.000+00:00",
+                  "paymentNum": 42,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2020-06-15T00:00:00.000+00:00",
+                  "paymentNum": 43,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2020-07-13T00:00:00.000+00:00",
+                  "paymentNum": 44,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2020-07-13T00:00:00.000+00:00",
+                  "paymentNum": 45,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2020-08-12T00:00:00.000+00:00",
+                  "paymentNum": 46,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2020-08-12T00:00:00.000+00:00",
+                  "paymentNum": 47,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2020-09-14T00:00:00.000+00:00",
+                  "paymentNum": 48,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2020-09-14T00:00:00.000+00:00",
+                  "paymentNum": 49,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2020-10-12T00:00:00.000+00:00",
+                  "paymentNum": 50,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2020-10-12T00:00:00.000+00:00",
+                  "paymentNum": 51,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2020-11-12T00:00:00.000+00:00",
+                  "paymentNum": 52,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2020-11-12T00:00:00.000+00:00",
+                  "paymentNum": 53,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2020-12-14T00:00:00.000+00:00",
+                  "paymentNum": 54,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2020-12-14T00:00:00.000+00:00",
+                  "paymentNum": 55,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2021-01-12T00:00:00.000+00:00",
+                  "paymentNum": 56,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2021-01-12T00:00:00.000+00:00",
+                  "paymentNum": 57,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2021-02-12T00:00:00.000+00:00",
+                  "paymentNum": 58,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2021-02-12T00:00:00.000+00:00",
+                  "paymentNum": 59,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2021-03-12T00:00:00.000+00:00",
+                  "paymentNum": 60,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2021-03-12T00:00:00.000+00:00",
+                  "paymentNum": 61,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2021-04-12T00:00:00.000+00:00",
+                  "paymentNum": 62,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2021-04-12T00:00:00.000+00:00",
+                  "paymentNum": 63,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2021-04-17T00:00:00.000+00:00",
+                  "paymentNum": 64,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2021-04-17T00:00:00.000+00:00",
+                  "paymentNum": 65,
+                  "paymentStatus": null
+                }
+              ]
+            },
+            {
+              "arrearsCnt": null,
+              "bankName": null,
+              "clientOrSpouseOther": "Заявитель",
+              "clientOrSpouseType": "0",
+              "clientOther": null,
+              "clientType": "1",
+              "contractNumber": null,
+              "creditId": null,
+              "creditIdRefinance": null,
+              "creditProgramOther": null,
+              "creditProgramType": "7",
+              "creditSum": 0.0,
+              "creditTypeOther": null,
+              "creditTypeType": 7,
+              "currency": "RUB",
+              "debts": 0.0,
+              "duration": null,
+              "factDate": "2021-04-02T00:00:00.000+00:00",
+              "factFinalDate": "2021-04-02T00:00:00.000+00:00",
+              "finalDate": null,
+              "infoLastUpdateDate": "2021-04-04T00:00:00.000+00:00",
+              "loanProgramOther": null,
+              "loanProgramType": "7",
+              "mark": true,
+              "monthlyPayment": null,
+              "overdueAmount": 0.0,
+              "psbCredit": false,
+              "rate": 19.0,
+              "recordNum": 1,
+              "refinanceResultSum": null,
+              "sourceOther": null,
+              "sourceType": "EI",
+              "startDate": "2012-08-23T00:00:00.000+00:00",
+              "statusOther": null,
+              "statusType": "13",
+              "undMark": null,
+              "worstCategory12": null,
+              "worstCategory12Int": null,
+              "worstCategory3": null,
+              "worstCategory3Int": null,
+              "worstCategory6": null,
+              "worstCategory6Int": null,
+              "isRefMortgageUnd": null,
+              "payments": [
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2013-05-20T00:00:00.000+00:00",
+                  "paymentNum": 1,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2013-07-23T00:00:00.000+00:00",
+                  "paymentNum": 2,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2013-08-15T00:00:00.000+00:00",
+                  "paymentNum": 3,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2013-11-11T00:00:00.000+00:00",
+                  "paymentNum": 4,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2013-12-17T00:00:00.000+00:00",
+                  "paymentNum": 5,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2014-02-07T00:00:00.000+00:00",
+                  "paymentNum": 6,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2014-04-09T00:00:00.000+00:00",
+                  "paymentNum": 7,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2014-06-21T00:00:00.000+00:00",
+                  "paymentNum": 8,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2014-11-05T00:00:00.000+00:00",
+                  "paymentNum": 9,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2014-12-25T00:00:00.000+00:00",
+                  "paymentNum": 10,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2015-01-20T00:00:00.000+00:00",
+                  "paymentNum": 11,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2015-06-24T00:00:00.000+00:00",
+                  "paymentNum": 12,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2015-07-24T00:00:00.000+00:00",
+                  "paymentNum": 13,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2015-08-24T00:00:00.000+00:00",
+                  "paymentNum": 14,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2015-09-14T00:00:00.000+00:00",
+                  "paymentNum": 15,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2015-10-20T00:00:00.000+00:00",
+                  "paymentNum": 16,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2015-11-19T00:00:00.000+00:00",
+                  "paymentNum": 17,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2015-12-24T00:00:00.000+00:00",
+                  "paymentNum": 18,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2016-01-26T00:00:00.000+00:00",
+                  "paymentNum": 19,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2016-02-24T00:00:00.000+00:00",
+                  "paymentNum": 20,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2016-03-24T00:00:00.000+00:00",
+                  "paymentNum": 21,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2016-04-25T00:00:00.000+00:00",
+                  "paymentNum": 22,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2016-05-25T00:00:00.000+00:00",
+                  "paymentNum": 23,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2016-06-24T00:00:00.000+00:00",
+                  "paymentNum": 24,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2016-07-24T00:00:00.000+00:00",
+                  "paymentNum": 25,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2016-08-25T00:00:00.000+00:00",
+                  "paymentNum": 26,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2016-09-26T00:00:00.000+00:00",
+                  "paymentNum": 27,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2016-10-26T00:00:00.000+00:00",
+                  "paymentNum": 28,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2016-11-25T00:00:00.000+00:00",
+                  "paymentNum": 29,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2016-12-26T00:00:00.000+00:00",
+                  "paymentNum": 30,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2017-01-25T00:00:00.000+00:00",
+                  "paymentNum": 31,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2017-02-24T00:00:00.000+00:00",
+                  "paymentNum": 32,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2017-03-26T00:00:00.000+00:00",
+                  "paymentNum": 33,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2017-04-26T00:00:00.000+00:00",
+                  "paymentNum": 34,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2017-05-26T00:00:00.000+00:00",
+                  "paymentNum": 35,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2017-06-25T00:00:00.000+00:00",
+                  "paymentNum": 36,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2017-07-25T00:00:00.000+00:00",
+                  "paymentNum": 37,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2017-08-15T00:00:00.000+00:00",
+                  "paymentNum": 38,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2017-09-23T00:00:00.000+00:00",
+                  "paymentNum": 39,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2017-10-26T00:00:00.000+00:00",
+                  "paymentNum": 40,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2017-11-25T00:00:00.000+00:00",
+                  "paymentNum": 41,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2017-12-25T00:00:00.000+00:00",
+                  "paymentNum": 42,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2018-01-24T00:00:00.000+00:00",
+                  "paymentNum": 43,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2018-02-24T00:00:00.000+00:00",
+                  "paymentNum": 44,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2018-03-23T00:00:00.000+00:00",
+                  "paymentNum": 45,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2018-04-25T00:00:00.000+00:00",
+                  "paymentNum": 46,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2018-05-25T00:00:00.000+00:00",
+                  "paymentNum": 47,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2018-06-24T00:00:00.000+00:00",
+                  "paymentNum": 48,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2018-07-25T00:00:00.000+00:00",
+                  "paymentNum": 49,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2018-08-24T00:00:00.000+00:00",
+                  "paymentNum": 50,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2018-09-23T00:00:00.000+00:00",
+                  "paymentNum": 51,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2018-10-26T00:00:00.000+00:00",
+                  "paymentNum": 52,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2018-11-26T00:00:00.000+00:00",
+                  "paymentNum": 53,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2018-12-24T00:00:00.000+00:00",
+                  "paymentNum": 54,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-01-23T00:00:00.000+00:00",
+                  "paymentNum": 55,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-02-24T00:00:00.000+00:00",
+                  "paymentNum": 56,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-03-25T00:00:00.000+00:00",
+                  "paymentNum": 57,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-04-24T00:00:00.000+00:00",
+                  "paymentNum": 58,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-05-25T00:00:00.000+00:00",
+                  "paymentNum": 59,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-06-23T00:00:00.000+00:00",
+                  "paymentNum": 60,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-07-23T00:00:00.000+00:00",
+                  "paymentNum": 61,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-08-25T00:00:00.000+00:00",
+                  "paymentNum": 62,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-09-25T00:00:00.000+00:00",
+                  "paymentNum": 63,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-10-25T00:00:00.000+00:00",
+                  "paymentNum": 64,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-11-23T00:00:00.000+00:00",
+                  "paymentNum": 65,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-12-28T00:00:00.000+00:00",
+                  "paymentNum": 66,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2020-01-23T00:00:00.000+00:00",
+                  "paymentNum": 67,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2020-02-26T00:00:00.000+00:00",
+                  "paymentNum": 68,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2020-03-30T00:00:00.000+00:00",
+                  "paymentNum": 69,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2020-04-26T00:00:00.000+00:00",
+                  "paymentNum": 70,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2020-05-23T00:00:00.000+00:00",
+                  "paymentNum": 71,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2020-06-25T00:00:00.000+00:00",
+                  "paymentNum": 72,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2020-07-26T00:00:00.000+00:00",
+                  "paymentNum": 73,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2020-08-25T00:00:00.000+00:00",
+                  "paymentNum": 74,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2020-09-24T00:00:00.000+00:00",
+                  "paymentNum": 75,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2020-10-24T00:00:00.000+00:00",
+                  "paymentNum": 76,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2020-11-26T00:00:00.000+00:00",
+                  "paymentNum": 77,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2020-12-23T00:00:00.000+00:00",
+                  "paymentNum": 78,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2021-01-25T00:00:00.000+00:00",
+                  "paymentNum": 79,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2021-02-24T00:00:00.000+00:00",
+                  "paymentNum": 80,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2021-03-24T00:00:00.000+00:00",
+                  "paymentNum": 81,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": null,
+                  "paymentCat": null,
+                  "paymentDate": "2021-04-04T00:00:00.000+00:00",
+                  "paymentNum": 82,
+                  "paymentStatus": null
+                }
+              ]
+            },
+            {
+              "arrearsCnt": null,
+              "bankName": null,
+              "clientOrSpouseOther": "Заявитель",
+              "clientOrSpouseType": "0",
+              "clientOther": null,
+              "clientType": "1",
+              "contractNumber": null,
+              "creditId": null,
+              "creditIdRefinance": null,
+              "creditProgramOther": null,
+              "creditProgramType": "9",
+              "creditSum": 80000.0,
+              "creditTypeOther": null,
+              "creditTypeType": 9,
+              "currency": "RUB",
+              "debts": 0.0,
+              "duration": null,
+              "factDate": "2016-11-19T00:00:00.000+00:00",
+              "factFinalDate": "2016-11-19T00:00:00.000+00:00",
+              "finalDate": "2016-11-18T00:00:00.000+00:00",
+              "infoLastUpdateDate": "2020-10-12T00:00:00.000+00:00",
+              "loanProgramOther": null,
+              "loanProgramType": "9",
+              "mark": true,
+              "monthlyPayment": 0.0,
+              "overdueAmount": 0.0,
+              "psbCredit": false,
+              "rate": 22.5,
+              "recordNum": 2,
+              "refinanceResultSum": null,
+              "sourceOther": null,
+              "sourceType": "EI",
+              "startDate": "2013-11-18T00:00:00.000+00:00",
+              "statusOther": null,
+              "statusType": "13",
+              "undMark": null,
+              "worstCategory12": null,
+              "worstCategory12Int": null,
+              "worstCategory3": null,
+              "worstCategory3Int": null,
+              "worstCategory6": null,
+              "worstCategory6Int": null,
+              "isRefMortgageUnd": null,
+              "payments": [
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2013-12-17T00:00:00.000+00:00",
+                  "paymentNum": 1,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2014-02-07T00:00:00.000+00:00",
+                  "paymentNum": 2,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2014-04-09T00:00:00.000+00:00",
+                  "paymentNum": 3,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2014-05-30T00:00:00.000+00:00",
+                  "paymentNum": 4,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2014-06-21T00:00:00.000+00:00",
+                  "paymentNum": 5,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2014-08-19T00:00:00.000+00:00",
+                  "paymentNum": 6,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2014-09-28T00:00:00.000+00:00",
+                  "paymentNum": 7,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2014-11-28T00:00:00.000+00:00",
+                  "paymentNum": 8,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2014-12-22T00:00:00.000+00:00",
+                  "paymentNum": 9,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2015-01-19T00:00:00.000+00:00",
+                  "paymentNum": 10,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2015-02-19T00:00:00.000+00:00",
+                  "paymentNum": 11,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2015-03-24T00:00:00.000+00:00",
+                  "paymentNum": 12,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2015-04-23T00:00:00.000+00:00",
+                  "paymentNum": 13,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2015-05-23T00:00:00.000+00:00",
+                  "paymentNum": 14,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2015-06-22T00:00:00.000+00:00",
+                  "paymentNum": 15,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2015-07-25T00:00:00.000+00:00",
+                  "paymentNum": 16,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2015-08-26T00:00:00.000+00:00",
+                  "paymentNum": 17,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2015-09-21T00:00:00.000+00:00",
+                  "paymentNum": 18,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2015-10-22T00:00:00.000+00:00",
+                  "paymentNum": 19,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2015-11-20T00:00:00.000+00:00",
+                  "paymentNum": 20,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2015-12-21T00:00:00.000+00:00",
+                  "paymentNum": 21,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2016-01-20T00:00:00.000+00:00",
+                  "paymentNum": 22,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2016-02-21T00:00:00.000+00:00",
+                  "paymentNum": 23,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2016-03-21T00:00:00.000+00:00",
+                  "paymentNum": 24,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2016-04-19T00:00:00.000+00:00",
+                  "paymentNum": 25,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2016-05-19T00:00:00.000+00:00",
+                  "paymentNum": 26,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2016-06-21T00:00:00.000+00:00",
+                  "paymentNum": 27,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2016-07-19T00:00:00.000+00:00",
+                  "paymentNum": 28,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2016-08-20T00:00:00.000+00:00",
+                  "paymentNum": 29,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2016-09-20T00:00:00.000+00:00",
+                  "paymentNum": 30,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2016-10-20T00:00:00.000+00:00",
+                  "paymentNum": 31,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2016-11-22T00:00:00.000+00:00",
+                  "paymentNum": 32,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2020-10-12T00:00:00.000+00:00",
+                  "paymentNum": 33,
+                  "paymentStatus": null
+                }
+              ]
+            },
+            {
+              "arrearsCnt": null,
+              "bankName": null,
+              "clientOrSpouseOther": "Заявитель",
+              "clientOrSpouseType": "0",
+              "clientOther": null,
+              "clientType": "1",
+              "contractNumber": null,
+              "creditId": null,
+              "creditIdRefinance": null,
+              "creditProgramOther": null,
+              "creditProgramType": "9",
+              "creditSum": 250000.0,
+              "creditTypeOther": null,
+              "creditTypeType": 9,
+              "currency": "RUB",
+              "debts": 0.0,
+              "duration": null,
+              "factDate": "2019-04-01T00:00:00.000+00:00",
+              "factFinalDate": "2019-04-01T00:00:00.000+00:00",
+              "finalDate": "2019-04-30T00:00:00.000+00:00",
+              "infoLastUpdateDate": "2022-07-29T00:00:00.000+00:00",
+              "loanProgramOther": null,
+              "loanProgramType": "9",
+              "mark": true,
+              "monthlyPayment": 0.0,
+              "overdueAmount": 0.0,
+              "psbCredit": false,
+              "rate": 22.5,
+              "recordNum": 3,
+              "refinanceResultSum": null,
+              "sourceOther": null,
+              "sourceType": "EI",
+              "startDate": "2014-04-30T00:00:00.000+00:00",
+              "statusOther": null,
+              "statusType": "13",
+              "undMark": null,
+              "worstCategory12": null,
+              "worstCategory12Int": null,
+              "worstCategory3": null,
+              "worstCategory3Int": null,
+              "worstCategory6": null,
+              "worstCategory6Int": null,
+              "isRefMortgageUnd": null,
+              "payments": [
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2014-05-30T00:00:00.000+00:00",
+                  "paymentNum": 1,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2014-06-21T00:00:00.000+00:00",
+                  "paymentNum": 2,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2014-08-19T00:00:00.000+00:00",
+                  "paymentNum": 3,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2014-09-28T00:00:00.000+00:00",
+                  "paymentNum": 4,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2014-11-05T00:00:00.000+00:00",
+                  "paymentNum": 5,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2014-12-05T00:00:00.000+00:00",
+                  "paymentNum": 6,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2015-01-03T00:00:00.000+00:00",
+                  "paymentNum": 7,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2015-02-10T00:00:00.000+00:00",
+                  "paymentNum": 8,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2015-03-02T00:00:00.000+00:00",
+                  "paymentNum": 9,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2015-04-08T00:00:00.000+00:00",
+                  "paymentNum": 10,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2015-05-03T00:00:00.000+00:00",
+                  "paymentNum": 11,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2015-06-02T00:00:00.000+00:00",
+                  "paymentNum": 12,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2015-07-02T00:00:00.000+00:00",
+                  "paymentNum": 13,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2015-08-31T00:00:00.000+00:00",
+                  "paymentNum": 14,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2015-10-02T00:00:00.000+00:00",
+                  "paymentNum": 15,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2015-11-03T00:00:00.000+00:00",
+                  "paymentNum": 16,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2015-12-01T00:00:00.000+00:00",
+                  "paymentNum": 17,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2016-01-02T00:00:00.000+00:00",
+                  "paymentNum": 18,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2016-02-01T00:00:00.000+00:00",
+                  "paymentNum": 19,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2016-03-03T00:00:00.000+00:00",
+                  "paymentNum": 20,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2016-04-02T00:00:00.000+00:00",
+                  "paymentNum": 21,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2016-05-31T00:00:00.000+00:00",
+                  "paymentNum": 22,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2016-07-03T00:00:00.000+00:00",
+                  "paymentNum": 23,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2016-08-31T00:00:00.000+00:00",
+                  "paymentNum": 24,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2016-10-02T00:00:00.000+00:00",
+                  "paymentNum": 25,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2016-11-01T00:00:00.000+00:00",
+                  "paymentNum": 26,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2016-12-02T00:00:00.000+00:00",
+                  "paymentNum": 27,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2017-01-31T00:00:00.000+00:00",
+                  "paymentNum": 28,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2017-03-02T00:00:00.000+00:00",
+                  "paymentNum": 29,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2017-04-01T00:00:00.000+00:00",
+                  "paymentNum": 30,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2017-05-02T00:00:00.000+00:00",
+                  "paymentNum": 31,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2017-06-01T00:00:00.000+00:00",
+                  "paymentNum": 32,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2017-07-31T00:00:00.000+00:00",
+                  "paymentNum": 33,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2017-09-02T00:00:00.000+00:00",
+                  "paymentNum": 34,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2017-10-02T00:00:00.000+00:00",
+                  "paymentNum": 35,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2017-11-01T00:00:00.000+00:00",
+                  "paymentNum": 36,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2017-12-31T00:00:00.000+00:00",
+                  "paymentNum": 37,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2018-02-02T00:00:00.000+00:00",
+                  "paymentNum": 38,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2018-03-02T00:00:00.000+00:00",
+                  "paymentNum": 39,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2018-04-01T00:00:00.000+00:00",
+                  "paymentNum": 40,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2018-05-31T00:00:00.000+00:00",
+                  "paymentNum": 41,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2018-07-31T00:00:00.000+00:00",
+                  "paymentNum": 42,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2018-09-02T00:00:00.000+00:00",
+                  "paymentNum": 43,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2018-10-02T00:00:00.000+00:00",
+                  "paymentNum": 44,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2018-11-01T00:00:00.000+00:00",
+                  "paymentNum": 45,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2018-12-01T00:00:00.000+00:00",
+                  "paymentNum": 46,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-01-02T00:00:00.000+00:00",
+                  "paymentNum": 47,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-02-01T00:00:00.000+00:00",
+                  "paymentNum": 48,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-03-01T00:00:00.000+00:00",
+                  "paymentNum": 49,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-04-03T00:00:00.000+00:00",
+                  "paymentNum": 50,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-05-12T00:00:00.000+00:00",
+                  "paymentNum": 51,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2020-10-12T00:00:00.000+00:00",
+                  "paymentNum": 52,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": null,
+                  "paymentCat": null,
+                  "paymentDate": "2022-07-29T00:00:00.000+00:00",
+                  "paymentNum": 53,
+                  "paymentStatus": null
+                }
+              ]
+            },
+            {
+              "arrearsCnt": null,
+              "bankName": null,
+              "clientOrSpouseOther": "Заявитель",
+              "clientOrSpouseType": "0",
+              "clientOther": null,
+              "clientType": "1",
+              "contractNumber": null,
+              "creditId": null,
+              "creditIdRefinance": null,
+              "creditProgramOther": null,
+              "creditProgramType": "9",
+              "creditSum": 17001.0,
+              "creditTypeOther": null,
+              "creditTypeType": 9,
+              "currency": "RUB",
+              "debts": 0.0,
+              "duration": null,
+              "factDate": "2019-07-08T00:00:00.000+00:00",
+              "factFinalDate": "2019-07-08T00:00:00.000+00:00",
+              "finalDate": "2019-07-08T00:00:00.000+00:00",
+              "infoLastUpdateDate": "2019-07-18T00:00:00.000+00:00",
+              "loanProgramOther": null,
+              "loanProgramType": "9",
+              "mark": true,
+              "monthlyPayment": 0.0,
+              "overdueAmount": 0.0,
+              "psbCredit": false,
+              "rate": null,
+              "recordNum": 4,
+              "refinanceResultSum": null,
+              "sourceOther": null,
+              "sourceType": "EI,NBCH",
+              "startDate": "2017-06-21T00:00:00.000+00:00",
+              "statusOther": null,
+              "statusType": "13",
+              "undMark": null,
+              "worstCategory12": null,
+              "worstCategory12Int": null,
+              "worstCategory3": null,
+              "worstCategory3Int": null,
+              "worstCategory6": null,
+              "worstCategory6Int": null,
+              "isRefMortgageUnd": null,
+              "payments": [
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2017-06-30T00:00:00.000+00:00",
+                  "paymentNum": 1,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2017-07-20T00:00:00.000+00:00",
+                  "paymentNum": 2,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2017-08-24T00:00:00.000+00:00",
+                  "paymentNum": 3,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2017-09-28T00:00:00.000+00:00",
+                  "paymentNum": 4,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2017-10-26T00:00:00.000+00:00",
+                  "paymentNum": 5,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2017-11-08T00:00:00.000+00:00",
+                  "paymentNum": 6,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2017-12-12T00:00:00.000+00:00",
+                  "paymentNum": 7,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2018-01-10T00:00:00.000+00:00",
+                  "paymentNum": 8,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2018-02-12T00:00:00.000+00:00",
+                  "paymentNum": 9,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2018-03-15T00:00:00.000+00:00",
+                  "paymentNum": 10,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2018-04-11T00:00:00.000+00:00",
+                  "paymentNum": 11,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2018-05-10T00:00:00.000+00:00",
+                  "paymentNum": 12,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2018-06-09T00:00:00.000+00:00",
+                  "paymentNum": 13,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2018-07-12T00:00:00.000+00:00",
+                  "paymentNum": 14,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2018-08-09T00:00:00.000+00:00",
+                  "paymentNum": 15,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2018-09-20T00:00:00.000+00:00",
+                  "paymentNum": 16,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2018-10-11T00:00:00.000+00:00",
+                  "paymentNum": 17,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2018-11-12T00:00:00.000+00:00",
+                  "paymentNum": 18,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2018-12-10T00:00:00.000+00:00",
+                  "paymentNum": 19,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-01-14T00:00:00.000+00:00",
+                  "paymentNum": 20,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-02-11T00:00:00.000+00:00",
+                  "paymentNum": 21,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-03-13T00:00:00.000+00:00",
+                  "paymentNum": 22,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-04-11T00:00:00.000+00:00",
+                  "paymentNum": 23,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-05-08T00:00:00.000+00:00",
+                  "paymentNum": 24,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-06-10T00:00:00.000+00:00",
+                  "paymentNum": 25,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-07-18T00:00:00.000+00:00",
+                  "paymentNum": 26,
+                  "paymentStatus": null
+                }
+              ]
+            },
+            {
+              "arrearsCnt": null,
+              "bankName": null,
+              "clientOrSpouseOther": "Заявитель",
+              "clientOrSpouseType": "0",
+              "clientOther": null,
+              "clientType": "1",
+              "contractNumber": null,
+              "creditId": null,
+              "creditIdRefinance": null,
+              "creditProgramOther": null,
+              "creditProgramType": "9",
+              "creditSum": 91090.0,
+              "creditTypeOther": null,
+              "creditTypeType": 9,
+              "currency": "RUB",
+              "debts": 0.0,
+              "duration": null,
+              "factDate": "2019-07-28T00:00:00.000+00:00",
+              "factFinalDate": "2019-07-28T00:00:00.000+00:00",
+              "finalDate": "2021-01-05T00:00:00.000+00:00",
+              "infoLastUpdateDate": "2019-12-18T00:00:00.000+00:00",
+              "loanProgramOther": null,
+              "loanProgramType": "9",
+              "mark": true,
+              "monthlyPayment": 0.0,
+              "overdueAmount": 0.0,
+              "psbCredit": false,
+              "rate": 17.0,
+              "recordNum": 5,
+              "refinanceResultSum": null,
+              "sourceOther": null,
+              "sourceType": "EI,NBCH",
+              "startDate": "2018-12-23T00:00:00.000+00:00",
+              "statusOther": null,
+              "statusType": "13",
+              "undMark": null,
+              "worstCategory12": null,
+              "worstCategory12Int": null,
+              "worstCategory3": null,
+              "worstCategory3Int": null,
+              "worstCategory6": null,
+              "worstCategory6Int": null,
+              "isRefMortgageUnd": null,
+              "payments": [
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2018-12-24T00:00:00.000+00:00",
+                  "paymentNum": 1,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-01-23T00:00:00.000+00:00",
+                  "paymentNum": 2,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-02-23T00:00:00.000+00:00",
+                  "paymentNum": 3,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-03-26T00:00:00.000+00:00",
+                  "paymentNum": 4,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-04-26T00:00:00.000+00:00",
+                  "paymentNum": 5,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-05-27T00:00:00.000+00:00",
+                  "paymentNum": 6,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-06-27T00:00:00.000+00:00",
+                  "paymentNum": 7,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-07-27T00:00:00.000+00:00",
+                  "paymentNum": 8,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2019-12-18T00:00:00.000+00:00",
+                  "paymentNum": 9,
+                  "paymentStatus": null
+                }
+              ]
+            },
+            {
+              "arrearsCnt": null,
+              "bankName": null,
+              "clientOrSpouseOther": "Заявитель",
+              "clientOrSpouseType": "0",
+              "clientOther": null,
+              "clientType": "1",
+              "contractNumber": null,
+              "creditId": null,
+              "creditIdRefinance": null,
+              "creditProgramOther": null,
+              "creditProgramType": "9",
+              "creditSum": 60000.0,
+              "creditTypeOther": null,
+              "creditTypeType": 9,
+              "currency": "RUB",
+              "debts": 50925.0,
+              "duration": null,
+              "factDate": null,
+              "factFinalDate": null,
+              "finalDate": "2026-10-14T00:00:00.000+00:00",
+              "infoLastUpdateDate": "2022-12-19T00:00:00.000+00:00",
+              "loanProgramOther": null,
+              "loanProgramType": "9",
+              "mark": true,
+              "monthlyPayment": 1456.0,
+              "overdueAmount": 0.0,
+              "psbCredit": false,
+              "rate": 15.9,
+              "recordNum": 6,
+              "refinanceResultSum": null,
+              "sourceOther": null,
+              "sourceType": "EI",
+              "startDate": "2021-10-14T00:00:00.000+00:00",
+              "statusOther": null,
+              "statusType": "00",
+              "undMark": null,
+              "worstCategory12": null,
+              "worstCategory12Int": null,
+              "worstCategory3": null,
+              "worstCategory3Int": null,
+              "worstCategory6": null,
+              "worstCategory6Int": null,
+              "isRefMortgageUnd": null,
+              "payments": [
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2021-10-22T00:00:00.000+00:00",
+                  "paymentNum": 1,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2021-11-21T00:00:00.000+00:00",
+                  "paymentNum": 2,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2021-12-21T00:00:00.000+00:00",
+                  "paymentNum": 3,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2022-01-22T00:00:00.000+00:00",
+                  "paymentNum": 4,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2022-02-21T00:00:00.000+00:00",
+                  "paymentNum": 5,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2022-03-21T00:00:00.000+00:00",
+                  "paymentNum": 6,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2022-04-22T00:00:00.000+00:00",
+                  "paymentNum": 7,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2022-05-26T00:00:00.000+00:00",
+                  "paymentNum": 8,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2022-06-21T00:00:00.000+00:00",
+                  "paymentNum": 9,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2022-07-21T00:00:00.000+00:00",
+                  "paymentNum": 10,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2022-08-21T00:00:00.000+00:00",
+                  "paymentNum": 11,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2022-09-21T00:00:00.000+00:00",
+                  "paymentNum": 12,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2022-10-21T00:00:00.000+00:00",
+                  "paymentNum": 13,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2022-11-21T00:00:00.000+00:00",
+                  "paymentNum": 14,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2022-12-19T00:00:00.000+00:00",
+                  "paymentNum": 15,
+                  "paymentStatus": null
+                }
+              ]
+            },
+            {
+              "arrearsCnt": null,
+              "bankName": null,
+              "clientOrSpouseOther": "Заявитель",
+              "clientOrSpouseType": "0",
+              "clientOther": null,
+              "clientType": "1",
+              "contractNumber": null,
+              "creditId": null,
+              "creditIdRefinance": null,
+              "creditProgramOther": null,
+              "creditProgramType": "7",
+              "creditSum": 400000.0,
+              "creditTypeOther": null,
+              "creditTypeType": 7,
+              "currency": "RUB",
+              "debts": 116686.0,
+              "duration": null,
+              "factDate": null,
+              "factFinalDate": null,
+              "finalDate": null,
+              "infoLastUpdateDate": "2022-12-19T00:00:00.000+00:00",
+              "loanProgramOther": null,
+              "loanProgramType": "7",
+              "mark": true,
+              "monthlyPayment": null,
+              "overdueAmount": 0.0,
+              "psbCredit": false,
+              "rate": 21.7,
+              "recordNum": 7,
+              "refinanceResultSum": null,
+              "sourceOther": null,
+              "sourceType": "EI",
+              "startDate": "2022-01-18T00:00:00.000+00:00",
+              "statusOther": null,
+              "statusType": "00",
+              "undMark": null,
+              "worstCategory12": null,
+              "worstCategory12Int": null,
+              "worstCategory3": null,
+              "worstCategory3Int": null,
+              "worstCategory6": null,
+              "worstCategory6Int": null,
+              "isRefMortgageUnd": null,
+              "payments": [
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2022-01-21T00:00:00.000+00:00",
+                  "paymentNum": 1,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2022-02-04T00:00:00.000+00:00",
+                  "paymentNum": 2,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2022-03-19T00:00:00.000+00:00",
+                  "paymentNum": 3,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2022-04-18T00:00:00.000+00:00",
+                  "paymentNum": 4,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2022-05-02T00:00:00.000+00:00",
+                  "paymentNum": 5,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2022-06-23T00:00:00.000+00:00",
+                  "paymentNum": 6,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2022-07-21T00:00:00.000+00:00",
+                  "paymentNum": 7,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2022-08-30T00:00:00.000+00:00",
+                  "paymentNum": 8,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2022-09-30T00:00:00.000+00:00",
+                  "paymentNum": 9,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2022-10-27T00:00:00.000+00:00",
+                  "paymentNum": 10,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2022-11-23T00:00:00.000+00:00",
+                  "paymentNum": 11,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2022-12-19T00:00:00.000+00:00",
+                  "paymentNum": 12,
+                  "paymentStatus": null
+                }
+              ]
+            },
+            {
+              "arrearsCnt": null,
+              "bankName": null,
+              "clientOrSpouseOther": "Заявитель",
+              "clientOrSpouseType": "0",
+              "clientOther": null,
+              "clientType": "1",
+              "contractNumber": null,
+              "creditId": null,
+              "creditIdRefinance": null,
+              "creditProgramOther": null,
+              "creditProgramType": "9",
+              "creditSum": 30000.0,
+              "creditTypeOther": null,
+              "creditTypeType": 9,
+              "currency": "RUB",
+              "debts": 27347.0,
+              "duration": null,
+              "factDate": null,
+              "factFinalDate": null,
+              "finalDate": "2027-02-18T00:00:00.000+00:00",
+              "infoLastUpdateDate": "2022-12-19T00:00:00.000+00:00",
+              "loanProgramOther": null,
+              "loanProgramType": "9",
+              "mark": true,
+              "monthlyPayment": 807.0,
+              "overdueAmount": 0.0,
+              "psbCredit": false,
+              "rate": 20.7,
+              "recordNum": 8,
+              "refinanceResultSum": null,
+              "sourceOther": null,
+              "sourceType": "EI",
+              "startDate": "2022-02-18T00:00:00.000+00:00",
+              "statusOther": null,
+              "statusType": "00",
+              "undMark": null,
+              "worstCategory12": null,
+              "worstCategory12Int": null,
+              "worstCategory3": null,
+              "worstCategory3Int": null,
+              "worstCategory6": null,
+              "worstCategory6Int": null,
+              "isRefMortgageUnd": null,
+              "payments": [
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2022-02-21T00:00:00.000+00:00",
+                  "paymentNum": 1,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2022-03-21T00:00:00.000+00:00",
+                  "paymentNum": 2,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2022-04-22T00:00:00.000+00:00",
+                  "paymentNum": 3,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2022-05-22T00:00:00.000+00:00",
+                  "paymentNum": 4,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2022-06-21T00:00:00.000+00:00",
+                  "paymentNum": 5,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2022-07-21T00:00:00.000+00:00",
+                  "paymentNum": 6,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2022-08-21T00:00:00.000+00:00",
+                  "paymentNum": 7,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2022-09-21T00:00:00.000+00:00",
+                  "paymentNum": 8,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2022-10-21T00:00:00.000+00:00",
+                  "paymentNum": 9,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2022-11-21T00:00:00.000+00:00",
+                  "paymentNum": 10,
+                  "paymentStatus": null
+                },
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2022-12-19T00:00:00.000+00:00",
+                  "paymentNum": 11,
+                  "paymentStatus": null
+                }
+              ]
+            },
+            {
+              "arrearsCnt": null,
+              "bankName": null,
+              "clientOrSpouseOther": "Заявитель",
+              "clientOrSpouseType": "0",
+              "clientOther": null,
+              "clientType": "1",
+              "contractNumber": null,
+              "creditId": null,
+              "creditIdRefinance": null,
+              "creditProgramOther": null,
+              "creditProgramType": "9",
+              "creditSum": 500000.0,
+              "creditTypeOther": null,
+              "creditTypeType": 9,
+              "currency": "RUB",
+              "debts": 500000.0,
+              "duration": null,
+              "factDate": null,
+              "factFinalDate": null,
+              "finalDate": "2027-12-17T00:00:00.000+00:00",
+              "infoLastUpdateDate": "2022-12-19T00:00:00.000+00:00",
+              "loanProgramOther": null,
+              "loanProgramType": "9",
+              "mark": true,
+              "monthlyPayment": 925.0,
+              "overdueAmount": 0.0,
+              "psbCredit": false,
+              "rate": 4.5,
+              "recordNum": 9,
+              "refinanceResultSum": null,
+              "sourceOther": null,
+              "sourceType": "EI",
+              "startDate": "2022-12-17T00:00:00.000+00:00",
+              "statusOther": null,
+              "statusType": "00",
+              "undMark": null,
+              "worstCategory12": null,
+              "worstCategory12Int": null,
+              "worstCategory3": null,
+              "worstCategory3Int": null,
+              "worstCategory6": null,
+              "worstCategory6Int": null,
+              "isRefMortgageUnd": null,
+              "payments": [
+                {
+                  "creditIdPmnts": null,
+                  "paymentCatInt": 1,
+                  "paymentCat": null,
+                  "paymentDate": "2022-12-19T00:00:00.000+00:00",
+                  "paymentNum": 1,
+                  "paymentStatus": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "antiFraud": [],
+      "autoCheckForms": [
+        {
+          "formId": "L.${{claim_id}}_vrf_vrfAT",
+          "spark": [
+            {
+              "active": "3",
+              "addressCount": 2,
+              "cacheUse": 1,
+              "charterCapital": null,
+              "companySize": null,
+              "companyType": 1,
+              "created": "2023-04-19T05:27:24.000+00:00",
+              "dateFirstReg": "2009-11-20T00:00:00.000+00:00",
+              "egrulLicvidation": null,
+              "executed": "1905",
+              "fullNameOPF": "Федеральные государственные казенные учреждения",
+              "fullNameRus": "ФЕДЕРАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ «ЕДИНЫЙ РАСЧЕТНЫЙ ЦЕНТР МИНИСТЕРСТВА ОБОРОНЫ РОССИЙСКОЙ ФЕДЕРАЦИИ»",
+              "inn": "7714794048",
+              "isActing": "1",
+              "kpp": "770101001",
+              "managerCountInCountry": 1,
+              "managerCountInRegion": 1,
+              "okfs": "Федеральная собственность",
+              "okoguCode": "1313500",
+              "okoguName": "Министерство обороны Российской Федерации",
+              "okvedName": "Деятельность, связанная с обеспечением военной безопасности",
+              "periodName": null,
+              "profit": null,
+              "resultType": "TRUE",
+              "revenue": null,
+              "shortNameRus": "ФЕДЕРАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ «ЕДИНЫЙ РАСЧЕТНЫЙ ЦЕНТР МИНИСТЕРСТВА ОБОРОНЫ РОССИЙСКОЙ ФЕДЕРАЦИИ»",
+              "status": "Действующее",
+              "statusDate": "2023-04-19T00:00:00.000+00:00",
+              "telephoneCount": 1,
+              "workersRange": null,
+              "okvedCode": "84.22",
+              "employerIdForRkk": "121212",
+              "employmentKind": "MainJob"
+            },
+            {
+              "active": "5",
+              "addressCount": 5,
+              "cacheUse": 5,
+              "charterCapital": null,
+              "companySize": null,
+              "companyType": 5,
+              "created": "2023-04-19T05:27:24.000+00:00",
+              "dateFirstReg": "2009-11-20T00:00:00.000+00:00",
+              "egrulLicvidation": null,
+              "executed": "1905",
+              "fullNameOPF": "Федеральные государственные казенные учреждения",
+              "fullNameRus": "ФЕДЕРАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ «ЕДИНЫЙ РАСЧЕТНЫЙ ЦЕНТР МИНИСТЕРСТВА ОБОРОНЫ РОССИЙСКОЙ ФЕДЕРАЦИИ»",
+              "inn": "7714794048",
+              "isActing": "1",
+              "kpp": "770101001",
+              "managerCountInCountry": 1,
+              "managerCountInRegion": 1,
+              "okfs": "Федеральная собственность",
+              "okoguCode": "1313500",
+              "okoguName": "Министерство обороны Российской Федерации",
+              "okvedName": "Деятельность, связанная с обеспечением военной безопасности",
+              "periodName": null,
+              "profit": null,
+              "resultType": "TRUE",
+              "revenue": null,
+              "shortNameRus": "ФЕДЕРАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ «ЕДИНЫЙ РАСЧЕТНЫЙ ЦЕНТР МИНИСТЕРСТВА ОБОРОНЫ РОССИЙСКОЙ ФЕДЕРАЦИИ»",
+              "status": "Действующее",
+              "statusDate": "2023-04-19T00:00:00.000+00:00",
+              "telephoneCount": 1,
+              "workersRange": null,
+              "okvedCode": "84.22",
+              "employerIdForRkk": "55555",
+              "employmentKind": "SecondJob"
+            }
+          ],
+          "wsOpen": [
+            {
+              "egrip": null,
+              "egrul": {
+                "balanceYear": null,
+                "codeOkved": "84.22",
+                "created": "2023-04-21T07:08:58.000+00:00",
+                "dateExcerpt": "2022-11-18T00:00:00.000+00:00",
+                "dateOgrn": "2009-11-20T00:00:00.000+00:00",
+                "fullName": "ФЕДЕРАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ «ЕДИНЫЙ РАСЧЕТНЫЙ ЦЕНТР МИНИСТЕРСТВА ОБОРОНЫ РОССИЙСКОЙ ФЕДЕРАЦИИ»",
+                "fullNameOpf": "ФЕДЕРАЛЬНЫЕ ГОСУДАРСТВЕННЫЕ КАЗЕННЫЕ УЧРЕЖДЕНИЯ",
+                "infoAddress": {
+                  "nameRegion": "МОСКВА",
+                  "typeRegion": "ГОРОД",
+                  "nameDistrict": null,
+                  "typeDistrict": null,
+                  "nameCity": null,
+                  "typeCity": null,
+                  "nameTown": null,
+                  "typeTown": null,
+                  "nameStreet": "СПАРТАКОВСКАЯ",
+                  "typeStreet": "УЛ.",
+                  "house": "Д. 2Б",
+                  "corpus": null,
+                  "index": "105066",
+                  "kvart": null,
+                  "codeAdrKladr": "770000000000697",
+                  "codeRegion": "77",
+                  "signUnAuth": null
+                },
+                "infoFounders": {
+                  "founderFl": [],
+                  "founderUl": [
+                    {
+                      "fullName": "МИНИСТЕРСТВО ОБОРОНЫ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+                      "innUl": "7704252261",
+                      "percent": null,
+                      "signUnAuth": null
+                    }
+                  ],
+                  "founderUlIn": [],
+                  "founderSubRfMo": [],
+                  "founderPif": []
+                },
+                "infoManageAct": {
+                  "infoFlManage": [
+                    {
+                      "fioRus": "ЛОЩЕНОВА ОЛЬГА ВАСИЛЬЕВНА",
+                      "innFl": "645402114506",
+                      "signUnAuth": null
+                    }
+                  ],
+                  "infoUlManage": []
+                },
+                "inn": "7714794048",
+                "kpp": "770101001",
+                "nameLicTypeAct": [],
+                "nameNo": "ИНСПЕКЦИЯ ФЕДЕРАЛЬНОЙ НАЛОГОВОЙ СЛУЖБЫ № 1 ПО Г.МОСКВЕ",
+                "ogrn": "1097746734800",
+                "okogu": "1313500",
+                "profit": null,
+                "resResultType": 1,
+                "revenue": null,
+                "spravOpf": "ОКОПФ",
+                "statusCodeUl": "001",
+                "statusNameUl": "Действующее",
+                "sumCapital": null,
+                "versionOkved": "2014",
+                "employerIdForRkk": "121212",
+                "employmentKind": "MainJob"
+              }
+            },
+            {
+              "egrip": {
+                "address": null,
+                "codeNo": null,
+                "codeOkved": "1313500",
+                "created": "2023-04-19T05:27:24.000+00:00",
+                "dateExcerpt": "2023-04-19T05:27:24.000+00:00",
+                "dateOgrnip": "2023-04-19T05:27:24.000+00:00",
+                "dateStart": null,
+                "dateStartAccNO": null,
+                "dateStopIP": "2023-04-19T05:27:24.000+00:00",
+                "employerIdForRkk": "8989",
+                "employmentKind": "SecondJob",
+                "fioRus": "Иванов Иван Иванович",
+                "innFl": "5010988989",
+                "nameNo": "Налоговая",
+                "nameTypeIp": null,
+                "ogrnip": null,
+                "resResultType": 1,
+                "statusCode": "1",
+                "statusName": "Действующее"
+              },
+              "egrul": null
+            }
+          ],
+          "salaryCalc": {
+            "aggSalaries": [
+              {
+                "amountSalaryTotal": null,
+                "cntZpMth": 60,
+                "dtSalPayInn": "2021-03-12T00:00:00.000+00:00",
+                "dtSalPayFtInn": "2016-03-12T00:00:00.000+00:00",
+                "payInn": "7703235666",
+                "psbEmployee": null,
+                "salaryCalcType": [
+                  "Client_Salary"
+                ],
+                "sumZp": 10000000.0,
+                "countSalaryMonth": null
+              },
+              {
+                "amountSalaryTotal": null,
+                "cntZpMth": 60,
+                "dtSalPayInn": "2021-03-12T00:00:00.000+00:00",
+                "dtSalPayFtInn": "2016-03-12T00:00:00.000+00:00",
+                "payInn": "7703235670",
+                "psbEmployee": null,
+                "salaryCalcType": [
+                  "Client_Salary"
+                ],
+                "sumZp": 10000000.0,
+                "countSalaryMonth": null
+              }
+            ],
+            "amtRetireeTotal": 10000.0,
+            "amtRetireeSocial": 2000.0,
+            "amtRetireeWar": 8000.0,
+            "cntRetireSocialMth": 12,
+            "cntWarRetireeMth": 12,
+            "dateFirstSalaryWar": null,
+            "dateLastSalaryWar": null,
+            "dateFirstSalarySocial": null,
+            "dateLastSalarySocial": null
+          },
+          "clientSigns": {
+            "kp": [],
+            "primaryCs": [
+              {
+                "groups": [
+                  "Client_Salary_Macro"
+                ],
+                "type": "EMPLOYER",
+                "name": "Pos_No_Head",
+                "value": 1,
+                "financialConditions": true,
+                "invalidationReasons": [],
+                "mainProgramFlag": false,
+                "csEmployer": {
+                  "employerINN": "3446801853",
+                  "employerKPP": "344601001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [
+                  "Client_Salary_Macro"
+                ],
+                "type": "EMPLOYER",
+                "name": "Client_Credit_Macro",
+                "value": 1,
+                "financialConditions": true,
+                "invalidationReasons": [],
+                "mainProgramFlag": false,
+                "csEmployer": {
+                  "employerINN": "3446801854",
+                  "employerKPP": "344601002",
+                  "employerType": "SecondJob"
+                }
+              },
+              {
+                "groups": [
+                  "Client_Credit_Macro"
+                ],
+                "type": "CLIENT",
+                "name": "Client_Salary",
+                "value": 1,
+                "financialConditions": true,
+                "invalidationReasons": [],
+                "mainProgramFlag": false,
+                "csEmployer": null
+              }
+            ],
+            "employeeWorkersCount": 500,
+            "employeeWorkersSource": "str1234",
+            "sumMaxZp": 1000000.0,
+            "employeeRevenueAct": 3000000.0,
+            "timeWithBankMonthsCount": null,
+            "timeWithBankCreditMonthsCount": null
+          },
+          "pureIncomeCalc": {
+            "avgConfIncomeCertificate": 0.0,
+            "filledMonthsCnt": null,
+            "incomeConf": 0.0,
+            "incomeNconfPos1": 85717.0,
+            "incomeNconfPos2": 0.0,
+            "incomeNconfPos3": 85717.0,
+            "incomeNconfPos4": 85717.0,
+            "incomeNconfPos5": 50000.0,
+            "incomeNconfPos6": 60000.0,
+            "incomeNconfPos7": 70000.0,
+            "incomeNconfPos8": 80000.0,
+            "incomeNconfPos9": 90000.0,
+            "incomeNconfPos10": 55000.0,
+            "incomeNconfPos11": 65000.0,
+            "incomeNconfPos12": 75000.0,
+            "incomeCcdNconf": 109284.538,
+            "mainIncome": 78199.0,
+            "sumZpTotal": 98199.0
+          },
+          "mortgagePureIncomeCalc": null,
+          "modelIncomeCalc": {
+            "avgIncome": 30039.0,
+            "avgIncomeReg": 20000.0,
+            "minIncome": 26765.7,
+            "outModelIncomeType": 2,
+            "outModelIncomeResult": 109284.538,
+            "regionalIncomeConfDate": null,
+            "regionPopulation": null
+          },
+          "stopFactorCheckRules": {
+            "stopFactors": [
+              {
+                "stopFactorCode": "stopFactorCheckRulesResult",
+                "stopFactorDescription": null,
+                "stopFactorKind": null,
+                "stopFactorType": null,
+                "stopFactorValue": 0,
+                "sfEmployer": null,
+                "stopFactorClientSignsList": null
+              },
+              {
+                "stopFactorCode": "kp_after_SF",
+                "stopFactorDescription": null,
+                "stopFactorKind": null,
+                "stopFactorType": null,
+                "stopFactorValue": null,
+                "sfEmployer": null,
+                "stopFactorClientSignsList": "Comp_Type_OPK_Macro,Comp_Type_OPK_Macro_War,Comp_Type_OPK_Military_Lex,Comp_Type_OPK_Military_OKOGU,Comp_Type_Public_Servant_Macro,Comp_Type_Public_Servant_SPARK"
+              },
+              {
+                "stopFactorCode": "NATIONALITY",
+                "stopFactorDescription": null,
+                "stopFactorKind": null,
+                "stopFactorType": null,
+                "stopFactorValue": 0,
+                "sfEmployer": null,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "CHECK_BL_ADDRESS",
+                "stopFactorDescription": null,
+                "stopFactorKind": null,
+                "stopFactorType": null,
+                "stopFactorValue": 0,
+                "sfEmployer": null,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "AGE_MIN",
+                "stopFactorDescription": null,
+                "stopFactorKind": null,
+                "stopFactorType": null,
+                "stopFactorValue": 0,
+                "sfEmployer": null,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "CHECK_KI_MFO_AND",
+                "stopFactorDescription": null,
+                "stopFactorKind": null,
+                "stopFactorType": null,
+                "stopFactorValue": -1,
+                "sfEmployer": null,
+                "stopFactorClientSignsList": ""
+              },
+              {
+                "stopFactorCode": "PUBLICAGREE",
+                "stopFactorDescription": null,
+                "stopFactorKind": null,
+                "stopFactorType": null,
+                "stopFactorValue": 0,
+                "sfEmployer": null,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "JOBCOUNTEMPLOYEES",
+                "stopFactorDescription": null,
+                "stopFactorKind": null,
+                "stopFactorType": null,
+                "stopFactorValue": -1,
+                "sfEmployer": null,
+                "stopFactorClientSignsList": ""
+              },
+              {
+                "stopFactorCode": "QCC_REJECT",
+                "stopFactorDescription": null,
+                "stopFactorKind": null,
+                "stopFactorType": null,
+                "stopFactorValue": 0,
+                "sfEmployer": null,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "SF_EMPLOYER_HIGH_RISK",
+                "stopFactorDescription": null,
+                "stopFactorKind": null,
+                "stopFactorType": null,
+                "stopFactorValue": -1,
+                "sfEmployer": null,
+                "stopFactorClientSignsList": ""
+              },
+              {
+                "stopFactorCode": "CHECK_BL_OKVED",
+                "stopFactorDescription": null,
+                "stopFactorKind": null,
+                "stopFactorType": null,
+                "stopFactorValue": 0,
+                "sfEmployer": null,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "SPARK_BNKRT_LQDT",
+                "stopFactorDescription": null,
+                "stopFactorKind": null,
+                "stopFactorType": null,
+                "stopFactorValue": 0,
+                "sfEmployer": null,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Type_Public_Servant_SPARK,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "WS_OPEN_BNKRT_LQDT",
+                "stopFactorDescription": null,
+                "stopFactorKind": null,
+                "stopFactorType": null,
+                "stopFactorValue": 0,
+                "sfEmployer": null,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Type_Public_Servant_SPARK,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "SF_FSSP_AS",
+                "stopFactorDescription": null,
+                "stopFactorKind": null,
+                "stopFactorType": null,
+                "stopFactorValue": 0,
+                "sfEmployer": null,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Type_Public_Servant_SPARK,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "AGE_MIN_2",
+                "stopFactorDescription": null,
+                "stopFactorKind": null,
+                "stopFactorType": null,
+                "stopFactorValue": 0,
+                "sfEmployer": null,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Client_New_To_Bank,Comp_Rel_Salary"
+              },
+              {
+                "stopFactorCode": "PHONES",
+                "stopFactorDescription": null,
+                "stopFactorKind": null,
+                "stopFactorType": null,
+                "stopFactorValue": 0,
+                "sfEmployer": null,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "JOBSENIORITY_TOTAL",
+                "stopFactorDescription": null,
+                "stopFactorKind": null,
+                "stopFactorType": null,
+                "stopFactorValue": 0,
+                "sfEmployer": null,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "ACTIVE_LOAN_PSB",
+                "stopFactorDescription": null,
+                "stopFactorKind": null,
+                "stopFactorType": null,
+                "stopFactorValue": -1,
+                "sfEmployer": null,
+                "stopFactorClientSignsList": ""
+              },
+              {
+                "stopFactorCode": "CHECK_BKI_REQUESTS",
+                "stopFactorDescription": null,
+                "stopFactorKind": null,
+                "stopFactorType": null,
+                "stopFactorValue": 0,
+                "sfEmployer": null,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Type_Public_Servant_SPARK,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "CESSION",
+                "stopFactorDescription": null,
+                "stopFactorKind": null,
+                "stopFactorType": null,
+                "stopFactorValue": 0,
+                "sfEmployer": null,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "P0",
+                "stopFactorDescription": null,
+                "stopFactorKind": null,
+                "stopFactorType": null,
+                "stopFactorValue": -1,
+                "sfEmployer": null,
+                "stopFactorClientSignsList": ""
+              },
+              {
+                "stopFactorCode": "GZ_LOW_LIMIT",
+                "stopFactorDescription": null,
+                "stopFactorKind": null,
+                "stopFactorType": null,
+                "stopFactorValue": 0,
+                "sfEmployer": null,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Type_Public_Servant_SPARK,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "CHECK_KI_MFO_OR",
+                "stopFactorDescription": null,
+                "stopFactorKind": null,
+                "stopFactorType": null,
+                "stopFactorValue": 0,
+                "sfEmployer": null,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Type_Public_Servant_SPARK,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "CHECK_BL_INN",
+                "stopFactorDescription": null,
+                "stopFactorKind": null,
+                "stopFactorType": null,
+                "stopFactorValue": 0,
+                "sfEmployer": null,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Type_Public_Servant_SPARK,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "JOBEMPLOYMENTTYPE",
+                "stopFactorDescription": null,
+                "stopFactorKind": null,
+                "stopFactorType": null,
+                "stopFactorValue": 0,
+                "sfEmployer": null,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "PHOTO_REQUIRED",
+                "stopFactorDescription": null,
+                "stopFactorKind": null,
+                "stopFactorType": null,
+                "stopFactorValue": 0,
+                "sfEmployer": null,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "JOBSENIORITY_LAST",
+                "stopFactorDescription": null,
+                "stopFactorKind": null,
+                "stopFactorType": null,
+                "stopFactorValue": 0,
+                "sfEmployer": null,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "DATAAGREE",
+                "stopFactorDescription": null,
+                "stopFactorKind": null,
+                "stopFactorType": null,
+                "stopFactorValue": 0,
+                "sfEmployer": null,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "OUTWARDCODE",
+                "stopFactorDescription": null,
+                "stopFactorKind": null,
+                "stopFactorType": null,
+                "stopFactorValue": 0,
+                "sfEmployer": null,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "CHECK_NKS_RULES",
+                "stopFactorDescription": null,
+                "stopFactorKind": null,
+                "stopFactorType": null,
+                "stopFactorValue": -1,
+                "sfEmployer": null,
+                "stopFactorClientSignsList": ""
+              },
+              {
+                "stopFactorCode": "P30",
+                "stopFactorDescription": null,
+                "stopFactorKind": null,
+                "stopFactorType": null,
+                "stopFactorValue": 0,
+                "sfEmployer": null,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Type_Public_Servant_SPARK,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "MAXDELPERIODFORCHANGEPRODUCT",
+                "stopFactorDescription": null,
+                "stopFactorKind": null,
+                "stopFactorType": null,
+                "stopFactorValue": -1,
+                "sfEmployer": null,
+                "stopFactorClientSignsList": ""
+              },
+              {
+                "stopFactorCode": "SF_UNDER_FSSP",
+                "stopFactorDescription": null,
+                "stopFactorKind": null,
+                "stopFactorType": null,
+                "stopFactorValue": 0,
+                "sfEmployer": null,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Type_Public_Servant_SPARK,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "LAST_RESTRUCT",
+                "stopFactorDescription": null,
+                "stopFactorKind": null,
+                "stopFactorType": null,
+                "stopFactorValue": 0,
+                "sfEmployer": null,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Type_Public_Servant_SPARK,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "CURDELAY",
+                "stopFactorDescription": null,
+                "stopFactorKind": null,
+                "stopFactorType": null,
+                "stopFactorValue": 0,
+                "sfEmployer": null,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Type_Public_Servant_SPARK,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "AGE_MAX",
+                "stopFactorDescription": null,
+                "stopFactorKind": null,
+                "stopFactorType": null,
+                "stopFactorValue": 0,
+                "sfEmployer": null,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "SF_STOP_CREDIT_SIGN",
+                "stopFactorDescription": null,
+                "stopFactorKind": null,
+                "stopFactorType": null,
+                "stopFactorValue": -1,
+                "sfEmployer": null,
+                "stopFactorClientSignsList": ""
+              },
+              {
+                "stopFactorCode": "MININCOME",
+                "stopFactorDescription": null,
+                "stopFactorKind": null,
+                "stopFactorType": null,
+                "stopFactorValue": 0,
+                "sfEmployer": null,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "P90_R",
+                "stopFactorDescription": null,
+                "stopFactorKind": null,
+                "stopFactorType": null,
+                "stopFactorValue": 0,
+                "sfEmployer": null,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Type_Public_Servant_SPARK,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "P180_R",
+                "stopFactorDescription": null,
+                "stopFactorKind": null,
+                "stopFactorType": null,
+                "stopFactorValue": 0,
+                "sfEmployer": null,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Type_Public_Servant_SPARK,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "KP_12M",
+                "stopFactorDescription": null,
+                "stopFactorKind": null,
+                "stopFactorType": null,
+                "stopFactorValue": 0,
+                "sfEmployer": null,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Type_Public_Servant_SPARK,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "DEALPAYMENTMORECOUNT",
+                "stopFactorDescription": null,
+                "stopFactorKind": null,
+                "stopFactorType": null,
+                "stopFactorValue": -1,
+                "sfEmployer": null,
+                "stopFactorClientSignsList": ""
+              }
+            ]
+          },
+          "liabilitiesMark": {
+            "bkiRequestDate": null,
+            "fraudKi": null,
+            "hasLoansPpd": true,
+            "hasLoansPki": true,
+            "hasLoansCheckEnoughKi": true,
+            "loansEvkMod": 0.0,
+            "loansEpCardMod": 0.0,
+            "loansEvk": 26443.38,
+            "loansEpCard": 38705.294,
+            "loansMsb": false,
+            "maxPaymentForLast6Month": null,
+            "missedBkiCnt": 0,
+            "requestsMsb": false,
+            "liabilities": [
+              {
+                "contractNumber": "bbdc80d2-5a8e-4b0d-8ce6-589e0b34cd19",
+                "evk": 0.0,
+                "product": "7",
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "hasLoanInCalculation": false,
+                "isActiveFlg": false,
+                "isAvailableToRefin": false,
+                "interestRate": 0.0,
+                "irBki": null,
+                "isMilitaryMortgage": null,
+                "isOwn": false,
+                "isUse": null,
+                "loanPpdCond1": true,
+                "loanPpdCond2": null,
+                "loanPpdCond3": true,
+                "loanRestTerm": null,
+                "loanSum": 0.0,
+                "loanTerm": null,
+                "openDate": "2020-03-11T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "payment": 0.0,
+                "pskBki": 24.05,
+                "totalSource": null
+              },
+              {
+                "contractNumber": "ceb2802d-0e5d-4b96-8eb6-42fddc7457a5",
+                "evk": 0.0,
+                "product": "9",
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "hasLoanInCalculation": false,
+                "isActiveFlg": false,
+                "isAvailableToRefin": false,
+                "interestRate": 13.87,
+                "irBki": null,
+                "isMilitaryMortgage": null,
+                "isOwn": false,
+                "isUse": null,
+                "loanPpdCond1": true,
+                "loanPpdCond2": false,
+                "loanPpdCond3": true,
+                "loanRestTerm": null,
+                "loanSum": 477504.0,
+                "loanTerm": 11,
+                "openDate": "2019-11-05T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "payment": 0.0,
+                "pskBki": 13.87,
+                "totalSource": null
+              },
+              {
+                "contractNumber": "f9e56f1d-ff78-458e-afde-bd8e20d43bc0",
+                "evk": 0.0,
+                "product": "9",
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "hasLoanInCalculation": false,
+                "isActiveFlg": false,
+                "isAvailableToRefin": false,
+                "interestRate": 11.78,
+                "irBki": null,
+                "isMilitaryMortgage": null,
+                "isOwn": false,
+                "isUse": null,
+                "loanPpdCond1": true,
+                "loanPpdCond2": true,
+                "loanPpdCond3": true,
+                "loanRestTerm": null,
+                "loanSum": 262562.0,
+                "loanTerm": 7,
+                "openDate": "2020-02-19T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "payment": 0.0,
+                "pskBki": 11.78,
+                "totalSource": null
+              },
+              {
+                "contractNumber": "99c53d3a-998e-4ef8-b145-c6d788ed17dd",
+                "evk": 0.0,
+                "product": "9",
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "hasLoanInCalculation": false,
+                "isActiveFlg": false,
+                "isAvailableToRefin": false,
+                "interestRate": 12.89,
+                "irBki": null,
+                "isMilitaryMortgage": null,
+                "isOwn": false,
+                "isUse": null,
+                "loanPpdCond1": true,
+                "loanPpdCond2": false,
+                "loanPpdCond3": true,
+                "loanRestTerm": null,
+                "loanSum": 150000.0,
+                "loanTerm": 84,
+                "openDate": "2021-10-18T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "payment": 0.0,
+                "pskBki": 12.89,
+                "totalSource": null
+              },
+              {
+                "contractNumber": "252e0a92-1c10-47bf-8b26-f9483c2e5c9a",
+                "evk": 0.0,
+                "product": "7",
+                "epCard": 19665.386,
+                "evkMod": null,
+                "epCardMod": null,
+                "hasLoanInCalculation": true,
+                "isActiveFlg": true,
+                "isAvailableToRefin": true,
+                "interestRate": 0.0,
+                "irBki": null,
+                "isMilitaryMortgage": null,
+                "isOwn": false,
+                "isUse": null,
+                "loanPpdCond1": true,
+                "loanPpdCond2": null,
+                "loanPpdCond3": true,
+                "loanRestTerm": null,
+                "loanSum": 201000.0,
+                "loanTerm": null,
+                "openDate": "2023-01-13T00:00:00.000+00:00",
+                "outstanding": 196653.86,
+                "payment": 19665.386,
+                "pskBki": null,
+                "totalSource": null
+              },
+              {
+                "contractNumber": "eb00de14-762f-4012-8308-7d89db041b2a",
+                "evk": 0.0,
+                "product": "9",
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "hasLoanInCalculation": false,
+                "isActiveFlg": false,
+                "isAvailableToRefin": false,
+                "interestRate": 10.74,
+                "irBki": null,
+                "isMilitaryMortgage": null,
+                "isOwn": false,
+                "isUse": null,
+                "loanPpdCond1": true,
+                "loanPpdCond2": false,
+                "loanPpdCond3": true,
+                "loanRestTerm": null,
+                "loanSum": 265280.0,
+                "loanTerm": 24,
+                "openDate": "2021-10-24T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "payment": 0.0,
+                "pskBki": 10.74,
+                "totalSource": null
+              },
+              {
+                "contractNumber": "cef3ec03-897c-49b2-83b6-89401fdaf128",
+                "evk": 0.0,
+                "product": "9",
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "hasLoanInCalculation": false,
+                "isActiveFlg": false,
+                "isAvailableToRefin": false,
+                "interestRate": 13.71,
+                "irBki": null,
+                "isMilitaryMortgage": null,
+                "isOwn": false,
+                "isUse": null,
+                "loanPpdCond1": true,
+                "loanPpdCond2": true,
+                "loanPpdCond3": true,
+                "loanRestTerm": null,
+                "loanSum": 224387.0,
+                "loanTerm": 34,
+                "openDate": "2021-11-13T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "payment": 0.0,
+                "pskBki": 13.71,
+                "totalSource": null
+              },
+              {
+                "contractNumber": "2fe42d90-ed8d-4bd0-8366-17632d7897b7",
+                "evk": 15797.0,
+                "product": "9",
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "hasLoanInCalculation": true,
+                "isActiveFlg": true,
+                "isAvailableToRefin": true,
+                "interestRate": 22.761,
+                "irBki": null,
+                "isMilitaryMortgage": null,
+                "isOwn": false,
+                "isUse": null,
+                "loanPpdCond1": true,
+                "loanPpdCond2": false,
+                "loanPpdCond3": true,
+                "loanRestTerm": null,
+                "loanSum": 687500.0,
+                "loanTerm": 60,
+                "openDate": "2023-01-23T00:00:00.000+00:00",
+                "outstanding": 680424.83,
+                "payment": 15797.0,
+                "pskBki": 22.761,
+                "totalSource": null
+              },
+              {
+                "contractNumber": "f25ea327-73ba-4b12-996c-4e61f35fecbd",
+                "evk": 0.0,
+                "product": "7",
+                "epCard": 19039.908,
+                "evkMod": null,
+                "epCardMod": null,
+                "hasLoanInCalculation": true,
+                "isActiveFlg": true,
+                "isAvailableToRefin": true,
+                "interestRate": 0.0,
+                "irBki": null,
+                "isMilitaryMortgage": null,
+                "isOwn": false,
+                "isUse": null,
+                "loanPpdCond1": true,
+                "loanPpdCond2": null,
+                "loanPpdCond3": true,
+                "loanRestTerm": null,
+                "loanSum": 260000.0,
+                "loanTerm": null,
+                "openDate": "2022-12-11T00:00:00.000+00:00",
+                "outstanding": 190399.08,
+                "payment": 19039.908,
+                "pskBki": 25.344,
+                "totalSource": null
+              },
+              {
+                "contractNumber": "95a0b455-78cc-4623-b110-30978ca9eb9d",
+                "evk": 0.0,
+                "product": "9",
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "hasLoanInCalculation": false,
+                "isActiveFlg": false,
+                "isAvailableToRefin": false,
+                "interestRate": 9.99,
+                "irBki": null,
+                "isMilitaryMortgage": null,
+                "isOwn": false,
+                "isUse": null,
+                "loanPpdCond1": true,
+                "loanPpdCond2": false,
+                "loanPpdCond3": true,
+                "loanRestTerm": null,
+                "loanSum": 270585.0,
+                "loanTerm": 17,
+                "openDate": "2021-05-31T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "payment": 0.0,
+                "pskBki": 9.99,
+                "totalSource": null
+              },
+              {
+                "contractNumber": "c8e1f676-132e-44a9-b6e3-fc481bb32a9b",
+                "evk": 0.0,
+                "product": "9",
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "hasLoanInCalculation": false,
+                "isActiveFlg": false,
+                "isAvailableToRefin": false,
+                "interestRate": 16.93,
+                "irBki": null,
+                "isMilitaryMortgage": null,
+                "isOwn": false,
+                "isUse": null,
+                "loanPpdCond1": true,
+                "loanPpdCond2": true,
+                "loanPpdCond3": true,
+                "loanRestTerm": null,
+                "loanSum": 110000.0,
+                "loanTerm": 18,
+                "openDate": "2016-12-30T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "payment": 0.0,
+                "pskBki": 16.93,
+                "totalSource": null
+              },
+              {
+                "contractNumber": "d06ddce3-1b90-4934-8a3b-24f7de10caed",
+                "evk": 0.0,
+                "product": "9",
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "hasLoanInCalculation": false,
+                "isActiveFlg": false,
+                "isAvailableToRefin": false,
+                "interestRate": 13.79,
+                "irBki": null,
+                "isMilitaryMortgage": null,
+                "isOwn": false,
+                "isUse": null,
+                "loanPpdCond1": true,
+                "loanPpdCond2": true,
+                "loanPpdCond3": true,
+                "loanRestTerm": null,
+                "loanSum": 105263.0,
+                "loanTerm": 8,
+                "openDate": "2018-07-27T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "payment": 0.0,
+                "pskBki": 13.79,
+                "totalSource": null
+              },
+              {
+                "contractNumber": "21e237de-b7e0-43bc-aaf2-a4589401bb94",
+                "evk": 0.0,
+                "product": "9",
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "hasLoanInCalculation": false,
+                "isActiveFlg": false,
+                "isAvailableToRefin": false,
+                "interestRate": 18.75,
+                "irBki": null,
+                "isMilitaryMortgage": null,
+                "isOwn": false,
+                "isUse": null,
+                "loanPpdCond1": true,
+                "loanPpdCond2": false,
+                "loanPpdCond3": true,
+                "loanRestTerm": null,
+                "loanSum": 101867.0,
+                "loanTerm": 4,
+                "openDate": "2019-02-11T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "payment": 0.0,
+                "pskBki": 18.75,
+                "totalSource": null
+              },
+              {
+                "contractNumber": "921a6ba7-0462-4323-ab16-f1cbad7f770a",
+                "evk": 0.0,
+                "product": "7",
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "hasLoanInCalculation": false,
+                "isActiveFlg": false,
+                "isAvailableToRefin": false,
+                "interestRate": 0.0,
+                "irBki": null,
+                "isMilitaryMortgage": null,
+                "isOwn": false,
+                "isUse": null,
+                "loanPpdCond1": true,
+                "loanPpdCond2": null,
+                "loanPpdCond3": true,
+                "loanRestTerm": null,
+                "loanSum": 0.0,
+                "loanTerm": null,
+                "openDate": "2018-07-27T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "payment": 0.0,
+                "pskBki": 26.0,
+                "totalSource": null
+              },
+              {
+                "contractNumber": "568c0979-03cb-4dab-9118-acfae1d7eaee",
+                "evk": 0.0,
+                "product": "9",
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "hasLoanInCalculation": false,
+                "isActiveFlg": false,
+                "isAvailableToRefin": false,
+                "interestRate": 9.002,
+                "irBki": null,
+                "isMilitaryMortgage": null,
+                "isOwn": false,
+                "isUse": null,
+                "loanPpdCond1": true,
+                "loanPpdCond2": false,
+                "loanPpdCond3": true,
+                "loanRestTerm": null,
+                "loanSum": 30322.0,
+                "loanTerm": 0,
+                "openDate": "2019-10-04T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "payment": 0.0,
+                "pskBki": 9.002,
+                "totalSource": null
+              },
+              {
+                "contractNumber": "91d0fc66-e274-4f9c-a18b-832ac17f3b4a",
+                "evk": 0.0,
+                "product": "9",
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "hasLoanInCalculation": false,
+                "isActiveFlg": false,
+                "isAvailableToRefin": false,
+                "interestRate": 13.71,
+                "irBki": null,
+                "isMilitaryMortgage": null,
+                "isOwn": false,
+                "isUse": null,
+                "loanPpdCond1": true,
+                "loanPpdCond2": true,
+                "loanPpdCond3": true,
+                "loanRestTerm": null,
+                "loanSum": 558231.0,
+                "loanTerm": 22,
+                "openDate": "2021-11-10T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "payment": 0.0,
+                "pskBki": 13.71,
+                "totalSource": null
+              },
+              {
+                "contractNumber": "7c9142b2-a07b-4fd1-8d51-b2197bc28520",
+                "evk": 0.0,
+                "product": "7",
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "hasLoanInCalculation": false,
+                "isActiveFlg": false,
+                "isAvailableToRefin": false,
+                "interestRate": 0.0,
+                "irBki": null,
+                "isMilitaryMortgage": null,
+                "isOwn": false,
+                "isUse": null,
+                "loanPpdCond1": true,
+                "loanPpdCond2": null,
+                "loanPpdCond3": true,
+                "loanRestTerm": null,
+                "loanSum": 0.0,
+                "loanTerm": null,
+                "openDate": "2021-12-12T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "payment": 0.0,
+                "pskBki": 27.51,
+                "totalSource": null
+              },
+              {
+                "contractNumber": "eacf9b7f-fb21-4f1b-901a-2a0b69ba8ca8",
+                "evk": 10646.38,
+                "product": "9",
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "hasLoanInCalculation": true,
+                "isActiveFlg": true,
+                "isAvailableToRefin": true,
+                "interestRate": 20.567,
+                "irBki": null,
+                "isMilitaryMortgage": null,
+                "isOwn": false,
+                "isUse": null,
+                "loanPpdCond1": true,
+                "loanPpdCond2": false,
+                "loanPpdCond3": true,
+                "loanRestTerm": null,
+                "loanSum": 467914.0,
+                "loanTerm": 84,
+                "openDate": "2023-01-20T00:00:00.000+00:00",
+                "outstanding": 461664.77,
+                "payment": 10646.38,
+                "pskBki": 20.567,
+                "totalSource": null
+              },
+              {
+                "contractNumber": "14ab9342-7320-47b6-8d9d-11fb4fa172a9",
+                "evk": 0.0,
+                "product": "9",
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "hasLoanInCalculation": false,
+                "isActiveFlg": false,
+                "isAvailableToRefin": false,
+                "interestRate": 18.94,
+                "irBki": null,
+                "isMilitaryMortgage": null,
+                "isOwn": false,
+                "isUse": null,
+                "loanPpdCond1": true,
+                "loanPpdCond2": true,
+                "loanPpdCond3": true,
+                "loanRestTerm": null,
+                "loanSum": 350000.0,
+                "loanTerm": 41,
+                "openDate": "2015-09-28T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "payment": 0.0,
+                "pskBki": 18.94,
+                "totalSource": null
+              },
+              {
+                "contractNumber": "b6d4c70e-290a-4f0b-ae55-3917c21f7858",
+                "evk": 0.0,
+                "product": "7",
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "hasLoanInCalculation": false,
+                "isActiveFlg": false,
+                "isAvailableToRefin": false,
+                "interestRate": 0.0,
+                "irBki": null,
+                "isMilitaryMortgage": null,
+                "isOwn": false,
+                "isUse": null,
+                "loanPpdCond1": true,
+                "loanPpdCond2": null,
+                "loanPpdCond3": true,
+                "loanRestTerm": null,
+                "loanSum": 97000.0,
+                "loanTerm": null,
+                "openDate": "2015-09-08T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "payment": 0.0,
+                "pskBki": 29.531,
+                "totalSource": null
+              }
+            ]
+          },
+          "epEpMax": {
+            "checkEpMax": 0,
+            "incomeConf": 0.0,
+            "incomeNconfPos1": 85717.0,
+            "incomeNconfPos2": 0.0,
+            "incomeNconfPos3": 85717.0,
+            "incomeNconfPos4": 85717.0,
+            "incomeNconfPos5": 50000.0,
+            "incomeNconfPos6": 60000.0,
+            "incomeNconfPos7": 70000.0,
+            "incomeNconfPos8": 80000.0,
+            "incomeNconfPos9": 90000.0,
+            "incomeNconfPos10": 55000.0,
+            "incomeNconfPos11": 65000.0,
+            "incomeNconfPos12": 75000.0,
+            "incomeCcdNconf": 109284.538,
+            "outModelIncomeResult": 109284.538,
+            "minIncome": 26765.7,
+            "ptiIncomeConf": 70.0,
+            "mpConf": 0.0,
+            "mpNconfPos1": 58951.3,
+            "mpNconfPos2": 0.0,
+            "mpNconfPos3": 58951.3,
+            "mpNconfPos4": 58951.3,
+            "mpNconfPos5": 60000.1,
+            "mpNconfPos6": 60000.2,
+            "mpNconfPos7": 60000.3,
+            "mpNconfPos8": 60000.4,
+            "mpNconfPos9": 60000.5,
+            "mpNconfPos10": 60000.6,
+            "mpNconfPos11": 60000.7,
+            "mpNconfPos12": 60000.8,
+            "mpCcdNconf": 76499.1766,
+            "evk": 26443.38,
+            "epCard": 38705.294,
+            "evkMod": 0.0,
+            "epCardMod": 0.0,
+            "epMaxConf": 0.0,
+            "epMaxNconfPos1": 58951.3,
+            "epMaxNconfPos2": 0.0,
+            "epMaxNconfPos3": 58951.3,
+            "epMaxNconfPos4": 58951.3,
+            "epMaxNconfPos5": 60000.1,
+            "epMaxNconfPos6": 60000.2,
+            "epMaxNconfPos7": 60000.3,
+            "epMaxNconfPos8": 60000.4,
+            "epMaxNconfPos9": 60000.5,
+            "epMaxNconfPos10": 60000.6,
+            "epMaxNconfPos11": 60000.7,
+            "epMaxNconfPos12": 60000.8,
+            "epMaxCcdNconf": 76499.1766,
+            "epMax": 76499.1766,
+            "chosenIncome": 70000.0,
+            "chosenMp": 60000.1,
+            "chosenEpMax": 60000.1
+          },
+          "calcScore": {
+            "kp": null,
+            "checkScore": 0,
+            "cutOff": 225,
+            "currentCs": [
+              {
+                "groups": [
+                  "Client_Salary_Macro"
+                ],
+                "type": "EMPLOYER",
+                "name": "Client_Salary",
+                "value": 1,
+                "financialConditions": true,
+                "invalidationReasons": [],
+                "mainProgramFlag": false,
+                "csEmployer": {
+                  "employerINN": "3446801853",
+                  "employerKPP": "344601001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [
+                  "Client_Salary_Macro"
+                ],
+                "type": "EMPLOYER",
+                "name": "Client_Salary",
+                "value": 1,
+                "financialConditions": true,
+                "invalidationReasons": [],
+                "mainProgramFlag": false,
+                "csEmployer": {
+                  "employerINN": "3446801853",
+                  "employerKPP": "344601001",
+                  "employerType": "SecondJob"
+                }
+              },
+              {
+                "groups": [
+                  "Client_Credit_Macro"
+                ],
+                "type": "CLIENT",
+                "name": "Client_Credit",
+                "value": 1,
+                "financialConditions": true,
+                "invalidationReasons": [],
+                "mainProgramFlag": false,
+                "csEmployer": null
+              }
+            ],
+            "scoreBki": 221,
+            "score": 225,
+            "clientSegment": null,
+            "baseScoreFinal": null
+          },
+          "riskLimits": {
+            "riskLimitsCheckResult": "0",
+            "maxRiskLimitEkl": 3500000.0,
+            "maxRiskLimitEklCheckResult": null,
+            "maxRiskLimitPl": 3000000.0,
+            "maxRiskLimitPlCheckResult": null,
+            "maxRiskLimitCc": 80000.0,
+            "maxRiskLimitCcCheckResult": null,
+            "maxRiskLimitCcNc": 80000.0,
+            "maxRiskLimitCcNcCheckResult": null,
+            "maxRiskLimit": null,
+            "nisMaxTerm": null
+          },
+          "calcPdn": {
+            "checkPdn": 0,
+            "pdn": 167.5
+          },
+          "greyZoneForm": {
+            "greyZones": [
+              {
+                "gzReasonCode": "stub3",
+                "gzReasonValue": 1,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "Comp_Type_Big_empl,Pos_Other_Head,OPEN_MARKET,Comp_Rel_Corp,Comp_Type_OPK_Military_OKOGU,Comp_Type_Public_Servant_SPARK",
+                "gzRulesList": null
+              }
+            ]
+          },
+          "decisionForm": {
+            "checkEpMax": "NEXT_MICROSERVICE",
+            "checkSf": "NEXT_MICROSERVICE",
+            "checkRecheck": "NEXT_MICROSERVICE",
+            "checkNbki": null,
+            "checkEquifax": null,
+            "checkScore": "NEXT_MICROSERVICE",
+            "checkPdn": null
+          },
+          "mortgageDecisionForm": null
+        }
+      ],
+      "autoCheckRequests": {
+        "riskLimitsValidation": {
+          "checkLimit": 0,
+          "loanTermMaxRisk": null
+        },
+        "calcPdnRequest": null,
+        "greyZoneRequest": {
+          "greyZones": [
+            {
+              "gzReasonCode": "GZ_Criter_flg",
+              "gzReasonValue": 1,
+              "wzForced": null,
+              "gzReasonCriteriaType": null,
+              "gzReasonType": null,
+              "gzEmployer": null,
+              "gzClientSignsList": "1",
+              "gzRulesList": null
+            },
+            {
+              "gzReasonCode": "WZ_RULE_1",
+              "gzReasonValue": 0,
+              "wzForced": null,
+              "gzReasonCriteriaType": null,
+              "gzReasonType": null,
+              "gzEmployer": null,
+              "gzClientSignsList": "2",
+              "gzRulesList": null
+            }
+          ]
+        },
+        "decisionRequest": {
+          "checkLimit": null,
+          "checkEkl": null,
+          "checkL0": "NEXT_MICROSERVICE",
+          "checkSzCriteria": null,
+          "checkSz": "NEXT_MICROSERVICE",
+          "checkValidation": null,
+          "reworkType": null,
+          "reworkReason": null,
+          "rejectDescription": null,
+          "finalDecision": null,
+          "rejectName": null,
+          "factorCheckRules": null
+        },
+        "mortgageDecisionRequest": null
+      },
+      "ekl": {
+        "initialOffer": {
+          "unifiedLimit": 2200000.0,
+          "loanInterestRate": 0.16,
+          "loanMaxAmount": 2114000.0,
+          "loanMaxTerm": 84,
+          "cardMaxLimit": null,
+          "cardMinPayment": null,
+          "loanMonthlyPayment": 41988.4,
+          "unallocatedAmount": null,
+          "cardSelectedLimit": null,
+          "loanSelectedTerm": null,
+          "isWithRefinancing": null,
+          "isWithInsurance": null,
+          "isCardDeclined": null,
+          "isLoanDeclined": null,
+          "loanSelectedAmount": null,
+          "outstandingAmount": null,
+          "monthlyPaymentBeforeRefinancing": null,
+          "monthlyPaymentAfterRefinancing": null,
+          "monthlyPaymentForConfirmedIncome": null,
+          "monthlyPaymentForUnconfirmedIncome": 42000.0,
+          "monthlyPaymentCCForUnconfirmedIncome": null,
+          "skp": [
+            {
+              "productCode": 1,
+              "brandID": 1006126,
+              "brandName": "ОПК",
+              "interestRate": 0.24,
+              "interestRateWithInsurance": 0.16,
+              "minPaymentRatio": 0.0,
+              "insuranceRate": 0.029,
+              "minProgramLimit": 100000.0,
+              "maxProgramLimit": 5000000.0,
+              "minProgramTerm": 12,
+              "maxProgramTerm": 84,
+              "idMatCap": null,
+              "documents": [
+                {
+                  "name": "2-НДФЛ",
+                  "isRequired": 0
+                },
+                {
+                  "name": "Справка по форме банка/работодателя",
+                  "isRequired": 0
+                },
+                {
+                  "name": "Выписка с зп карты стороннего банка",
+                  "isRequired": 0
+                },
+                {
+                  "name": "Выписка из ПФР",
+                  "isRequired": 0
+                },
+                {
+                  "name": "Пенсионное удостоверение",
+                  "isRequired": 0
+                },
+                {
+                  "name": "Выписка ПФР",
+                  "isRequired": 0
+                },
+                {
+                  "name": "Справка из военного комиссариата",
+                  "isRequired": 0
+                },
+                {
+                  "name": "Выписка с карты/счета в стороннем банке с пенсионными зачислениями",
+                  "isRequired": 0
+                }
+              ]
+            }
+          ]
+        },
+        "chosenOffer": {
+          "unifiedLimit": 2114000.0,
+          "loanInterestRate": 0.16,
+          "loanMaxAmount": 2114000.0,
+          "loanMaxTerm": 84,
+          "cardMaxLimit": null,
+          "cardMinPayment": null,
+          "loanMonthlyPayment": 41988.4,
+          "unallocatedAmount": 0.0,
+          "cardSelectedLimit": null,
+          "loanSelectedTerm": 84,
+          "isWithRefinancing": true,
+          "isWithInsurance": true,
+          "isCardDeclined": true,
+          "isLoanDeclined": false,
+          "loanSelectedAmount": 2114000.0,
+          "outstandingAmount": 0.0,
+          "monthlyPaymentBeforeRefinancing": 0.0,
+          "monthlyPaymentAfterRefinancing": 30371.93,
+          "monthlyPaymentForConfirmedIncome": null,
+          "monthlyPaymentForUnconfirmedIncome": null,
+          "monthlyPaymentCCForUnconfirmedIncome": null,
+          "skp": [
+            {
+              "productCode": 1,
+              "brandID": 1006126,
+              "brandName": "ОПК",
+              "interestRate": 0.24,
+              "interestRateWithInsurance": 0.16,
+              "minPaymentRatio": 0.0,
+              "insuranceRate": 0.029,
+              "minProgramLimit": 100000.0,
+              "maxProgramLimit": 5000000.0,
+              "minProgramTerm": 12,
+              "maxProgramTerm": 84,
+              "idMatCap": null,
+              "documents": [
+                {
+                  "name": "2-НДФЛ",
+                  "isRequired": 0
+                },
+                {
+                  "name": "Справка по форме банка/работодателя",
+                  "isRequired": 0
+                },
+                {
+                  "name": "Выписка с зп карты стороннего банка",
+                  "isRequired": 0
+                },
+                {
+                  "name": "Выписка из ПФР",
+                  "isRequired": 0
+                },
+                {
+                  "name": "Пенсионное удостоверение",
+                  "isRequired": 0
+                },
+                {
+                  "name": "Выписка ПФР",
+                  "isRequired": 0
+                },
+                {
+                  "name": "Справка из военного комиссариата",
+                  "isRequired": 0
+                },
+                {
+                  "name": "Выписка с карты/счета в стороннем банке с пенсионными зачислениями",
+                  "isRequired": 0
+                }
+              ]
+            }
+          ]
+        },
+        "finalOffer": null
+      },
+      "mortgage": null
+    }
+  ]
+}

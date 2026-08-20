@@ -1,0 +1,78 @@
+stages:
+  - build
+  - test
+
+variables:
+  GRADLE_OPTS:
+    value: "-Dorg.gradle.daemon=false -Dfile.encoding=UTF-8"
+    description: "Добавить описание переменной"
+  TEST_TAG:
+    value: "regress"
+    description: "Тег сценария, который необходимо запустить, например - regress, smoke"
+    options:
+      - regress
+      - smoke
+      - другое
+  CUSTOM_TEST_TAG:
+    value: ""
+    description: "Введите произвольное значение для TEST_TAG, если выбрано 'другое'"
+  RUN_NAME:
+    value: "test_run_on_vm"
+    description: "Имя тест-рана, которое будет отображаться в отчете TestIT"
+  RUNNER_TAG:
+    value: "AT-CD"
+    description: "Указать тег раннера на котором выполнять тесты"
+
+image: "nexus-internal:6003/usmpo/oassok/build-base-infra-images/automated-testing/jdk:0.0.1-80858116"
+
+before_script:
+  - echo "Текущая временная зона $(date +"%Z %z")"
+  - echo "$TEST_TAG"
+  - echo "$RUNNER_TAG"
+  - echo "$RUN_NAME"
+
+.artifacts:
+  artifacts:
+    when: always
+    paths:
+      - ./build
+    expire_in: 3 days
+
+
+build_project:
+  stage: build
+  script:
+    - echo "Building the project..."
+    - gradle clean :junit:web:build -Duser.timezone="Europe/Moscow" --info
+  tags:
+    - $RUNNER_TAG
+
+run_tests_on_VM:
+  stage: test
+  needs:
+    - build_project
+  rules:
+    - if: $CI_PIPELINE_SOURCE == "schedule"
+      when: on_success
+    - if: $CI_PIPELINE_SOURCE == "push"
+      when: never
+    - when: manual
+    - if: $RUNNER_TAG && ($TEST_TAG || $CUSTOM_TEST_TAG)
+  script:
+    - if [[ $TEST_TAG == 'другое' ]];
+      then
+      TAG_TO_USE="$CUSTOM_TEST_TAG";
+      else
+      TAG_TO_USE="$TEST_TAG";
+      fi
+    - gradle :junit:web:junit5e2e -Duser.timezone="Europe/Moscow" -Ptags=$TAG_TO_USE -Prunname=$RUN_NAME --info
+  tags:
+    - $RUNNER_TAG
+  artifacts:
+    when: always
+    paths:
+      - ./**/*TEST-*.xml
+    reports:
+      junit:
+        - ./**/*TEST-*.xml
+    expire_in: 1 days

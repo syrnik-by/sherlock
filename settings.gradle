@@ -1,0 +1,17 @@
+pluginManagement {
+    repositories {
+        maven {
+            url atMavenGroupUrl
+        }
+        maven {
+            url mvnProxyUrl
+        }
+        maven {
+            url 'https://nexus-external.psbnk.msk.ru/repository/plugins.gradle.org-proxy/'
+        }
+    }
+}
+
+rootProject.name = 'rcc-sherlock-autotests-junit'
+include 'junit:web'
+include 'junit:back'

@@ -1,0 +1,3175 @@
+{
+  "claimId": "RKKL.${{claim_id}}_vrf_tstAT",
+  "claimWithVersions": [
+    {
+      "forms": [
+        {
+          "formPrimary": {
+            "appPath": "Ekl",
+            "applicantOther": "Заемщик",
+            "applicantType": "Borrower",
+            "birthDate": "1990-12-05T00:00:00.000+00:00",
+            "birthPlace": "С. ШЕХМАНЬ ПЕТРОВСКИЙ Р-Н КУРСКАЯ ОБЛ.",
+            "borrowerAddress": [
+              {
+                "addressKind": "registration",
+                "addressKindOther": null,
+                "block": null,
+                "building": "36",
+                "city": null,
+                "cityType": "",
+                "country": "Россия",
+                "district": "Шехмань",
+                "districtType": "с.",
+                "federalDistrict": "Курская область",
+                "federalDistrictCode": 68,
+                "flat": "2",
+                "office": null,
+                "postalCode": "393084",
+                "region": "Петровский",
+                "regionType": "р-н",
+                "sinceDate": "1990-11-08T00:00:00.000+00:00",
+                "street": "Советская",
+                "streetType": "ул.",
+                "structure": null
+              },
+              {
+                "addressKind": "living",
+                "addressKindOther": null,
+                "block": null,
+                "building": "36",
+                "city": null,
+                "cityType": "",
+                "country": "Россия",
+                "district": "Шехмань",
+                "districtType": "с.",
+                "federalDistrict": "Курская область",
+                "federalDistrictCode": 68,
+                "flat": "2",
+                "office": null,
+                "postalCode": "393084",
+                "region": "Петровский",
+                "regionType": "р-н",
+                "sinceDate": null,
+                "street": "Советская",
+                "streetType": "ул.",
+                "structure": null
+              }
+            ],
+            "borrowerPhones": [
+              {
+                "phoneType": "mobile",
+                "phoneOther": null,
+                "number": "+72227702037"
+              },
+              {
+                "phoneType": "work",
+                "phoneOther": null,
+                "number": "+74951216501"
+              }
+            ],
+            "cardLimitSum": 50000.0,
+            "certNumberRVI": null,
+            "clientGroupId": 1,
+            "clientId": ${{regex:([1-9][0-9]{7})}},
+        "codeFilial": 0,
+        "codeOffice": 121,
+        "consumerLoanProductSelected": true,
+        "contactPersonFullName": null,
+        "contactPersonOther": null,
+        "contactPersonType": null,
+        "contactPhones": [],
+        "creator": "Иванова Софья Вадимовна",
+        "creatorComment": null,
+        "creditCardProductSelected": true,
+        "currencyId": 1,
+        "dateReturnToNIS": null,
+        "educationOther": null,
+        "educationType": null,
+        "email": "yura.90@mail.ru",
+        "employeeRank": null,
+        "exceptionReasonFromNIS": "",
+        "exceptReasonDocDate": null,
+        "firstName": "Юрий",
+        "formId": "L.${{claim_id}}_tstAT",
+        "formVersion": 1,
+        "formVersionDate": "2023-04-20T00:00:00.000+00:00",
+        "hasPartTimeEmployment": false,
+        "identityDocuments": [
+          {
+            "documentKind": "passport",
+            "expiredDate": "2036-02-03T00:00:00.000+00:00",
+            "issuerCode": "111-222",
+            "number": "121212",
+            "series": "5555",
+            "whenGivenDate": "2018-06-13T00:00:00.000+00:00",
+            "whereGiven": "УМВД РОССИИ ПО ТАМБОВСКОЙ ОБЛАСТИ"
+          },
+          {
+            "documentKind": "snils",
+            "expiredDate": null,
+            "issuerCode": null,
+            "number": "15040627555",
+            "series": null,
+            "whenGivenDate": "0001-01-03T00:00:00.000+00:00",
+            "whereGiven": null
+          },
+          {
+            "documentKind": "inn",
+            "expiredDate": null,
+            "issuerCode": null,
+            "number": "681302227999",
+            "series": null,
+            "whenGivenDate": "0001-01-03T00:00:00.000+00:00",
+            "whereGiven": null
+          }
+        ],
+        "isClientInOffice": false,
+        "isNotTypical": false,
+        "isOrangePriority": false,
+        "isPsbPriority": false,
+        "lastName": "Романоввв",
+        "loanMonthPeriod": 84,
+        "loanProgramOther": null,
+        "loanProgramType": "S",
+        "loanPurpose": "13",
+        "loanPurposeOther": null,
+        "loanSum": 550000.0,
+        "maritalStatusOther": null,
+        "maritalStatusType": "S",
+        "middleName": "Иванович",
+        "monthlyIncomes": [
+          {
+            "incomeKind": 1,
+            "formOther": null,
+            "formType": null,
+            "confirmedFormType": "NO",
+            "amount": 15000.0,
+            "amountCorrect": null
+          },
+          {
+            "incomeKind": 2,
+            "formOther": null,
+            "formType": null,
+            "confirmedFormType": "NO",
+            "amount": 12000.0,
+            "amountCorrect": null
+          }
+        ],
+        "nationalityCountryId": true,
+        "nativeClientIds": [],
+        "nisDate": null,
+        "noSnilsCategoryType": null,
+        "noSnilsCategoryOther": null,
+        "previousFirstName": null,
+        "previousLastName": null,
+        "previousMiddleName": null,
+        "residence": "Resident",
+        "retailAppId": 9056048,
+        "submitterChannelType": "Manager",
+        "sexOther": null,
+        "sexType": "Men",
+        "sourceOther": null,
+        "sourceType": "InfoSource8",
+        "spouseBirthDate": null,
+        "spouseFirstName": null,
+        "spouseLastName": null,
+        "spouseMiddleName": null,
+        "spousePhones": [],
+        "spousePreviousLastName": null,
+        "trlContractNumber": null,
+        "trlContractDate": null,
+        "vip": false,
+        "fioMrk": null,
+        "fioDoc": null,
+        "commentMrk": null,
+        "commentDoc": null,
+        "matchesAddressRegistration": true,
+        "regionalOfficeId": 1,
+        "isLprClient": true,
+        "zpCardsCount": 25,
+        "avgIncomeZp": 1000000
+        },
+        "formEtc": {
+          "borrowerConsents": [
+            {
+              "consentType": "RequestFromBki",
+              "consentOther": null,
+              "isConsent": true
+            },
+            {
+              "consentType": "ToCession",
+              "consentOther": null,
+              "isConsent": true
+            },
+            {
+              "consentType": "ToPhoto",
+              "consentOther": null,
+              "isConsent": true
+            },
+            {
+              "consentType": "PersonalDataPartners",
+              "consentOther": null,
+              "isConsent": true
+            },
+            {
+              "consentType": "PersonalDataProcessing",
+              "consentOther": null,
+              "isConsent": true
+            },
+            {
+              "consentType": "VoluntaryHealthInsurancePhase1",
+              "consentOther": null,
+              "isConsent": true
+            },
+            {
+              "consentType": "Promotion",
+              "consentOther": null,
+              "isConsent": true
+            }
+          ],
+          "carQuantity": null,
+          "clientRatingOther": null,
+          "clientRatingType": "Solvent",
+          "employers": [
+            {
+              "employedSinceDate": "2014-02-01T00:00:00.000+00:00",
+              "employeePosition": "полицейский (боец)",
+              "employeesQuantityOther": null,
+              "employeesQuantityType": "G500",
+              "employeeStatusOther": null,
+              "employeeStatusType": "SPECIAL",
+              "employerAddress": [
+                {
+                  "addressKind": "corresponding",
+                  "addressKindOther": null,
+                  "block": null,
+                  "building": "2Б",
+                  "city": "Москва",
+                  "cityType": "г.",
+                  "country": "Россия",
+                  "district": null,
+                  "districtType": null,
+                  "federalDistrict": "Москва",
+                  "federalDistrictCode": 77,
+                  "flat": null,
+                  "office": null,
+                  "postalCode": "105066",
+                  "region": null,
+                  "regionType": null,
+                  "sinceDate": null,
+                  "street": "Спартаковская",
+                  "streetType": "ул.",
+                  "structure": null
+                },
+                {
+                  "addressKind": "physical",
+                  "addressKindOther": null,
+                  "block": "2",
+                  "building": "2",
+                  "city": "Москва",
+                  "cityType": "г.",
+                  "country": "Россия",
+                  "district": null,
+                  "districtType": null,
+                  "federalDistrict": "Москва",
+                  "federalDistrictCode": 77,
+                  "flat": null,
+                  "office": null,
+                  "postalCode": "123458",
+                  "region": null,
+                  "regionType": null,
+                  "sinceDate": null,
+                  "street": "Твардовского",
+                  "streetType": "ул.",
+                  "structure": null
+                }
+              ],
+              "employerChiefFullName": null,
+              "employerFieldOther": null,
+              "employerFieldType": "ActivityStatus33",
+              "employerFormOther": null,
+              "employerFormType": "ELSE",
+              "employerName": "ФКУ \"ЕРЦ МО РФ\" (В/Ч №09436)",
+              "employerOther": null,
+              "employerPhones": [],
+              "employerTaxPayerNumber": "7714794048",
+              "employerType": "GOV",
+              "kpp": "770101001",
+              "employmentKind": "MainJob",
+              "employerIdForRkk": "121212",
+              "employmentOther": null,
+              "employmentType": "PERMANENT"
+            },
+            {
+              "employedSinceDate": "2014-02-01T00:00:00.000+00:00",
+              "employeePosition": "полицейский (боец)",
+              "employeesQuantityOther": null,
+              "employeesQuantityType": "G500",
+              "employeeStatusOther": null,
+              "employeeStatusType": "SPECIAL",
+              "employerAddress": [
+                {
+                  "addressKind": "corresponding",
+                  "addressKindOther": null,
+                  "block": null,
+                  "building": "2Б",
+                  "city": "Москва",
+                  "cityType": "г.",
+                  "country": "Россия",
+                  "district": null,
+                  "districtType": null,
+                  "federalDistrict": "Москва",
+                  "federalDistrictCode": 77,
+                  "flat": null,
+                  "office": null,
+                  "postalCode": "105066",
+                  "region": null,
+                  "regionType": null,
+                  "sinceDate": null,
+                  "street": "Спартаковская",
+                  "streetType": "ул.",
+                  "structure": null
+                },
+                {
+                  "addressKind": "physical",
+                  "addressKindOther": null,
+                  "block": "2",
+                  "building": "2",
+                  "city": "Москва",
+                  "cityType": "г.",
+                  "country": "Россия",
+                  "district": null,
+                  "districtType": null,
+                  "federalDistrict": "Москва",
+                  "federalDistrictCode": 77,
+                  "flat": null,
+                  "office": null,
+                  "postalCode": "123458",
+                  "region": null,
+                  "regionType": null,
+                  "sinceDate": null,
+                  "street": "Твардовского",
+                  "streetType": "ул.",
+                  "structure": null
+                }
+              ],
+              "employerChiefFullName": null,
+              "employerFieldOther": null,
+              "employerFieldType": "ActivityStatus33",
+              "employerFormOther": null,
+              "employerFormType": "ELSE",
+              "employerName": "ФКУ \"ЕРЦ МО РФ\" (В/Ч №09436)",
+              "employerOther": null,
+              "employerPhones": [],
+              "employerTaxPayerNumber": "7714794048",
+              "employerType": "GOV",
+              "kpp": "770101001",
+              "employmentKind": "SecondJob",
+              "employerIdForRkk": "121212",
+              "employmentOther": null,
+              "employmentType": "PERMANENT"
+            }
+          ],
+          "employmentMonths": 0,
+          "employmentYears": 9,
+          "hasCar": null,
+          "hasFlat": null,
+          "isRetiree": false,
+          "otherPropertyAvailability": null,
+          "outwardAppearanceOther": null,
+          "outwardAppearanceType": "Outward_1",
+          "publicServant": null
+        },
+        "formBorrower": {
+          "claimId": "RKKL.${{claim_id}}_vrf_tstAT",
+          "claimVer": 1,
+          "claimVerDate": "2023-04-20T00:00:00.000+00:00",
+          "issueDate": "2023-04-20T00:00:00.000+00:00",
+          "militaryStatus": "2",
+          "nisExcludeDate": null
+        },
+        "preUnder": null,
+        "idealKICorrect": null,
+        "incomeCorrect": null,
+        "documents": []
+        },
+        {
+          "formPrimary": {
+            "appPath": "Ekl",
+            "applicantOther": "Созаемщик",
+            "applicantType": "CoBorrower",
+            "birthDate": "1995-12-05T00:00:00.000+00:00",
+            "birthPlace": "С. ШЕХМАНЬ ПЕТРОВСКИЙ Р-Н КУРСКАЯ ОБЛ.",
+            "borrowerAddress": [
+              {
+                "addressKind": "registration",
+                "addressKindOther": null,
+                "block": null,
+                "building": "36",
+                "city": null,
+                "cityType": "",
+                "country": "Россия",
+                "district": "Шехмань",
+                "districtType": "с.",
+                "federalDistrict": "Курская область",
+                "federalDistrictCode": 68,
+                "flat": "2",
+                "office": null,
+                "postalCode": "393084",
+                "region": "Петровский",
+                "regionType": "р-н",
+                "sinceDate": "1990-11-08T00:00:00.000+00:00",
+                "street": "Советская",
+                "streetType": "ул.",
+                "structure": null
+              },
+              {
+                "addressKind": "living",
+                "addressKindOther": null,
+                "block": null,
+                "building": "36",
+                "city": null,
+                "cityType": "",
+                "country": "Россия",
+                "district": "Шехмань",
+                "districtType": "с.",
+                "federalDistrict": "Курская область",
+                "federalDistrictCode": 68,
+                "flat": "2",
+                "office": null,
+                "postalCode": "393084",
+                "region": "Петровский",
+                "regionType": "р-н",
+                "sinceDate": null,
+                "street": "Советская",
+                "streetType": "ул.",
+                "structure": null
+              }
+            ],
+            "borrowerPhones": [
+              {
+                "phoneType": "mobile",
+                "phoneOther": null,
+                "number": "+72227702037"
+              },
+              {
+                "phoneType": "work",
+                "phoneOther": null,
+                "number": "+74951216501"
+              }
+            ],
+            "cardLimitSum": 50000.0,
+            "certNumberRVI": null,
+            "clientGroupId": 3,
+            "clientId": ${{regex:([1-9][0-9]{7})}},
+        "codeFilial": 0,
+        "codeOffice": 121,
+        "consumerLoanProductSelected": true,
+        "contactPersonFullName": null,
+        "contactPersonOther": null,
+        "contactPersonType": null,
+        "contactPhones": [],
+        "creator": "Иванова Софья Вадимовна",
+        "creatorComment": null,
+        "creditCardProductSelected": true,
+        "currencyId": 1,
+        "dateReturnToNIS": null,
+        "educationOther": null,
+        "educationType": null,
+        "email": "luna.95@mail.ru",
+        "employeeRank": null,
+        "exceptionReasonFromNIS": "",
+        "exceptReasonDocDate": null,
+        "firstName": "Павел",
+        "formId": "L.761AI.1_tstAT",
+        "formVersion": 1,
+        "formVersionDate": "2023-04-20T00:00:00.000+00:00",
+        "hasPartTimeEmployment": false,
+        "identityDocuments": [
+          {
+            "documentKind": "passport",
+            "expiredDate": "2036-02-03T00:00:00.000+00:00",
+            "issuerCode": "111-222",
+            "number": "090909",
+            "series": "6666",
+            "whenGivenDate": "2018-06-13T00:00:00.000+00:00",
+            "whereGiven": "УМВД РОССИИ ПО ТАМБОВСКОЙ ОБЛАСТИ"
+          },
+          {
+            "documentKind": "snils",
+            "expiredDate": null,
+            "issuerCode": null,
+            "number": "15040627599",
+            "series": null,
+            "whenGivenDate": "0001-01-03T00:00:00.000+00:00",
+            "whereGiven": null
+          },
+          {
+            "documentKind": "inn",
+            "expiredDate": null,
+            "issuerCode": null,
+            "number": "681302227988",
+            "series": null,
+            "whenGivenDate": "0001-01-03T00:00:00.000+00:00",
+            "whereGiven": null
+          }
+        ],
+        "isClientInOffice": false,
+        "isNotTypical": false,
+        "isOrangePriority": false,
+        "isPsbPriority": false,
+        "lastName": "Павлов",
+        "loanMonthPeriod": 84,
+        "loanProgramOther": null,
+        "loanProgramType": "S",
+        "loanPurpose": "13",
+        "loanPurposeOther": null,
+        "loanSum": 2200000.0,
+        "maritalStatusOther": null,
+        "maritalStatusType": "S",
+        "middleName": "Иванович",
+        "monthlyIncomes": [
+          {
+            "incomeKind": 1,
+            "formOther": null,
+            "formType": null,
+            "confirmedFormType": "NO",
+            "amount": 20000.0,
+            "amountCorrect": null
+          },
+          {
+            "incomeKind": 3,
+            "formOther": null,
+            "formType": null,
+            "confirmedFormType": "NO",
+            "amount": 10000.0,
+            "amountCorrect": null
+          }
+        ],
+        "nationalityCountryId": true,
+        "nativeClientIds": [],
+        "nisDate": null,
+        "noSnilsCategoryType": null,
+        "noSnilsCategoryOther": null,
+        "previousFirstName": null,
+        "previousLastName": null,
+        "previousMiddleName": null,
+        "residence": "Resident",
+        "retailAppId": 9056048,
+        "submitterChannelType": "Manager",
+        "sexOther": null,
+        "sexType": "Men",
+        "sourceOther": null,
+        "sourceType": "InfoSource8",
+        "spouseBirthDate": null,
+        "spouseFirstName": null,
+        "spouseLastName": null,
+        "spouseMiddleName": null,
+        "spousePhones": [],
+        "spousePreviousLastName": null,
+        "trlContractNumber": null,
+        "trlContractDate": null,
+        "vip": false,
+        "fioMrk": null,
+        "fioDoc": null,
+        "commentMrk": null,
+        "commentDoc": null,
+        "matchesAddressRegistration": true,
+        "regionalOfficeId": 1,
+        "isLprClient": true,
+        "zpCardsCount": 25,
+        "avgIncomeZp": 1000000
+        },
+        "formEtc": {
+          "borrowerConsents": [
+            {
+              "consentType": "RequestFromBki",
+              "consentOther": null,
+              "isConsent": true
+            },
+            {
+              "consentType": "ToCession",
+              "consentOther": null,
+              "isConsent": true
+            },
+            {
+              "consentType": "ToPhoto",
+              "consentOther": null,
+              "isConsent": true
+            },
+            {
+              "consentType": "PersonalDataPartners",
+              "consentOther": null,
+              "isConsent": true
+            },
+            {
+              "consentType": "PersonalDataProcessing",
+              "consentOther": null,
+              "isConsent": true
+            },
+            {
+              "consentType": "VoluntaryHealthInsurancePhase1",
+              "consentOther": null,
+              "isConsent": true
+            },
+            {
+              "consentType": "Promotion",
+              "consentOther": null,
+              "isConsent": true
+            }
+          ],
+          "carQuantity": null,
+          "clientRatingOther": null,
+          "clientRatingType": "Solvent",
+          "employers": [
+            {
+              "employedSinceDate": "2014-02-01T00:00:00.000+00:00",
+              "employeePosition": "полицейский (боец)",
+              "employeesQuantityOther": null,
+              "employeesQuantityType": "G500",
+              "employeeStatusOther": null,
+              "employeeStatusType": "SPECIAL",
+              "employerAddress": [
+                {
+                  "addressKind": "corresponding",
+                  "addressKindOther": null,
+                  "block": null,
+                  "building": "2Б",
+                  "city": "Москва",
+                  "cityType": "г.",
+                  "country": "Россия",
+                  "district": null,
+                  "districtType": null,
+                  "federalDistrict": "Москва",
+                  "federalDistrictCode": 77,
+                  "flat": null,
+                  "office": null,
+                  "postalCode": "105066",
+                  "region": null,
+                  "regionType": null,
+                  "sinceDate": null,
+                  "street": "Спартаковская",
+                  "streetType": "ул.",
+                  "structure": null
+                },
+                {
+                  "addressKind": "physical",
+                  "addressKindOther": null,
+                  "block": "2",
+                  "building": "2",
+                  "city": "Москва",
+                  "cityType": "г.",
+                  "country": "Россия",
+                  "district": null,
+                  "districtType": null,
+                  "federalDistrict": "Москва",
+                  "federalDistrictCode": 77,
+                  "flat": null,
+                  "office": null,
+                  "postalCode": "123458",
+                  "region": null,
+                  "regionType": null,
+                  "sinceDate": null,
+                  "street": "Твардовского",
+                  "streetType": "ул.",
+                  "structure": null
+                }
+              ],
+              "employerChiefFullName": null,
+              "employerFieldOther": null,
+              "employerFieldType": "ActivityStatus33",
+              "employerFormOther": null,
+              "employerFormType": "ELSE",
+              "employerName": "ФКУ \"ЕРЦ МО РФ\" (В/Ч №09436)",
+              "employerOther": null,
+              "employerPhones": [],
+              "employerTaxPayerNumber": "7714794048",
+              "employerType": "GOV",
+              "kpp": "770101001",
+              "employmentKind": "MainJob",
+              "employerIdForRkk": "121212",
+              "employmentOther": null,
+              "employmentType": "PERMANENT"
+            },
+            {
+              "employedSinceDate": "2014-02-01T00:00:00.000+00:00",
+              "employeePosition": "полицейский (боец)",
+              "employeesQuantityOther": null,
+              "employeesQuantityType": "G500",
+              "employeeStatusOther": null,
+              "employeeStatusType": "SPECIAL",
+              "employerAddress": [
+                {
+                  "addressKind": "corresponding",
+                  "addressKindOther": null,
+                  "block": null,
+                  "building": "2Б",
+                  "city": "Москва",
+                  "cityType": "г.",
+                  "country": "Россия",
+                  "district": null,
+                  "districtType": null,
+                  "federalDistrict": "Москва",
+                  "federalDistrictCode": 77,
+                  "flat": null,
+                  "office": null,
+                  "postalCode": "105066",
+                  "region": null,
+                  "regionType": null,
+                  "sinceDate": null,
+                  "street": "Спартаковская",
+                  "streetType": "ул.",
+                  "structure": null
+                },
+                {
+                  "addressKind": "physical",
+                  "addressKindOther": null,
+                  "block": "2",
+                  "building": "2",
+                  "city": "Москва",
+                  "cityType": "г.",
+                  "country": "Россия",
+                  "district": null,
+                  "districtType": null,
+                  "federalDistrict": "Москва",
+                  "federalDistrictCode": 77,
+                  "flat": null,
+                  "office": null,
+                  "postalCode": "123458",
+                  "region": null,
+                  "regionType": null,
+                  "sinceDate": null,
+                  "street": "Твардовского",
+                  "streetType": "ул.",
+                  "structure": null
+                }
+              ],
+              "employerChiefFullName": null,
+              "employerFieldOther": null,
+              "employerFieldType": "ActivityStatus33",
+              "employerFormOther": null,
+              "employerFormType": "ELSE",
+              "employerName": "ФКУ \"ЕРЦ МО РФ\" (В/Ч №09436)",
+              "employerOther": null,
+              "employerPhones": [],
+              "employerTaxPayerNumber": "7714794048",
+              "employerType": "GOV",
+              "kpp": "770101001",
+              "employmentKind": "SecondJob",
+              "employerIdForRkk": "121212",
+              "employmentOther": null,
+              "employmentType": "PERMANENT"
+            }
+          ],
+          "employmentMonths": 0,
+          "employmentYears": 9,
+          "hasCar": null,
+          "hasFlat": null,
+          "isRetiree": false,
+          "otherPropertyAvailability": null,
+          "outwardAppearanceOther": null,
+          "outwardAppearanceType": "Outward_1",
+          "publicServant": null
+        },
+        "formBorrower": {
+          "claimId": "RKKL.${{claim_id}}_vrf_tstAT",
+          "claimVer": 1,
+          "claimVerDate": "2023-04-20T00:00:00.000+00:00",
+          "issueDate": "2023-04-20T00:00:00.000+00:00",
+          "militaryStatus": "2",
+          "nisExcludeDate": null
+        },
+        "preUnder": null,
+        "idealKICorrect": null,
+        "incomeCorrect": null,
+        "documents": []
+        }
+      ],
+      "claimStatusAndScans": {
+        "claimStatus": null,
+        "history": null
+      },
+      "undDecision": null,
+      "undDecisionCaseList": [],
+      "idealKI": [],
+      "antiFraud": [],
+      "autoCheckForms": [
+        {
+          "formId": "L.${{claim_id}}_tstAT",
+          "spark": [
+            {
+              "active": "3",
+              "addressCount": 2,
+              "cacheUse": 1,
+              "charterCapital": null,
+              "companySize": null,
+              "companyType": 1,
+              "created": "2023-04-19T05:27:24.000+00:00",
+              "dateFirstReg": "2009-11-20T00:00:00.000+00:00",
+              "egrulLicvidation": null,
+              "executed": "1905",
+              "fullNameOPF": "Федеральные государственные казенные учреждения",
+              "fullNameRus": "ФЕДЕРАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ «ЕДИНЫЙ РАСЧЕТНЫЙ ЦЕНТР МИНИСТЕРСТВА ОБОРОНЫ РОССИЙСКОЙ ФЕДЕРАЦИИ»",
+              "inn": "7714794048",
+              "isActing": "1",
+              "kpp": "770101001",
+              "managerCountInCountry": 1,
+              "managerCountInRegion": 1,
+              "okfs": "Федеральная собственность",
+              "okoguCode": "1313500",
+              "okoguName": "Министерство обороны Российской Федерации",
+              "okvedName": "Деятельность, связанная с обеспечением военной безопасности",
+              "periodName": null,
+              "profit": null,
+              "resultType": "TRUE",
+              "revenue": null,
+              "shortNameRus": "ФЕДЕРАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ «ЕДИНЫЙ РАСЧЕТНЫЙ ЦЕНТР МИНИСТЕРСТВА ОБОРОНЫ РОССИЙСКОЙ ФЕДЕРАЦИИ»",
+              "status": "Действующее",
+              "statusDate": "2023-04-19T00:00:00.000+00:00",
+              "telephoneCount": 1,
+              "workersRange": null,
+              "okvedCode": "84.22",
+              "employerIdForRkk": "121212",
+              "employmentKind": "MainJob"
+            },
+            {
+              "active": "5",
+              "addressCount": 5,
+              "cacheUse": 5,
+              "charterCapital": null,
+              "companySize": null,
+              "companyType": 5,
+              "created": "2023-04-19T05:27:24.000+00:00",
+              "dateFirstReg": "2009-11-20T00:00:00.000+00:00",
+              "egrulLicvidation": null,
+              "executed": "1905",
+              "fullNameOPF": "Федеральные государственные казенные учреждения",
+              "fullNameRus": "ФЕДЕРАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ «ЕДИНЫЙ РАСЧЕТНЫЙ ЦЕНТР МИНИСТЕРСТВА ОБОРОНЫ РОССИЙСКОЙ ФЕДЕРАЦИИ»",
+              "inn": "7714794048",
+              "isActing": "1",
+              "kpp": "770101001",
+              "managerCountInCountry": 1,
+              "managerCountInRegion": 1,
+              "okfs": "Федеральная собственность",
+              "okoguCode": "1313500",
+              "okoguName": "Министерство обороны Российской Федерации",
+              "okvedName": "Деятельность, связанная с обеспечением военной безопасности",
+              "periodName": null,
+              "profit": null,
+              "resultType": "TRUE",
+              "revenue": null,
+              "shortNameRus": "ФЕДЕРАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ «ЕДИНЫЙ РАСЧЕТНЫЙ ЦЕНТР МИНИСТЕРСТВА ОБОРОНЫ РОССИЙСКОЙ ФЕДЕРАЦИИ»",
+              "status": "Действующее",
+              "statusDate": "2023-04-19T00:00:00.000+00:00",
+              "telephoneCount": 1,
+              "workersRange": null,
+              "okvedCode": "84.22",
+              "employerIdForRkk": "55555",
+              "employmentKind": "SecondJob"
+            }
+          ],
+          "wsOpen": [
+            {
+              "egrip": null,
+              "egrul": {
+                "balanceYear": null,
+                "codeOkved": "84.22",
+                "created": "2023-04-21T07:08:58.000+00:00",
+                "dateExcerpt": "2022-11-18T00:00:00.000+00:00",
+                "dateOgrn": "2009-11-20T00:00:00.000+00:00",
+                "fullName": "ФЕДЕРАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ «ЕДИНЫЙ РАСЧЕТНЫЙ ЦЕНТР МИНИСТЕРСТВА ОБОРОНЫ РОССИЙСКОЙ ФЕДЕРАЦИИ»",
+                "fullNameOpf": "ФЕДЕРАЛЬНЫЕ ГОСУДАРСТВЕННЫЕ КАЗЕННЫЕ УЧРЕЖДЕНИЯ",
+                "infoAddress": {
+                  "nameRegion": "МОСКВА",
+                  "typeRegion": "ГОРОД",
+                  "nameDistrict": null,
+                  "typeDistrict": null,
+                  "nameCity": null,
+                  "typeCity": null,
+                  "nameTown": null,
+                  "typeTown": null,
+                  "nameStreet": "СПАРТАКОВСКАЯ",
+                  "typeStreet": "УЛ.",
+                  "house": "Д. 2Б",
+                  "corpus": null,
+                  "index": "105066",
+                  "kvart": null,
+                  "codeAdrKladr": "770000000000697",
+                  "codeRegion": "77",
+                  "signUnAuth": null
+                },
+                "infoFounders": {
+                  "founderFl": [],
+                  "founderUl": [
+                    {
+                      "fullName": "МИНИСТЕРСТВО ОБОРОНЫ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+                      "innUl": "7704252261",
+                      "percent": null,
+                      "signUnAuth": null
+                    }
+                  ],
+                  "founderUlIn": [],
+                  "founderSubRfMo": [],
+                  "founderPif": []
+                },
+                "infoManageAct": {
+                  "infoFlManage": [
+                    {
+                      "fioRus": "ЛОЩЕНОВА ОЛЬГА ВАСИЛЬЕВНА",
+                      "innFl": "645402114506",
+                      "signUnAuth": null
+                    }
+                  ],
+                  "infoUlManage": []
+                },
+                "inn": "7714794048",
+                "kpp": "770101001",
+                "nameLicTypeAct": [],
+                "nameNo": "ИНСПЕКЦИЯ ФЕДЕРАЛЬНОЙ НАЛОГОВОЙ СЛУЖБЫ № 1 ПО Г.МОСКВЕ",
+                "ogrn": "1097746734800",
+                "okogu": "1313500",
+                "profit": null,
+                "resResultType": 1,
+                "revenue": null,
+                "spravOpf": "ОКОПФ",
+                "statusCodeUl": "001",
+                "statusNameUl": "Действующее",
+                "sumCapital": null,
+                "versionOkved": "2014",
+                "employerIdForRkk": "121212",
+                "employmentKind": "MainJob"
+              }
+            },
+            {
+              "egrip": {
+                "codeOkved": "1313500",
+                "created": "2023-04-19T05:27:24.000+00:00",
+                "dateExcerpt": "2023-04-19T05:27:24.000+00:00",
+                "dateOgrnip": "2023-04-19T05:27:24.000+00:00",
+                "dateStopIP": "2023-04-19T05:27:24.000+00:00",
+                "fioRus": "Иванов Иван Иванович",
+                "innFl": "5010988989",
+                "nameNo": "Налоговая",
+                "statusCode": "1",
+                "statusName": "Действующее",
+                "resResultType": 1,
+                "employerIdForRkk": "8989",
+                "employmentKind": "SecondJob"
+              },
+              "egrul": null
+            }
+          ],
+          "salaryCalc": {
+            "aggSalaries": [],
+            "amtRetireeTotal": 0.0,
+            "amtRetireeSocial": null,
+            "amtRetireeWar": null,
+            "cntRetireSocialMth": null,
+            "cntWarRetireeMth": null
+          },
+          "clientSigns": {
+            "primaryCs": [
+              {
+                "groups": [
+                  "Client_Salary_Macro"
+                ],
+                "type": "CLIENT",
+                "name": "Pos_War_NIS",
+                "value": 1,
+                "financialConditions": true,
+                "invalidationReasons": [],
+                "mainProgramFlag": false,
+                "csEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                }
+              },
+              {
+                "groups": [
+                  "Client_Salary_Macro"
+                ],
+                "type": "CLIENT",
+                "name": "Client_Salary",
+                "value": 1,
+                "financialConditions": true,
+                "invalidationReasons": [],
+                "mainProgramFlag": false,
+                "csEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                }
+              },
+              {
+                "groups": [
+                  "Client_Salary_Macro"
+                ],
+                "type": "CLIENT",
+                "name": "Pos_No_Head",
+                "value": 1,
+                "financialConditions": true,
+                "invalidationReasons": [],
+                "mainProgramFlag": false,
+                "csEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                }
+              }
+            ],
+            "employeeWorkersCount": null,
+            "employeeWorkersSource": null,
+            "sumMaxZp": null,
+            "employeeRevenueAct": null,
+            "timeWithBankMonthsCount": null,
+            "timeWithBankCreditMonthsCount": null
+          },
+          "pureIncomeCalc": {
+            "avgConfIncomeCertificate": 0.0,
+            "filledMonthsCnt": null,
+            "incomeConf": 0.0,
+            "incomeNconfPos1": 85717.0,
+            "incomeNconfPos2": 0.0,
+            "incomeNconfPos3": 85717.0,
+            "incomeNconfPos4": 85717.0,
+            "incomeNconfPos5": 50000.0,
+            "incomeNconfPos6": 60000.0,
+            "incomeNconfPos7": 70000.0,
+            "incomeNconfPos8": 80000.0,
+            "incomeNconfPos9": 90000.0,
+            "incomeNconfPos10": 55000.0,
+            "incomeNconfPos11": 65000.0,
+            "incomeNconfPos12": 75000.0,
+            "incomeCcdNconf": 109284.538,
+            "mainIncome": 85717.0,
+            "sumZpTotal": 66003.9
+          },
+          "modelIncomeCalc": {
+            "outModelIncomeType": 2,
+            "outModelIncomeResult": 109284.538,
+            "minIncome": 26765.7,
+            "avgIncome": 30039.0
+          },
+          "stopFactorCheckRules": {
+            "stopFactors": [
+              {
+                "stopFactorCode": "stopFactorCheckRulesResult",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": null
+              },
+              {
+                "stopFactorCode": "kp_after_SF",
+                "stopFactorValue": null,
+                "stopFactorClientSignsList": "Comp_Type_OPK_Macro,Comp_Type_OPK_Macro_War,Comp_Type_OPK_Military_Lex,Comp_Type_OPK_Military_OKOGU,Comp_Type_Public_Servant_Macro,Comp_Type_Public_Servant_SPARK"
+              },
+              {
+                "stopFactorCode": "NATIONALITY",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "CHECK_BL_ADDRESS",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "AGE_MIN",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "CHECK_KI_MFO_AND",
+                "stopFactorValue": -1,
+                "stopFactorClientSignsList": ""
+              },
+              {
+                "stopFactorCode": "PUBLICAGREE",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "JOBCOUNTEMPLOYEES",
+                "stopFactorValue": -1,
+                "stopFactorClientSignsList": ""
+              },
+              {
+                "stopFactorCode": "QCC_REJECT",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "SF_EMPLOYER_HIGH_RISK",
+                "stopFactorValue": -1,
+                "stopFactorClientSignsList": ""
+              },
+              {
+                "stopFactorCode": "CHECK_BL_OKVED",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "SPARK_BNKRT_LQDT",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Type_Public_Servant_SPARK,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "WS_OPEN_BNKRT_LQDT",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Type_Public_Servant_SPARK,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "SF_FSSP_AS",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Type_Public_Servant_SPARK,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "AGE_MIN_2",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Client_New_To_Bank,Comp_Rel_Salary"
+              },
+              {
+                "stopFactorCode": "PHONES",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "JOBSENIORITY_TOTAL",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "ACTIVE_LOAN_PSB",
+                "stopFactorValue": -1,
+                "stopFactorClientSignsList": ""
+              },
+              {
+                "stopFactorCode": "CHECK_BKI_REQUESTS",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Type_Public_Servant_SPARK,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "CESSION",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "P0",
+                "stopFactorValue": -1,
+                "stopFactorClientSignsList": ""
+              },
+              {
+                "stopFactorCode": "GZ_LOW_LIMIT",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Type_Public_Servant_SPARK,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "CHECK_KI_MFO_OR",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Type_Public_Servant_SPARK,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "CHECK_BL_INN",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Type_Public_Servant_SPARK,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "JOBEMPLOYMENTTYPE",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "PHOTO_REQUIRED",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "JOBSENIORITY_LAST",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "DATAAGREE",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "OUTWARDCODE",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "CHECK_NKS_RULES",
+                "stopFactorValue": -1,
+                "stopFactorClientSignsList": ""
+              },
+              {
+                "stopFactorCode": "P30",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Type_Public_Servant_SPARK,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "MAXDELPERIODFORCHANGEPRODUCT",
+                "stopFactorValue": -1,
+                "stopFactorClientSignsList": ""
+              },
+              {
+                "stopFactorCode": "SF_UNDER_FSSP",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Type_Public_Servant_SPARK,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "LAST_RESTRUCT",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Type_Public_Servant_SPARK,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "CURDELAY",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Type_Public_Servant_SPARK,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "AGE_MAX",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "SF_STOP_CREDIT_SIGN",
+                "stopFactorValue": -1,
+                "stopFactorClientSignsList": ""
+              },
+              {
+                "stopFactorCode": "MININCOME",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "P90_R",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Type_Public_Servant_SPARK,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "P180_R",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Type_Public_Servant_SPARK,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "KP_12M",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Type_Public_Servant_SPARK,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "DEALPAYMENTMORECOUNT",
+                "stopFactorValue": -1,
+                "stopFactorClientSignsList": ""
+              }
+            ]
+          },
+          "liabilitiesMark": {
+            "hasLoansPpd": 1,
+            "hasLoansPki": 1,
+            "hasLoansCheckEnoughKi": 1,
+            "loansEvkMod": 0.0,
+            "loansEpCardMod": 0.0,
+            "loansEvk": 26443.38,
+            "loansEpCard": 38705.294,
+            "missedBkiCnt": 0,
+            "requestsMsb": 0,
+            "loansMsb": 0,
+            "liabilities": [
+              {
+                "contractNumber": "bbdc80d2-5a8e-4b0d-8ce6-589e0b34cd19",
+                "product": "7",
+                "loanSum": 0.0,
+                "loanTerm": null,
+                "payment": 0.0,
+                "interestRate": 0.0,
+                "openDate": "2020-03-11T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "isOwn": 0,
+                "isAvailableToRefin": 0,
+                "isActiveFlg": 0,
+                "hasLoanInCalculation": 0,
+                "irBki": null,
+                "evk": 0.0,
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "pskBki": 24.05,
+                "loanPpdCond1": 1,
+                "loanPpdCond2": null,
+                "loanPpdCond3": 1
+              },
+              {
+                "contractNumber": "ceb2802d-0e5d-4b96-8eb6-42fddc7457a5",
+                "product": "9",
+                "loanSum": 477504.0,
+                "loanTerm": 11,
+                "payment": 0.0,
+                "interestRate": 13.87,
+                "openDate": "2019-11-05T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "isOwn": 0,
+                "isAvailableToRefin": 0,
+                "isActiveFlg": 0,
+                "hasLoanInCalculation": 0,
+                "irBki": null,
+                "evk": 0.0,
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "pskBki": 13.87,
+                "loanPpdCond1": 1,
+                "loanPpdCond2": 0,
+                "loanPpdCond3": 1
+              },
+              {
+                "contractNumber": "f9e56f1d-ff78-458e-afde-bd8e20d43bc0",
+                "product": "9",
+                "loanSum": 262562.0,
+                "loanTerm": 7,
+                "payment": 0.0,
+                "interestRate": 11.78,
+                "openDate": "2020-02-19T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "isOwn": 0,
+                "isAvailableToRefin": 0,
+                "isActiveFlg": 0,
+                "hasLoanInCalculation": 0,
+                "irBki": null,
+                "evk": 0.0,
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "pskBki": 11.78,
+                "loanPpdCond1": 1,
+                "loanPpdCond2": 1,
+                "loanPpdCond3": 1
+              },
+              {
+                "contractNumber": "99c53d3a-998e-4ef8-b145-c6d788ed17dd",
+                "product": "9",
+                "loanSum": 150000.0,
+                "loanTerm": 84,
+                "payment": 0.0,
+                "interestRate": 12.89,
+                "openDate": "2021-10-18T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "isOwn": 0,
+                "isAvailableToRefin": 0,
+                "isActiveFlg": 0,
+                "hasLoanInCalculation": 0,
+                "irBki": null,
+                "evk": 0.0,
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "pskBki": 12.89,
+                "loanPpdCond1": 1,
+                "loanPpdCond2": 0,
+                "loanPpdCond3": 1
+              },
+              {
+                "contractNumber": "252e0a92-1c10-47bf-8b26-f9483c2e5c9a",
+                "product": "7",
+                "loanSum": 201000.0,
+                "loanTerm": null,
+                "payment": 19665.386,
+                "interestRate": 0.0,
+                "openDate": "2023-01-13T00:00:00.000+00:00",
+                "outstanding": 196653.86,
+                "isOwn": 0,
+                "isAvailableToRefin": 1,
+                "isActiveFlg": 1,
+                "hasLoanInCalculation": 1,
+                "irBki": null,
+                "evk": 0.0,
+                "epCard": 19665.386,
+                "evkMod": null,
+                "epCardMod": null,
+                "pskBki": null,
+                "loanPpdCond1": 1,
+                "loanPpdCond2": null,
+                "loanPpdCond3": 1
+              },
+              {
+                "contractNumber": "eb00de14-762f-4012-8308-7d89db041b2a",
+                "product": "9",
+                "loanSum": 265280.0,
+                "loanTerm": 24,
+                "payment": 0.0,
+                "interestRate": 10.74,
+                "openDate": "2021-10-24T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "isOwn": 0,
+                "isAvailableToRefin": 0,
+                "isActiveFlg": 0,
+                "hasLoanInCalculation": 0,
+                "irBki": null,
+                "evk": 0.0,
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "pskBki": 10.74,
+                "loanPpdCond1": 1,
+                "loanPpdCond2": 0,
+                "loanPpdCond3": 1
+              },
+              {
+                "contractNumber": "cef3ec03-897c-49b2-83b6-89401fdaf128",
+                "product": "9",
+                "loanSum": 224387.0,
+                "loanTerm": 34,
+                "payment": 0.0,
+                "interestRate": 13.71,
+                "openDate": "2021-11-13T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "isOwn": 0,
+                "isAvailableToRefin": 0,
+                "isActiveFlg": 0,
+                "hasLoanInCalculation": 0,
+                "irBki": null,
+                "evk": 0.0,
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "pskBki": 13.71,
+                "loanPpdCond1": 1,
+                "loanPpdCond2": 1,
+                "loanPpdCond3": 1
+              },
+              {
+                "contractNumber": "2fe42d90-ed8d-4bd0-8366-17632d7897b7",
+                "product": "9",
+                "loanSum": 687500.0,
+                "loanTerm": 60,
+                "payment": 15797.0,
+                "interestRate": 22.761,
+                "openDate": "2023-01-23T00:00:00.000+00:00",
+                "outstanding": 680424.83,
+                "isOwn": 0,
+                "isAvailableToRefin": 1,
+                "isActiveFlg": 1,
+                "hasLoanInCalculation": 1,
+                "irBki": null,
+                "evk": 15797.0,
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "pskBki": 22.761,
+                "loanPpdCond1": 1,
+                "loanPpdCond2": 0,
+                "loanPpdCond3": 1
+              },
+              {
+                "contractNumber": "f25ea327-73ba-4b12-996c-4e61f35fecbd",
+                "product": "7",
+                "loanSum": 260000.0,
+                "loanTerm": null,
+                "payment": 19039.908,
+                "interestRate": 0.0,
+                "openDate": "2022-12-11T00:00:00.000+00:00",
+                "outstanding": 190399.08,
+                "isOwn": 0,
+                "isAvailableToRefin": 1,
+                "isActiveFlg": 1,
+                "hasLoanInCalculation": 1,
+                "irBki": null,
+                "evk": 0.0,
+                "epCard": 19039.908,
+                "evkMod": null,
+                "epCardMod": null,
+                "pskBki": 25.344,
+                "loanPpdCond1": 1,
+                "loanPpdCond2": null,
+                "loanPpdCond3": 1
+              },
+              {
+                "contractNumber": "95a0b455-78cc-4623-b110-30978ca9eb9d",
+                "product": "9",
+                "loanSum": 270585.0,
+                "loanTerm": 17,
+                "payment": 0.0,
+                "interestRate": 9.99,
+                "openDate": "2021-05-31T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "isOwn": 0,
+                "isAvailableToRefin": 0,
+                "isActiveFlg": 0,
+                "hasLoanInCalculation": 0,
+                "irBki": null,
+                "evk": 0.0,
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "pskBki": 9.99,
+                "loanPpdCond1": 1,
+                "loanPpdCond2": 0,
+                "loanPpdCond3": 1
+              },
+              {
+                "contractNumber": "c8e1f676-132e-44a9-b6e3-fc481bb32a9b",
+                "product": "9",
+                "loanSum": 110000.0,
+                "loanTerm": 18,
+                "payment": 0.0,
+                "interestRate": 16.93,
+                "openDate": "2016-12-30T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "isOwn": 0,
+                "isAvailableToRefin": 0,
+                "isActiveFlg": 0,
+                "hasLoanInCalculation": 0,
+                "irBki": null,
+                "evk": 0.0,
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "pskBki": 16.93,
+                "loanPpdCond1": 1,
+                "loanPpdCond2": 1,
+                "loanPpdCond3": 1
+              },
+              {
+                "contractNumber": "d06ddce3-1b90-4934-8a3b-24f7de10caed",
+                "product": "9",
+                "loanSum": 105263.0,
+                "loanTerm": 8,
+                "payment": 0.0,
+                "interestRate": 13.79,
+                "openDate": "2018-07-27T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "isOwn": 0,
+                "isAvailableToRefin": 0,
+                "isActiveFlg": 0,
+                "hasLoanInCalculation": 0,
+                "irBki": null,
+                "evk": 0.0,
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "pskBki": 13.79,
+                "loanPpdCond1": 1,
+                "loanPpdCond2": 1,
+                "loanPpdCond3": 1
+              },
+              {
+                "contractNumber": "21e237de-b7e0-43bc-aaf2-a4589401bb94",
+                "product": "9",
+                "loanSum": 101867.0,
+                "loanTerm": 4,
+                "payment": 0.0,
+                "interestRate": 18.75,
+                "openDate": "2019-02-11T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "isOwn": 0,
+                "isAvailableToRefin": 0,
+                "isActiveFlg": 0,
+                "hasLoanInCalculation": 0,
+                "irBki": null,
+                "evk": 0.0,
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "pskBki": 18.75,
+                "loanPpdCond1": 1,
+                "loanPpdCond2": 0,
+                "loanPpdCond3": 1
+              },
+              {
+                "contractNumber": "921a6ba7-0462-4323-ab16-f1cbad7f770a",
+                "product": "7",
+                "loanSum": 0.0,
+                "loanTerm": null,
+                "payment": 0.0,
+                "interestRate": 0.0,
+                "openDate": "2018-07-27T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "isOwn": 0,
+                "isAvailableToRefin": 0,
+                "isActiveFlg": 0,
+                "hasLoanInCalculation": 0,
+                "irBki": null,
+                "evk": 0.0,
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "pskBki": 26.0,
+                "loanPpdCond1": 1,
+                "loanPpdCond2": null,
+                "loanPpdCond3": 1
+              },
+              {
+                "contractNumber": "568c0979-03cb-4dab-9118-acfae1d7eaee",
+                "product": "9",
+                "loanSum": 30322.0,
+                "loanTerm": 0,
+                "payment": 0.0,
+                "interestRate": 9.002,
+                "openDate": "2019-10-04T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "isOwn": 0,
+                "isAvailableToRefin": 0,
+                "isActiveFlg": 0,
+                "hasLoanInCalculation": 0,
+                "irBki": null,
+                "evk": 0.0,
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "pskBki": 9.002,
+                "loanPpdCond1": 1,
+                "loanPpdCond2": 0,
+                "loanPpdCond3": 1
+              },
+              {
+                "contractNumber": "91d0fc66-e274-4f9c-a18b-832ac17f3b4a",
+                "product": "9",
+                "loanSum": 558231.0,
+                "loanTerm": 22,
+                "payment": 0.0,
+                "interestRate": 13.71,
+                "openDate": "2021-11-10T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "isOwn": 0,
+                "isAvailableToRefin": 0,
+                "isActiveFlg": 0,
+                "hasLoanInCalculation": 0,
+                "irBki": null,
+                "evk": 0.0,
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "pskBki": 13.71,
+                "loanPpdCond1": 1,
+                "loanPpdCond2": 1,
+                "loanPpdCond3": 1
+              },
+              {
+                "contractNumber": "7c9142b2-a07b-4fd1-8d51-b2197bc28520",
+                "product": "7",
+                "loanSum": 0.0,
+                "loanTerm": null,
+                "payment": 0.0,
+                "interestRate": 0.0,
+                "openDate": "2021-12-12T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "isOwn": 0,
+                "isAvailableToRefin": 0,
+                "isActiveFlg": 0,
+                "hasLoanInCalculation": 0,
+                "irBki": null,
+                "evk": 0.0,
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "pskBki": 27.51,
+                "loanPpdCond1": 1,
+                "loanPpdCond2": null,
+                "loanPpdCond3": 1
+              },
+              {
+                "contractNumber": "eacf9b7f-fb21-4f1b-901a-2a0b69ba8ca8",
+                "product": "9",
+                "loanSum": 467914.0,
+                "loanTerm": 84,
+                "payment": 10646.38,
+                "interestRate": 20.567,
+                "openDate": "2023-01-20T00:00:00.000+00:00",
+                "outstanding": 461664.77,
+                "isOwn": 0,
+                "isAvailableToRefin": 1,
+                "isActiveFlg": 1,
+                "hasLoanInCalculation": 1,
+                "irBki": null,
+                "evk": 10646.38,
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "pskBki": 20.567,
+                "loanPpdCond1": 1,
+                "loanPpdCond2": 0,
+                "loanPpdCond3": 1
+              },
+              {
+                "contractNumber": "14ab9342-7320-47b6-8d9d-11fb4fa172a9",
+                "product": "9",
+                "loanSum": 350000.0,
+                "loanTerm": 41,
+                "payment": 0.0,
+                "interestRate": 18.94,
+                "openDate": "2015-09-28T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "isOwn": 0,
+                "isAvailableToRefin": 0,
+                "isActiveFlg": 0,
+                "hasLoanInCalculation": 0,
+                "irBki": null,
+                "evk": 0.0,
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "pskBki": 18.94,
+                "loanPpdCond1": 1,
+                "loanPpdCond2": 1,
+                "loanPpdCond3": 1
+              },
+              {
+                "contractNumber": "b6d4c70e-290a-4f0b-ae55-3917c21f7858",
+                "product": "7",
+                "loanSum": 97000.0,
+                "loanTerm": null,
+                "payment": 0.0,
+                "interestRate": 0.0,
+                "openDate": "2015-09-08T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "isOwn": 0,
+                "isAvailableToRefin": 0,
+                "isActiveFlg": 0,
+                "hasLoanInCalculation": 0,
+                "irBki": null,
+                "evk": 0.0,
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "pskBki": 29.531,
+                "loanPpdCond1": 1,
+                "loanPpdCond2": null,
+                "loanPpdCond3": 1
+              }
+            ]
+          },
+          "epEpMax": {
+            "checkEpMax": 0,
+            "incomeConf": 0.0,
+            "incomeNconfPos1": 85717.0,
+            "incomeNconfPos2": 0.0,
+            "incomeNconfPos3": 85717.0,
+            "incomeNconfPos4": 85717.0,
+            "incomeNconfPos5": 50000.0,
+            "incomeNconfPos6": 60000.0,
+            "incomeNconfPos7": 70000.0,
+            "incomeNconfPos8": 80000.0,
+            "incomeNconfPos9": 90000.0,
+            "incomeNconfPos10": 55000.0,
+            "incomeNconfPos11": 65000.0,
+            "incomeNconfPos12": 75000.0,
+            "incomeCcdNconf": 109284.538,
+            "outModelIncomeResult": 109284.538,
+            "minIncome": 26765.7,
+            "ptiIncomeConf": 70.0,
+            "mpConf": 0.0,
+            "mpNconfPos1": 58951.3,
+            "mpNconfPos2": 0.0,
+            "mpNconfPos3": 58951.3,
+            "mpNconfPos4": 58951.3,
+            "mpNconfPos5": 60000.1,
+            "mpNconfPos6": 60000.2,
+            "mpNconfPos7": 60000.3,
+            "mpNconfPos8": 60000.4,
+            "mpNconfPos9": 60000.5,
+            "mpNconfPos10": 60000.6,
+            "mpNconfPos11": 60000.7,
+            "mpNconfPos12": 60000.8,
+            "mpCcdNconf": 76499.1766,
+            "evk": 26443.38,
+            "epCard": 38705.294,
+            "evkMod": 0.0,
+            "epCardMod": 0.0,
+            "epMaxConf": 0.0,
+            "epMaxNconfPos1": 58951.3,
+            "epMaxNconfPos2": 0.0,
+            "epMaxNconfPos3": 58951.3,
+            "epMaxNconfPos4": 58951.3,
+            "epMaxNconfPos5": 60000.1,
+            "epMaxNconfPos6": 60000.2,
+            "epMaxNconfPos7": 60000.3,
+            "epMaxNconfPos8": 60000.4,
+            "epMaxNconfPos9": 60000.5,
+            "epMaxNconfPos10": 60000.6,
+            "epMaxNconfPos11": 60000.7,
+            "epMaxNconfPos12": 60000.8,
+            "epMaxCcdNconf": 76499.1766,
+            "epMax": 76499.1766,
+            "chosenIncome": 70000.0,
+            "chosenMp": 60000.1,
+            "chosenEpMax": 60000.1
+          },
+          "calcScore": {
+            "checkScore": 0,
+            "currentCs": [
+              {
+                "groups": [
+                  "Client_Salary_Macro"
+                ],
+                "type": "EMPLOYER",
+                "name": "Client_Salary",
+                "value": 1,
+                "financialConditions": true,
+                "mainProgramFlag": false,
+                "invalidationReasons": null,
+                "csEmployer": {
+                  "employerINN": "3446801853",
+                  "employerKPP": "344601001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [
+                  "Client_Salary_Macro"
+                ],
+                "type": "EMPLOYER",
+                "name": "Client_Salary",
+                "value": 1,
+                "financialConditions": 1,
+                "mainProgramFlag": false,
+                "invalidationReasons": null,
+                "csEmployer": {
+                  "employerINN": "3446801853",
+                  "employerKPP": "344601001",
+                  "employerType": "SecondJob"
+                }
+              },
+              {
+                "groups": [
+                  "Client_Credit_Macro"
+                ],
+                "type": "CLIENT",
+                "name": "Client_Credit",
+                "value": 1,
+                "financialConditions": 1,
+                "mainProgramFlag": false,
+                "invalidationReasons": null,
+                "csEmployer": null
+              }
+            ],
+            "score": 225,
+            "scoreBki": 221,
+            "cutOff": 225
+          },
+          "riskLimits": {
+            "riskLimitsCheckResult": "0",
+            "maxRiskLimitEkl": 3500000.0,
+            "maxRiskLimitEklCheckResult": null,
+            "maxRiskLimitPl": 3000000.0,
+            "maxRiskLimitPlCheckResult": null,
+            "maxRiskLimitCc": 80000.0,
+            "maxRiskLimitCcCheckResult": null,
+            "maxRiskLimitCcNc": 80000.0,
+            "maxRiskLimitCcNcCheckResult": null
+          },
+          "calcPdn": {
+            "checkPdn": 0,
+            "pdn": 167.5
+          },
+          "greyZoneForm": {
+            "greyZones": [
+              {
+                "gzReasonCode": "stub1",
+                "gzReasonValue": 1,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "Comp_Type_Big_empl,Pos_Other_Head,OPEN_MARKET,Comp_Rel_Corp,Comp_Type_OPK_Military_OKOGU,Comp_Type_Public_Servant_SPARK",
+                "gzRulesList": null
+              }
+            ]
+          },
+          "decisionForm": {
+            "checkEpMax": "NEXT_MICROSERVICE",
+            "checkSf": "NEXT_MICROSERVICE",
+            "checkRecheck": "NEXT_MICROSERVICE",
+            "checkNbki": null,
+            "checkEquifax": null,
+            "checkScore": "NEXT_MICROSERVICE",
+            "checkPdn": null
+          }
+        },
+        {
+          "formId": "L.761AI.1_tstAT",
+          "spark": [
+            {
+              "active": "3",
+              "addressCount": 2,
+              "cacheUse": 1,
+              "charterCapital": null,
+              "companySize": null,
+              "companyType": 1,
+              "created": "2023-04-19T05:27:24.000+00:00",
+              "dateFirstReg": "2009-11-20T00:00:00.000+00:00",
+              "egrulLicvidation": null,
+              "executed": "1905",
+              "fullNameOPF": "Федеральные государственные казенные учреждения",
+              "fullNameRus": "ФЕДЕРАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ «ЕДИНЫЙ РАСЧЕТНЫЙ ЦЕНТР МИНИСТЕРСТВА ОБОРОНЫ РОССИЙСКОЙ ФЕДЕРАЦИИ»",
+              "inn": "7714794048",
+              "isActing": "1",
+              "kpp": "770101001",
+              "managerCountInCountry": 1,
+              "managerCountInRegion": 1,
+              "okfs": "Федеральная собственность",
+              "okoguCode": "1313500",
+              "okoguName": "Министерство обороны Российской Федерации",
+              "okvedName": "Деятельность, связанная с обеспечением военной безопасности",
+              "periodName": null,
+              "profit": null,
+              "resultType": "TRUE",
+              "revenue": null,
+              "shortNameRus": "ФЕДЕРАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ «ЕДИНЫЙ РАСЧЕТНЫЙ ЦЕНТР МИНИСТЕРСТВА ОБОРОНЫ РОССИЙСКОЙ ФЕДЕРАЦИИ»",
+              "status": "Действующее",
+              "statusDate": "2023-04-19T00:00:00.000+00:00",
+              "telephoneCount": 1,
+              "workersRange": null,
+              "okvedCode": "84.22",
+              "employerIdForRkk": "121212",
+              "employmentKind": "MainJob"
+            },
+            {
+              "active": "5",
+              "addressCount": 5,
+              "cacheUse": 5,
+              "charterCapital": null,
+              "companySize": null,
+              "companyType": 5,
+              "created": "2023-04-19T05:27:24.000+00:00",
+              "dateFirstReg": "2009-11-20T00:00:00.000+00:00",
+              "egrulLicvidation": null,
+              "executed": "1905",
+              "fullNameOPF": "Федеральные государственные казенные учреждения",
+              "fullNameRus": "ФЕДЕРАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ «ЕДИНЫЙ РАСЧЕТНЫЙ ЦЕНТР МИНИСТЕРСТВА ОБОРОНЫ РОССИЙСКОЙ ФЕДЕРАЦИИ»",
+              "inn": "7714794048",
+              "isActing": "1",
+              "kpp": "770101001",
+              "managerCountInCountry": 1,
+              "managerCountInRegion": 1,
+              "okfs": "Федеральная собственность",
+              "okoguCode": "1313500",
+              "okoguName": "Министерство обороны Российской Федерации",
+              "okvedName": "Деятельность, связанная с обеспечением военной безопасности",
+              "periodName": null,
+              "profit": null,
+              "resultType": "TRUE",
+              "revenue": null,
+              "shortNameRus": "ФЕДЕРАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ «ЕДИНЫЙ РАСЧЕТНЫЙ ЦЕНТР МИНИСТЕРСТВА ОБОРОНЫ РОССИЙСКОЙ ФЕДЕРАЦИИ»",
+              "status": "Действующее",
+              "statusDate": "2023-04-19T00:00:00.000+00:00",
+              "telephoneCount": 1,
+              "workersRange": null,
+              "okvedCode": "84.22",
+              "employerIdForRkk": "55555",
+              "employmentKind": "SecondJob"
+            }
+          ],
+          "wsOpen": [
+            {
+              "egrip": null,
+              "egrul": {
+                "balanceYear": null,
+                "codeOkved": "84.22",
+                "created": "2023-04-21T07:08:58.000+00:00",
+                "dateExcerpt": "2022-11-18T00:00:00.000+00:00",
+                "dateOgrn": "2009-11-20T00:00:00.000+00:00",
+                "fullName": "ФЕДЕРАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ «ЕДИНЫЙ РАСЧЕТНЫЙ ЦЕНТР МИНИСТЕРСТВА ОБОРОНЫ РОССИЙСКОЙ ФЕДЕРАЦИИ»",
+                "fullNameOpf": "ФЕДЕРАЛЬНЫЕ ГОСУДАРСТВЕННЫЕ КАЗЕННЫЕ УЧРЕЖДЕНИЯ",
+                "infoAddress": {
+                  "nameRegion": "МОСКВА",
+                  "typeRegion": "ГОРОД",
+                  "nameDistrict": null,
+                  "typeDistrict": null,
+                  "nameCity": null,
+                  "typeCity": null,
+                  "nameTown": null,
+                  "typeTown": null,
+                  "nameStreet": "СПАРТАКОВСКАЯ",
+                  "typeStreet": "УЛ.",
+                  "house": "Д. 2Б",
+                  "corpus": null,
+                  "index": "105066",
+                  "kvart": null,
+                  "codeAdrKladr": "770000000000697",
+                  "codeRegion": "77",
+                  "signUnAuth": null
+                },
+                "infoFounders": {
+                  "founderFl": [],
+                  "founderUl": [
+                    {
+                      "fullName": "МИНИСТЕРСТВО ОБОРОНЫ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+                      "innUl": "7704252261",
+                      "percent": null,
+                      "signUnAuth": null
+                    }
+                  ],
+                  "founderUlIn": [],
+                  "founderSubRfMo": [],
+                  "founderPif": []
+                },
+                "infoManageAct": {
+                  "infoFlManage": [
+                    {
+                      "fioRus": "ЛОЩЕНОВА ОЛЬГА ВАСИЛЬЕВНА",
+                      "innFl": "645402114506",
+                      "signUnAuth": null
+                    }
+                  ],
+                  "infoUlManage": []
+                },
+                "inn": "7714794048",
+                "kpp": "770101001",
+                "nameLicTypeAct": [],
+                "nameNo": "ИНСПЕКЦИЯ ФЕДЕРАЛЬНОЙ НАЛОГОВОЙ СЛУЖБЫ № 1 ПО Г.МОСКВЕ",
+                "ogrn": "1097746734800",
+                "okogu": "1313500",
+                "profit": null,
+                "resResultType": 1,
+                "revenue": null,
+                "spravOpf": "ОКОПФ",
+                "statusCodeUl": "001",
+                "statusNameUl": "Действующее",
+                "sumCapital": null,
+                "versionOkved": "2014",
+                "employerIdForRkk": "121212",
+                "employmentKind": "MainJob"
+              }
+            },
+            {
+              "egrip": {
+                "codeOkved": "1313500",
+                "created": "2023-04-19T05:27:24.000+00:00",
+                "dateExcerpt": "2023-04-19T05:27:24.000+00:00",
+                "dateOgrnip": "2023-04-19T05:27:24.000+00:00",
+                "dateStopIP": "2023-04-19T05:27:24.000+00:00",
+                "fioRus": "Иванов Иван Иванович",
+                "innFl": "5010988989",
+                "nameNo": "Налоговая",
+                "statusCode": "1",
+                "statusName": "Действующее",
+                "resResultType": 1,
+                "employerIdForRkk": "8989",
+                "employmentKind": "SecondJob"
+              },
+              "egrul": null
+            }
+          ],
+          "salaryCalc": {
+            "aggSalaries": [],
+            "amtRetireeTotal": 0.0,
+            "amtRetireeSocial": null,
+            "amtRetireeWar": null,
+            "cntRetireSocialMth": null,
+            "cntWarRetireeMth": null
+          },
+          "clientSigns": {
+            "primaryCs": [
+              {
+                "groups": [
+                  "Client_Salary_Macro"
+                ],
+                "type": "CLIENT",
+                "name": "Pos_War_NIS",
+                "value": 1,
+                "financialConditions": true,
+                "invalidationReasons": [],
+                "mainProgramFlag": false,
+                "csEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                }
+              },
+              {
+                "groups": [
+                  "Client_Salary_Macro"
+                ],
+                "type": "CLIENT",
+                "name": "Client_Salary",
+                "value": 1,
+                "financialConditions": true,
+                "invalidationReasons": [],
+                "mainProgramFlag": false,
+                "csEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                }
+              },
+              {
+                "groups": [
+                  "Client_Salary_Macro"
+                ],
+                "type": "CLIENT",
+                "name": "Pos_No_Head",
+                "value": 1,
+                "financialConditions": true,
+                "invalidationReasons": [],
+                "mainProgramFlag": false,
+                "csEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                }
+              }
+            ],
+            "employeeWorkersCount": null,
+            "employeeWorkersSource": null,
+            "sumMaxZp": null,
+            "employeeRevenueAct": null,
+            "timeWithBankMonthsCount": null,
+            "timeWithBankCreditMonthsCount": null
+          },
+          "pureIncomeCalc": {
+            "avgConfIncomeCertificate": 0.0,
+            "filledMonthsCnt": null,
+            "incomeConf": 0.0,
+            "incomeNconfPos1": 85717.0,
+            "incomeNconfPos2": 0.0,
+            "incomeNconfPos3": 85717.0,
+            "incomeNconfPos4": 85717.0,
+            "incomeNconfPos5": 50000.0,
+            "incomeNconfPos6": 60000.0,
+            "incomeNconfPos7": 70000.0,
+            "incomeNconfPos8": 80000.0,
+            "incomeNconfPos9": 90000.0,
+            "incomeNconfPos10": 55000.0,
+            "incomeNconfPos11": 65000.0,
+            "incomeNconfPos12": 75000.0,
+            "incomeCcdNconf": 109284.538,
+            "mainIncome": 85717.0,
+            "sumZpTotal": 60000.0
+          },
+          "modelIncomeCalc": {
+            "outModelIncomeType": 2,
+            "outModelIncomeResult": 109284.538,
+            "minIncome": 26765.7,
+            "avgIncome": 30039.0
+          },
+          "stopFactorCheckRules": {
+            "stopFactors": [
+              {
+                "stopFactorCode": "stopFactorCheckRulesResult",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": null
+              },
+              {
+                "stopFactorCode": "kp_after_SF",
+                "stopFactorValue": null,
+                "stopFactorClientSignsList": "Comp_Type_OPK_Macro,Comp_Type_OPK_Macro_War,Comp_Type_OPK_Military_Lex,Comp_Type_OPK_Military_OKOGU,Comp_Type_Public_Servant_Macro,Comp_Type_Public_Servant_SPARK"
+              },
+              {
+                "stopFactorCode": "NATIONALITY",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "CHECK_BL_ADDRESS",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "AGE_MIN",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "CHECK_KI_MFO_AND",
+                "stopFactorValue": -1,
+                "stopFactorClientSignsList": ""
+              },
+              {
+                "stopFactorCode": "PUBLICAGREE",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "JOBCOUNTEMPLOYEES",
+                "stopFactorValue": -1,
+                "stopFactorClientSignsList": ""
+              },
+              {
+                "stopFactorCode": "QCC_REJECT",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "SF_EMPLOYER_HIGH_RISK",
+                "stopFactorValue": -1,
+                "stopFactorClientSignsList": ""
+              },
+              {
+                "stopFactorCode": "CHECK_BL_OKVED",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "SPARK_BNKRT_LQDT",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Type_Public_Servant_SPARK,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "WS_OPEN_BNKRT_LQDT",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Type_Public_Servant_SPARK,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "SF_FSSP_AS",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Type_Public_Servant_SPARK,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "AGE_MIN_2",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Client_New_To_Bank,Comp_Rel_Salary"
+              },
+              {
+                "stopFactorCode": "PHONES",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "JOBSENIORITY_TOTAL",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "ACTIVE_LOAN_PSB",
+                "stopFactorValue": -1,
+                "stopFactorClientSignsList": ""
+              },
+              {
+                "stopFactorCode": "CHECK_BKI_REQUESTS",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Type_Public_Servant_SPARK,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "CESSION",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "P0",
+                "stopFactorValue": -1,
+                "stopFactorClientSignsList": ""
+              },
+              {
+                "stopFactorCode": "GZ_LOW_LIMIT",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Type_Public_Servant_SPARK,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "CHECK_KI_MFO_OR",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Type_Public_Servant_SPARK,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "CHECK_BL_INN",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Type_Public_Servant_SPARK,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "JOBEMPLOYMENTTYPE",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "PHOTO_REQUIRED",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "JOBSENIORITY_LAST",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "DATAAGREE",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "OUTWARDCODE",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "CHECK_NKS_RULES",
+                "stopFactorValue": -1,
+                "stopFactorClientSignsList": ""
+              },
+              {
+                "stopFactorCode": "P30",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Type_Public_Servant_SPARK,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "MAXDELPERIODFORCHANGEPRODUCT",
+                "stopFactorValue": -1,
+                "stopFactorClientSignsList": ""
+              },
+              {
+                "stopFactorCode": "SF_UNDER_FSSP",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Type_Public_Servant_SPARK,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "LAST_RESTRUCT",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Type_Public_Servant_SPARK,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "CURDELAY",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Type_Public_Servant_SPARK,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "AGE_MAX",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "SF_STOP_CREDIT_SIGN",
+                "stopFactorValue": -1,
+                "stopFactorClientSignsList": ""
+              },
+              {
+                "stopFactorCode": "MININCOME",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "P90_R",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Type_Public_Servant_SPARK,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "P180_R",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Type_Public_Servant_SPARK,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "KP_12M",
+                "stopFactorValue": 0,
+                "stopFactorClientSignsList": "Comp_Type_Big_empl,Comp_Type_OPK_Military_OKOGU,Client_New_To_Bank,Comp_Type_Public_Servant_SPARK,Comp_Rel_Salary,Comp_Type_OPK_Military_Lex"
+              },
+              {
+                "stopFactorCode": "DEALPAYMENTMORECOUNT",
+                "stopFactorValue": -1,
+                "stopFactorClientSignsList": ""
+              }
+            ]
+          },
+          "liabilitiesMark": {
+            "hasLoansPpd": 1,
+            "hasLoansPki": 1,
+            "hasLoansCheckEnoughKi": 1,
+            "loansEvkMod": 0.0,
+            "loansEpCardMod": 0.0,
+            "loansEvk": 26443.38,
+            "loansEpCard": 38705.294,
+            "missedBkiCnt": 0,
+            "requestsMsb": 0,
+            "loansMsb": 0,
+            "liabilities": [
+              {
+                "contractNumber": "bbdc80d2-5a8e-4b0d-8ce6-589e0b34cd19",
+                "product": "7",
+                "loanSum": 0.0,
+                "loanTerm": null,
+                "payment": 0.0,
+                "interestRate": 0.0,
+                "openDate": "2020-03-11T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "isOwn": 0,
+                "isAvailableToRefin": 0,
+                "isActiveFlg": 0,
+                "hasLoanInCalculation": 0,
+                "irBki": null,
+                "evk": 0.0,
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "pskBki": 24.05,
+                "loanPpdCond1": 1,
+                "loanPpdCond2": null,
+                "loanPpdCond3": 1
+              },
+              {
+                "contractNumber": "ceb2802d-0e5d-4b96-8eb6-42fddc7457a5",
+                "product": "9",
+                "loanSum": 477504.0,
+                "loanTerm": 11,
+                "payment": 0.0,
+                "interestRate": 13.87,
+                "openDate": "2019-11-05T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "isOwn": 0,
+                "isAvailableToRefin": 0,
+                "isActiveFlg": 0,
+                "hasLoanInCalculation": 0,
+                "irBki": null,
+                "evk": 0.0,
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "pskBki": 13.87,
+                "loanPpdCond1": 1,
+                "loanPpdCond2": 0,
+                "loanPpdCond3": 1
+              },
+              {
+                "contractNumber": "f9e56f1d-ff78-458e-afde-bd8e20d43bc0",
+                "product": "9",
+                "loanSum": 262562.0,
+                "loanTerm": 7,
+                "payment": 0.0,
+                "interestRate": 11.78,
+                "openDate": "2020-02-19T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "isOwn": 0,
+                "isAvailableToRefin": 0,
+                "isActiveFlg": 0,
+                "hasLoanInCalculation": 0,
+                "irBki": null,
+                "evk": 0.0,
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "pskBki": 11.78,
+                "loanPpdCond1": 1,
+                "loanPpdCond2": 1,
+                "loanPpdCond3": 1
+              },
+              {
+                "contractNumber": "99c53d3a-998e-4ef8-b145-c6d788ed17dd",
+                "product": "9",
+                "loanSum": 150000.0,
+                "loanTerm": 84,
+                "payment": 0.0,
+                "interestRate": 12.89,
+                "openDate": "2021-10-18T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "isOwn": 0,
+                "isAvailableToRefin": 0,
+                "isActiveFlg": 0,
+                "hasLoanInCalculation": 0,
+                "irBki": null,
+                "evk": 0.0,
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "pskBki": 12.89,
+                "loanPpdCond1": 1,
+                "loanPpdCond2": 0,
+                "loanPpdCond3": 1
+              },
+              {
+                "contractNumber": "252e0a92-1c10-47bf-8b26-f9483c2e5c9a",
+                "product": "7",
+                "loanSum": 201000.0,
+                "loanTerm": null,
+                "payment": 19665.386,
+                "interestRate": 0.0,
+                "openDate": "2023-01-13T00:00:00.000+00:00",
+                "outstanding": 196653.86,
+                "isOwn": 0,
+                "isAvailableToRefin": 1,
+                "isActiveFlg": 1,
+                "hasLoanInCalculation": 1,
+                "irBki": null,
+                "evk": 0.0,
+                "epCard": 19665.386,
+                "evkMod": null,
+                "epCardMod": null,
+                "pskBki": null,
+                "loanPpdCond1": 1,
+                "loanPpdCond2": null,
+                "loanPpdCond3": 1
+              },
+              {
+                "contractNumber": "eb00de14-762f-4012-8308-7d89db041b2a",
+                "product": "9",
+                "loanSum": 265280.0,
+                "loanTerm": 24,
+                "payment": 0.0,
+                "interestRate": 10.74,
+                "openDate": "2021-10-24T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "isOwn": 0,
+                "isAvailableToRefin": 0,
+                "isActiveFlg": 0,
+                "hasLoanInCalculation": 0,
+                "irBki": null,
+                "evk": 0.0,
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "pskBki": 10.74,
+                "loanPpdCond1": 1,
+                "loanPpdCond2": 0,
+                "loanPpdCond3": 1
+              },
+              {
+                "contractNumber": "cef3ec03-897c-49b2-83b6-89401fdaf128",
+                "product": "9",
+                "loanSum": 224387.0,
+                "loanTerm": 34,
+                "payment": 0.0,
+                "interestRate": 13.71,
+                "openDate": "2021-11-13T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "isOwn": 0,
+                "isAvailableToRefin": 0,
+                "isActiveFlg": 0,
+                "hasLoanInCalculation": 0,
+                "irBki": null,
+                "evk": 0.0,
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "pskBki": 13.71,
+                "loanPpdCond1": 1,
+                "loanPpdCond2": 1,
+                "loanPpdCond3": 1
+              },
+              {
+                "contractNumber": "2fe42d90-ed8d-4bd0-8366-17632d7897b7",
+                "product": "9",
+                "loanSum": 687500.0,
+                "loanTerm": 60,
+                "payment": 15797.0,
+                "interestRate": 22.761,
+                "openDate": "2023-01-23T00:00:00.000+00:00",
+                "outstanding": 680424.83,
+                "isOwn": 0,
+                "isAvailableToRefin": 1,
+                "isActiveFlg": 1,
+                "hasLoanInCalculation": 1,
+                "irBki": null,
+                "evk": 15797.0,
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "pskBki": 22.761,
+                "loanPpdCond1": 1,
+                "loanPpdCond2": 0,
+                "loanPpdCond3": 1
+              },
+              {
+                "contractNumber": "f25ea327-73ba-4b12-996c-4e61f35fecbd",
+                "product": "7",
+                "loanSum": 260000.0,
+                "loanTerm": null,
+                "payment": 19039.908,
+                "interestRate": 0.0,
+                "openDate": "2022-12-11T00:00:00.000+00:00",
+                "outstanding": 190399.08,
+                "isOwn": 0,
+                "isAvailableToRefin": 1,
+                "isActiveFlg": 1,
+                "hasLoanInCalculation": 1,
+                "irBki": null,
+                "evk": 0.0,
+                "epCard": 19039.908,
+                "evkMod": null,
+                "epCardMod": null,
+                "pskBki": 25.344,
+                "loanPpdCond1": 1,
+                "loanPpdCond2": null,
+                "loanPpdCond3": 1
+              },
+              {
+                "contractNumber": "95a0b455-78cc-4623-b110-30978ca9eb9d",
+                "product": "9",
+                "loanSum": 270585.0,
+                "loanTerm": 17,
+                "payment": 0.0,
+                "interestRate": 9.99,
+                "openDate": "2021-05-31T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "isOwn": 0,
+                "isAvailableToRefin": 0,
+                "isActiveFlg": 0,
+                "hasLoanInCalculation": 0,
+                "irBki": null,
+                "evk": 0.0,
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "pskBki": 9.99,
+                "loanPpdCond1": 1,
+                "loanPpdCond2": 0,
+                "loanPpdCond3": 1
+              },
+              {
+                "contractNumber": "c8e1f676-132e-44a9-b6e3-fc481bb32a9b",
+                "product": "9",
+                "loanSum": 110000.0,
+                "loanTerm": 18,
+                "payment": 0.0,
+                "interestRate": 16.93,
+                "openDate": "2016-12-30T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "isOwn": 0,
+                "isAvailableToRefin": 0,
+                "isActiveFlg": 0,
+                "hasLoanInCalculation": 0,
+                "irBki": null,
+                "evk": 0.0,
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "pskBki": 16.93,
+                "loanPpdCond1": 1,
+                "loanPpdCond2": 1,
+                "loanPpdCond3": 1
+              },
+              {
+                "contractNumber": "d06ddce3-1b90-4934-8a3b-24f7de10caed",
+                "product": "9",
+                "loanSum": 105263.0,
+                "loanTerm": 8,
+                "payment": 0.0,
+                "interestRate": 13.79,
+                "openDate": "2018-07-27T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "isOwn": 0,
+                "isAvailableToRefin": 0,
+                "isActiveFlg": 0,
+                "hasLoanInCalculation": 0,
+                "irBki": null,
+                "evk": 0.0,
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "pskBki": 13.79,
+                "loanPpdCond1": 1,
+                "loanPpdCond2": 1,
+                "loanPpdCond3": 1
+              },
+              {
+                "contractNumber": "21e237de-b7e0-43bc-aaf2-a4589401bb94",
+                "product": "9",
+                "loanSum": 101867.0,
+                "loanTerm": 4,
+                "payment": 0.0,
+                "interestRate": 18.75,
+                "openDate": "2019-02-11T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "isOwn": 0,
+                "isAvailableToRefin": 0,
+                "isActiveFlg": 0,
+                "hasLoanInCalculation": 0,
+                "irBki": null,
+                "evk": 0.0,
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "pskBki": 18.75,
+                "loanPpdCond1": 1,
+                "loanPpdCond2": 0,
+                "loanPpdCond3": 1
+              },
+              {
+                "contractNumber": "921a6ba7-0462-4323-ab16-f1cbad7f770a",
+                "product": "7",
+                "loanSum": 0.0,
+                "loanTerm": null,
+                "payment": 0.0,
+                "interestRate": 0.0,
+                "openDate": "2018-07-27T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "isOwn": 0,
+                "isAvailableToRefin": 0,
+                "isActiveFlg": 0,
+                "hasLoanInCalculation": 0,
+                "irBki": null,
+                "evk": 0.0,
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "pskBki": 26.0,
+                "loanPpdCond1": 1,
+                "loanPpdCond2": null,
+                "loanPpdCond3": 1
+              },
+              {
+                "contractNumber": "568c0979-03cb-4dab-9118-acfae1d7eaee",
+                "product": "9",
+                "loanSum": 30322.0,
+                "loanTerm": 0,
+                "payment": 0.0,
+                "interestRate": 9.002,
+                "openDate": "2019-10-04T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "isOwn": 0,
+                "isAvailableToRefin": 0,
+                "isActiveFlg": 0,
+                "hasLoanInCalculation": 0,
+                "irBki": null,
+                "evk": 0.0,
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "pskBki": 9.002,
+                "loanPpdCond1": 1,
+                "loanPpdCond2": 0,
+                "loanPpdCond3": 1
+              },
+              {
+                "contractNumber": "91d0fc66-e274-4f9c-a18b-832ac17f3b4a",
+                "product": "9",
+                "loanSum": 558231.0,
+                "loanTerm": 22,
+                "payment": 0.0,
+                "interestRate": 13.71,
+                "openDate": "2021-11-10T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "isOwn": 0,
+                "isAvailableToRefin": 0,
+                "isActiveFlg": 0,
+                "hasLoanInCalculation": 0,
+                "irBki": null,
+                "evk": 0.0,
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "pskBki": 13.71,
+                "loanPpdCond1": 1,
+                "loanPpdCond2": 1,
+                "loanPpdCond3": 1
+              },
+              {
+                "contractNumber": "7c9142b2-a07b-4fd1-8d51-b2197bc28520",
+                "product": "7",
+                "loanSum": 0.0,
+                "loanTerm": null,
+                "payment": 0.0,
+                "interestRate": 0.0,
+                "openDate": "2021-12-12T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "isOwn": 0,
+                "isAvailableToRefin": 0,
+                "isActiveFlg": 0,
+                "hasLoanInCalculation": 0,
+                "irBki": null,
+                "evk": 0.0,
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "pskBki": 27.51,
+                "loanPpdCond1": 1,
+                "loanPpdCond2": null,
+                "loanPpdCond3": 1
+              },
+              {
+                "contractNumber": "eacf9b7f-fb21-4f1b-901a-2a0b69ba8ca8",
+                "product": "9",
+                "loanSum": 467914.0,
+                "loanTerm": 84,
+                "payment": 10646.38,
+                "interestRate": 20.567,
+                "openDate": "2023-01-20T00:00:00.000+00:00",
+                "outstanding": 461664.77,
+                "isOwn": 0,
+                "isAvailableToRefin": 1,
+                "isActiveFlg": 1,
+                "hasLoanInCalculation": 1,
+                "irBki": null,
+                "evk": 10646.38,
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "pskBki": 20.567,
+                "loanPpdCond1": 1,
+                "loanPpdCond2": 0,
+                "loanPpdCond3": 1
+              },
+              {
+                "contractNumber": "14ab9342-7320-47b6-8d9d-11fb4fa172a9",
+                "product": "9",
+                "loanSum": 350000.0,
+                "loanTerm": 41,
+                "payment": 0.0,
+                "interestRate": 18.94,
+                "openDate": "2015-09-28T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "isOwn": 0,
+                "isAvailableToRefin": 0,
+                "isActiveFlg": 0,
+                "hasLoanInCalculation": 0,
+                "irBki": null,
+                "evk": 0.0,
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "pskBki": 18.94,
+                "loanPpdCond1": 1,
+                "loanPpdCond2": 1,
+                "loanPpdCond3": 1
+              },
+              {
+                "contractNumber": "b6d4c70e-290a-4f0b-ae55-3917c21f7858",
+                "product": "7",
+                "loanSum": 97000.0,
+                "loanTerm": null,
+                "payment": 0.0,
+                "interestRate": 0.0,
+                "openDate": "2015-09-08T00:00:00.000+00:00",
+                "outstanding": 0.0,
+                "isOwn": 0,
+                "isAvailableToRefin": 0,
+                "isActiveFlg": 0,
+                "hasLoanInCalculation": 0,
+                "irBki": null,
+                "evk": 0.0,
+                "epCard": 0.0,
+                "evkMod": null,
+                "epCardMod": null,
+                "pskBki": 29.531,
+                "loanPpdCond1": 1,
+                "loanPpdCond2": null,
+                "loanPpdCond3": 1
+              }
+            ]
+          },
+          "epEpMax": {
+            "checkEpMax": 0,
+            "incomeConf": 0.0,
+            "incomeNconfPos1": 85717.0,
+            "incomeNconfPos2": 0.0,
+            "incomeNconfPos3": 85717.0,
+            "incomeNconfPos4": 85717.0,
+            "incomeNconfPos5": 50000.0,
+            "incomeNconfPos6": 60000.0,
+            "incomeNconfPos7": 70000.0,
+            "incomeNconfPos8": 80000.0,
+            "incomeNconfPos9": 90000.0,
+            "incomeNconfPos10": 55000.0,
+            "incomeNconfPos11": 65000.0,
+            "incomeNconfPos12": 75000.0,
+            "incomeCcdNconf": 109284.538,
+            "outModelIncomeResult": 109284.538,
+            "minIncome": 26765.7,
+            "ptiIncomeConf": 70.0,
+            "mpConf": 0.0,
+            "mpNconfPos1": 58951.3,
+            "mpNconfPos2": 0.0,
+            "mpNconfPos3": 58951.3,
+            "mpNconfPos4": 58951.3,
+            "mpNconfPos5": 60000.1,
+            "mpNconfPos6": 60000.2,
+            "mpNconfPos7": 60000.3,
+            "mpNconfPos8": 60000.4,
+            "mpNconfPos9": 60000.5,
+            "mpNconfPos10": 60000.6,
+            "mpNconfPos11": 60000.7,
+            "mpNconfPos12": 60000.8,
+            "mpCcdNconf": 76499.1766,
+            "evk": 26443.38,
+            "epCard": 38705.294,
+            "evkMod": 0.0,
+            "epCardMod": 0.0,
+            "epMaxConf": 0.0,
+            "epMaxNconfPos1": 58951.3,
+            "epMaxNconfPos2": 0.0,
+            "epMaxNconfPos3": 58951.3,
+            "epMaxNconfPos4": 58951.3,
+            "epMaxNconfPos5": 60000.1,
+            "epMaxNconfPos6": 60000.2,
+            "epMaxNconfPos7": 60000.3,
+            "epMaxNconfPos8": 60000.4,
+            "epMaxNconfPos9": 60000.5,
+            "epMaxNconfPos10": 60000.6,
+            "epMaxNconfPos11": 60000.7,
+            "epMaxNconfPos12": 60000.8,
+            "epMaxCcdNconf": 76499.1766,
+            "epMax": 76499.1766,
+            "chosenIncome": 71000.0,
+            "chosenMp": 60000.1,
+            "chosenEpMax": 60000.1
+          },
+          "calcScore": {
+            "checkScore": 0,
+            "currentCs": [
+              {
+                "groups": [
+                  "Client_Salary_Macro"
+                ],
+                "type": "EMPLOYER",
+                "name": "Client_Salary",
+                "value": 1,
+                "financialConditions": true,
+                "mainProgramFlag": false,
+                "invalidationReasons": null,
+                "csEmployer": {
+                  "employerINN": "3446801853",
+                  "employerKPP": "344601001",
+                  "employerType": "MainJob"
+                }
+              },
+              {
+                "groups": [
+                  "Client_Salary_Macro"
+                ],
+                "type": "EMPLOYER",
+                "name": "Client_Salary",
+                "value": 1,
+                "financialConditions": 1,
+                "mainProgramFlag": false,
+                "invalidationReasons": null,
+                "csEmployer": {
+                  "employerINN": "3446801853",
+                  "employerKPP": "344601001",
+                  "employerType": "SecondJob"
+                }
+              },
+              {
+                "groups": [
+                  "Client_Credit_Macro"
+                ],
+                "type": "CLIENT",
+                "name": "Client_Credit",
+                "value": 1,
+                "financialConditions": 1,
+                "mainProgramFlag": false,
+                "invalidationReasons": null,
+                "csEmployer": null
+              }
+            ],
+            "score": 225,
+            "scoreBki": 221,
+            "cutOff": 225
+          },
+          "riskLimits": {
+            "riskLimitsCheckResult": "0",
+            "maxRiskLimitEkl": 3500000.0,
+            "maxRiskLimitEklCheckResult": null,
+            "maxRiskLimitPl": 3000000.0,
+            "maxRiskLimitPlCheckResult": null,
+            "maxRiskLimitCc": 80000.0,
+            "maxRiskLimitCcCheckResult": null,
+            "maxRiskLimitCcNc": 80000.0,
+            "maxRiskLimitCcNcCheckResult": null
+          },
+          "calcPdn": {
+            "checkPdn": 0,
+            "pdn": 167.5
+          },
+          "greyZoneForm": {
+            "greyZones": [
+              {
+                "gzReasonCode": "stub1",
+                "gzReasonValue": 1,
+                "wzForced": null,
+                "gzReasonCriteriaType": null,
+                "gzReasonType": null,
+                "gzEmployer": {
+                  "employerINN": null,
+                  "employerKPP": null,
+                  "employerType": null
+                },
+                "gzClientSignsList": "Comp_Type_Big_empl,Pos_Other_Head,OPEN_MARKET,Comp_Rel_Corp,Comp_Type_OPK_Military_OKOGU,Comp_Type_Public_Servant_SPARK",
+                "gzRulesList": null
+              }
+            ]
+          },
+          "decisionForm": {
+            "checkEpMax": "NEXT_MICROSERVICE",
+            "checkSf": "NEXT_MICROSERVICE",
+            "checkRecheck": "NEXT_MICROSERVICE",
+            "checkNbki": null,
+            "checkEquifax": null,
+            "checkScore": "NEXT_MICROSERVICE",
+            "checkPdn": null
+          }
+        }
+      ],
+      "autoCheckRequests": {
+        "riskLimitsValidation": {
+          "checkLimit": 0
+        },
+        "greyZoneRequest": {
+          "greyZones": [
+            {
+              "gzReasonCode": "GZ_Criter_flg",
+              "gzReasonValue": 1,
+              "gzClientSignsList": null,
+              "gzRulesList": null
+            },
+            {
+              "gzReasonCode": "WZ_RULE_1",
+              "gzReasonValue": 0,
+              "gzClientSignsList": null,
+              "gzRulesList": null
+            }
+          ]
+        },
+        "decisionRequest": {
+          "checkLimit": null,
+          "checkEkl": null,
+          "checkL0": "NEXT_MICROSERVICE",
+          "checkSzCriteria": null,
+          "checkSz": "NEXT_MICROSERVICE",
+          "checkValidation": null,
+          "reworkType": null,
+          "reworkReason": null,
+          "rejectDescription": null,
+          "finalDecision": null,
+          "rejectName": null,
+          "factorCheckRules": null
+        }
+      },
+      "ekl": {
+        "initialOffer": {
+          "unifiedLimit": 2114000.0,
+          "loanInterestRate": 0.16,
+          "loanMaxAmount": 2114000.0,
+          "loanMaxTerm": 84,
+          "cardMaxLimit": null,
+          "cardMinPayment": null,
+          "loanMonthlyPayment": 41988.4,
+          "unallocatedAmount": null,
+          "cardSelectedLimit": null,
+          "loanSelectedTerm": null,
+          "isWithRefinancing": null,
+          "isWithInsurance": null,
+          "isCardDeclined": null,
+          "isLoanDeclined": null,
+          "loanSelectedAmount": null,
+          "outstandingAmount": null,
+          "monthlyPaymentBeforeRefinancing": null,
+          "monthlyPaymentAfterRefinancing": null,
+          "monthlyPaymentForConfirmedIncome": null,
+          "monthlyPaymentForUnconfirmedIncome": 42000.0,
+          "monthlyPaymentCCForUnconfirmedIncome": null,
+          "skp": [
+            {
+              "productCode": 1,
+              "brandID": 1006126,
+              "brandName": "ОПК",
+              "interestRate": 0.24,
+              "interestRateWithInsurance": 0.16,
+              "minPaymentRatio": 0.0,
+              "insuranceRate": 0.029,
+              "minProgramLimit": 100000.0,
+              "maxProgramLimit": 5000000.0,
+              "minProgramTerm": 12,
+              "maxProgramTerm": 84,
+              "documents": [
+                {
+                  "name": "2-НДФЛ",
+                  "isRequired": 0
+                },
+                {
+                  "name": "Справка по форме банка/работодателя",
+                  "isRequired": 0
+                },
+                {
+                  "name": "Выписка с зп карты стороннего банка",
+                  "isRequired": 0
+                },
+                {
+                  "name": "Выписка из ПФР",
+                  "isRequired": 0
+                },
+                {
+                  "name": "Пенсионное удостоверение",
+                  "isRequired": 0
+                },
+                {
+                  "name": "Выписка ПФР",
+                  "isRequired": 0
+                },
+                {
+                  "name": "Справка из военного комиссариата",
+                  "isRequired": 0
+                },
+                {
+                  "name": "Выписка с карты/счета в стороннем банке с пенсионными зачислениями",
+                  "isRequired": 0
+                }
+              ]
+            }
+          ]
+        },
+        "chosenOffer": {
+          "unifiedLimit": 2114000.0,
+          "loanInterestRate": 0.16,
+          "loanMaxAmount": 2114000.0,
+          "loanMaxTerm": 84,
+          "cardMaxLimit": null,
+          "cardMinPayment": null,
+          "loanMonthlyPayment": 41988.4,
+          "unallocatedAmount": 0.0,
+          "cardSelectedLimit": null,
+          "loanSelectedTerm": 84,
+          "isWithRefinancing": true,
+          "isWithInsurance": true,
+          "isCardDeclined": true,
+          "isLoanDeclined": false,
+          "loanSelectedAmount": 2114000.0,
+          "outstandingAmount": 0.0,
+          "monthlyPaymentBeforeRefinancing": 0.0,
+          "monthlyPaymentAfterRefinancing": 30371.93,
+          "monthlyPaymentForConfirmedIncome": null,
+          "monthlyPaymentForUnconfirmedIncome": null,
+          "monthlyPaymentCCForUnconfirmedIncome": null,
+          "skp": [
+            {
+              "productCode": 1,
+              "brandID": 1006126,
+              "brandName": "ОПК",
+              "interestRate": 0.24,
+              "interestRateWithInsurance": 0.16,
+              "minPaymentRatio": 0.0,
+              "insuranceRate": 0.029,
+              "minProgramLimit": 100000.0,
+              "maxProgramLimit": 5000000.0,
+              "minProgramTerm": 12,
+              "maxProgramTerm": 84,
+              "documents": [
+                {
+                  "name": "2-НДФЛ",
+                  "isRequired": 0
+                },
+                {
+                  "name": "Справка по форме банка/работодателя",
+                  "isRequired": 0
+                },
+                {
+                  "name": "Выписка с зп карты стороннего банка",
+                  "isRequired": 0
+                },
+                {
+                  "name": "Выписка из ПФР",
+                  "isRequired": 0
+                },
+                {
+                  "name": "Пенсионное удостоверение",
+                  "isRequired": 0
+                },
+                {
+                  "name": "Выписка ПФР",
+                  "isRequired": 0
+                },
+                {
+                  "name": "Справка из военного комиссариата",
+                  "isRequired": 0
+                },
+                {
+                  "name": "Выписка с карты/счета в стороннем банке с пенсионными зачислениями",
+                  "isRequired": 0
+                }
+              ]
+            }
+          ]
+        },
+        "finalOffer": null
+      }
+    }
+  ]
+}

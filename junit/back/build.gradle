@@ -1,0 +1,50 @@
+def testit_version ="1.2.4.2"
+//apply plugin: "test-retry"
+
+dependencies {
+
+    implementation "org.projectlombok:lombok:${lombokVersion}"
+    annotationProcessor "org.projectlombok:lombok:${lombokVersion}"
+    implementation group: 'io.rest-assured', name: 'rest-assured', version: '4.4.0'
+
+    implementation "ru.autotestframework.components:sql-steps:${coreversion}" //нужно для запросов к фейковой БД
+    //implementation 'org.jooq:jooq:3.13.3' - раскомментить на проекте
+    //implementation "ru.autotestframework.core:spring-core:${core_version}"
+
+    testImplementation "ru.psb.testit:testit-java-commons:$testit_version"
+    testImplementation "ru.psb.testit:testit-adapter-junit5:$testit_version"
+
+    //some extra
+    //testImplementation "io.qameta.allure:allure-assertj:$allure_version"
+    //implementation "io.qameta.allure:allure-hamcrest:$allure_version"
+    //implementation "io.qameta.allure:allure-junit5:$allure_version"
+    //implementation "io.qameta.allure:allure-junit5-assert:$allure_version"
+}
+
+configurations {
+    all {
+        exclude group: 'ch.qos.logback', module: 'logback-classic'
+    }
+}
+
+task junit5e2e(type: Test) {
+    doFirst {
+        useJUnitPlatform() {
+            includeTags("@backJunit")
+        }
+        systemProperty 'spring.profiles.active', 'local'
+        systemProperty 'junit.jupiter.extensions.autodetection.enabled', true
+    }
+}
+
+task junit5e2eParallel(type: Test) {
+    doFirst {
+        useJUnitPlatform() {
+            includeTags("@backJunit")
+        }
+        systemProperty 'spring.profiles.active', 'local'
+        systemProperty 'junit.jupiter.extensions.autodetection.enabled', true
+        systemProperty 'junit.jupiter.execution.parallel.enabled', true
+        systemProperty 'junit.jupiter.execution.parallel.config.fixed.parallelism', 4
+    }
+}

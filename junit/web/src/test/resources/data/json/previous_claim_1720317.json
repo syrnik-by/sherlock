@@ -1,0 +1,31 @@
+[
+  {
+    "birthDate": "1990-12-05T00:00:00.000+00:00",
+    "firstName": "Юрий",
+    "lastName": "Романов",
+    "middleName": "Иванович",
+    "clientId": "${{clientId}}",
+    "claimList": [
+      {
+        "isRKK": false,
+        "creditTypeOther": "Ипотечное кредитование",
+        "claimId": "CLL.1234567.0_vrfAT",
+        "claimDate": "2023-09-20T00:00:00.000+00:00",
+        "status": "Кредит разрешен",
+        "statusCode": "10",
+        "lcState": "Кредит разрешен. В архиве",
+        "employerName": "ПАО \"РОСТЕЛЕКОМ\"",
+        "employerTaxPayerNumber": "7714794049",
+        "monthlyIncome": 0,
+        "isUndCheck": true,
+        "undDecision": "Одобрение",
+        "isClaimDocExist": true,
+        "undComment": "Можно",
+        "incomeFormType": "ConfirmedIncomeForm17",
+        "documents": [
+          "270"
+        ]
+      }
+    ]
+  }
+]
